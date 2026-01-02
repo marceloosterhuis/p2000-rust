@@ -1,0 +1,514 @@
+A&A:Adviseur en Assistentie functionaris
+AB:Adembescherming(svoertuig)
+ABVV:Uitvoering onder de Algemene Berging en Vervoerscondities
+AC:Alarmcentrale (BRW)
+AC:Actiecentrum (gemeentelijke dienst)
+ACDT:Algemeen commandant
+ACP:Algemeen Christelijke Politiebond
+AE:Aanhoudingseenheid (politie)
+AG:Adviseur Gevaarlijke Stoffen (BRW)
+AGS:Adviseur Gevaarlijke Stoffen (BRW)
+AHV:Ambulance Hulpverlening
+AID:Algemene Inspectiedienst
+AIVD:Algemene Inlichtingen- en Veiligheidsdienst
+AL:Autoladder
+AMBU:Ambulance
+AMBU-team:Team van Ambulanceverpleegkundigen
+ANPV:Algemene Nederlandse Politievereniging
+APV:Algemene Plaatselijke Verordening
+ARB:Ambtenaar Rampenbestrijding
+AT:Arrestant
+AT:Arrestatieteam
+AVLS:Automatisch Voertuig Locatiesysteem
+AZ:Ambulancezorg
+AZC:Asielzoekerscentrum
+BBE-K:Bijzondere Bijstandseenheid Krijgsmacht
+BBE-M:Bijzondere Bijstandseenheid Korps Mariniers
+BBE-P:Bijzondere Bijstandseenheid Politie
+BBE-SIE:Bijzondere Bijstandseenheid Snelle Interventie Eenheid
+BBO:Basis Beroeps Opleiding
+BC:Bureauchef (van politie)
+BGM:Burgemeester
+BHV:Bedrijfshulpverlening
+BLS:Basic Life Support
+BO:Bijzondere opdracht 
+BOA:Buitengewone Opsporingsamtenaar
+BOD:Bureau Operationele Dienst
+BOS:Benzine, olie en smeermiddelen
+BOT:Bedrijfs opvang team
+BOT:Bijzonder Ondersteuningsteam (Justitie) (info op arrestatieteam.nl)
+BraTra:Brand en traangaseenheid (politie)
+BRV:Brandweervaartuig
+BRW:Brandweer
+BRZO:Besluitrisico Zware Ongevallen
+BSB:Brigade Speciale Beveiligingsopdrachten (KMAR)
+BTBE:Bijzondere Technische Bijstandseenheid (Politie)
+BTGV:Bijzondere Tactiek Gevaarlijke Verdachten (Politie)
+BUD:Bureau Uitvoerende Dienst (politie)
+BuZa:Burgerzaken
+BUZA:Ministerie van Buitenlandse zaken
+BVD:Bevelvoerder Van Dienst (BRW)
+BW:(afdeling) Bouwkundige werken
+B&W:(college van) Burgemeester en wethouders
+BWR:Brandweer
+BWT:(afdeling) Bouw- en woningtoezicht
+BIZA:Ministerie van Binnenlandse Zaken (oud)
+BZK:Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
+C2000:Communicatiesysteem hulpverleningsinstanties
+CADI:Zie KADI
+CB:Coördinerend burgemeester
+CBR:Centraal Bureau Rijbewijzen
+CBRN:Chemisch Biologisch Radiologisch Nucleair
+CBRN-e:Chemisch Biologisch Radiologisch Nucleair- explosieven
+CCB:Conflict- en Crisisbeheersing
+CC:Compagnie-commandant
+CCK:Calamiteiten Commando / Controle Kamer
+CdK:Commissaris van de Koningin
+CDT:Commandant (BRW)
+CE:Combinatie Eenheid (combinatie van TS en HV) (Brandweer)
+CHvD:Chef van Dienst
+CID:Criminelen Informatiedienst
+CIP:Concern Informatiemanagement Politie
+CMI:Centraal Meldpunt Incident Management
+CMK:Centrale Meldkamer
+CMV:Centraal Meldpunt Vrachtwagenberging
+COBA:# Coönatie Ongevalbestrijding Autosnelwegen (volgnummer 1 t/m 7 )
+COH:Commando Haakarmbak
+COPI:Coönatie Plaats Incident
+CORI:COBA voor spoorwegen
+CoRT:Commandant Rampterrein (Uitleg GRIP)
+COT:Instituut voor veiligheids- en crisimanagement
+CPA:Centrale post ambulancevervoer
+CP:Commando Post
+CPR:Calamiteitenplan Rail (Prorail)
+CRAS:Centraal registratiebureau afhandeling schade
+CRIB:Centraal registratie- en informatiebureau
+CRI:Centrale Recherche Informatiedienst
+CSR:Calamiteitenstaf Rain (Prorail)
+CTPI:Coördinatie-team plaats incident
+CT:Crashtender
+CvD:Commandant van Dienst
+CvDG:Commandant van Dienst Geneeskundig
+DA:Dienstauto
+DB:Dienstbus
+DCMR:Dienst Centraal Milieubeheer Rijnmond
+DECO:Decontaminatie
+DGVP:Dienst Geneeskundige Verzorging Politie
+DHV:Directe Hulpverlening (surveillancedienst politie)
+DIM:Detectie Identificatie en Monitoring team
+DJI:Dienst Justitië Inrichtingen
+DKDB:Dienst Koninklijke en Diplomatieke Beveiliging (politie)
+DKMARLV:Dienst Luchtvaart Koninklijke Marechaussee
+DLH:Dienst Levende Have
+DPA:Dompelpomp Aanhanger
+DP:Haakarmbak dompelpomp
+DPU:Dompelpomp Unit
+DTG:Datum-tijdgroep
+DV&O:Dienst Vervoer en Ondersteuning (Justitie)
+DVI:Disaster Victim Identification (=RIT)
+EBV:Extra beveiligd vervoer
+ECD:Economische Controledienst (FIOD-ECD) 
+EHAD:Eerste Hulp Aan Drenkelingen
+EHBI:Eerste Hulp Bij (milieu) Incidenten
+EHBO:Eerste Hulp Bij Ongevallen
+EHD:Eerstehulpdienst
+EHV:Eerstehulpverlening
+EOC:Opruimingscommando (luchtmacht)
+EOD:Explosieven Opruimingsdienst (landmacht)
+EWR:Energie- en Watervoorziening Rijnland (nutsbedrijf)
+EZ:(ministerie van) Economische Zaken
+FDN:Federatie Dierenambulances Nederland
+FEZ:Afdeling financiën en economische zaken
+FIOD:Fiscale Inlichtingen- en Opsporingsdienst (FIOD-ECD)
+GAC:Gemeenschappelijk actiecentrum
+GAGS:Gezondheidskundig Adviseur Gevaarlijke Stoffen (GHOR)
+GB:Grote Brand
+GBO:Groep Bijzondere Opdrachten (politie)
+GBT:Gemeentelijk beleidsteam = gemeentelijke crisisstaf
+GBT:Gemeentelijk Beleidsteam
+GCC:Gemeentelijk Coönatiecentrum 
+GCC:Gemeentelijk coördinatiecentrum
+GCS:Gemeentelijke crisisstaf
+GCVD:Geneeskundige commandant van dienst
+GG&GD:Gemeentelijke Geneeskundige en Gezondheidsdienst
+GGD:Gemeenschappelijke geneeskundige dienst
+GGD:Gemeentelijke Geneeskundige Gezondheidsdienst
+GGZ:Geestelijke Gezondheidszorg
+GHOR:Geneeskundige hulpverlening bij ongevellan en rampen
+GIS:Gemeenschappelijk Informatiesysteem
+GM:Gereedschap / Materiaalwagen
+GMC:Gemeenschappelijke Meldcentrale 
+GMK:Gemeenschappelijke Meldkamer
+GMS:Geïegreerd Meldkamersysteem
+GN:Gewondennest
+GNK:Geneeskundig
+GOR:Generieke Operationele Regeling (Prorail)
+GRIP:Gecoöneerde Regionale Incidentenbestrijdingsprocedure
+GSD:Gemeentelijke sociale dienst
+GSH:Gevaarlijke Stoffen Haakarmbak
+GSO:Grootschalig Optreden
+HA:Haakarm chassis (voertuig)
+HALT:Het Alternatief
+HAP:Huisartsenpost
+HDL:Handhavingsdienst Luchtvaart (MINVWS)
+HGA:Hoofd geneeskundige aangelegenheden
+HIvD:Hoofdinspecteur van dienst
+HKS:Herkenningssysteem
+HOD:Hoofdofficier van Dienst
+HOVD:Hoofdofficier van Dienst
+HOvJ:Hoofdofficier van Justitie
+HOvJ:Hulpofficier van justitie
+HRB:Hoog Risico Beveiliging (KMAR)
+HRH:Hulpverleningsregio Haaglanden
+HS-GHOR:Hoofd Sectie GHOR
+HTT:Helikopter Traumateam (traumahelikopter)
+HVH:Hulpverleningshaakarmbak (BRW)
+HV:Hulpverleningsvoertuig
+HW:Hoogwerker
+IBT:Intern Bijstandsteam (Justitie)
+ICMS:Intensivering Civiel Militaire Samenwerking
+ILM:Interim Landelijk Mobilofoonnet
+IM:Incident Management
+IND:Immigratie & Naturalisatiedienst
+ISC:ICT- Service Coöatie Politie Justitie en Veiligheid
+ITO:Informatie en Communicatie Technologie Organisatie (tegenwoordig:ISC)
+JZZ:Jeugd- en Zedenzaken (politie)
+KADI:Kantinedienst
+KB:Kleine brand
+KC:Korpschef (van politie)
+KLPD-DSRT:KLPD Dienst Specialistische Recherche Toepassingen
+KLPD-DTOO:KLPD Dienst Technische Operationele Ondersteuning (nu KLPD DSRT)
+KLPD:Korps Landelijke Politiediensten
+KLu:Koninklijke Luchtmacht
+KMAR:Koninklijke Marechaussee
+KMC:Korps Mobiele Colonnes
+KNAC:Koninklijke Nederlandse Automobielclub
+KNBRD:Koninklijke Nederlandse Bond tot het Redden van Drenkelingen
+KNRM:Koninklijke Nederlandse Reddingsmaatschappij
+KR:Kraanwagen
+KTS:Korte Termijn Schengen (mobilofoonnet t.b.v. korte grensoverschrijdende acties)
+KWC:Kustwachtcentrum
+LBB:Landelijke Bijzondere Bijstand
+LBB:Landelijke Bijzondere Bijstandseenheid (Justitie)
+LBK:Leiding buiten kantooruren (politie)
+LBT:Landelijk Bijstandsteam Terreurbestrijding
+LMR:Leidraad Maatramp (BIZA)
+LNV:(ministerie van) Landbouw, Natuurbeheer en Visserij
+LOKS:Logistiek Organisatie Kwaliteit en Spoorwegveiligheid (Prorail)
+LOP:Leidraad Operationele Prestaties (BIZA)
+LOTT:(Stichting) Landelijke Organisatie Trauma Teams
+LP:Logistiek Piket (BRW)
+LSOP:Landelijke Selectie- en Opleidingsinstituut Politie
+LUPO:Luchthavenpolitie (oud, nu DKMARLV)
+LVBT:Landelijk Verkeersbijstandsteam (KLPD)
+MAA:Medical Air Assistance (traumaheli's ANWB)
+MarBat:Marechaussee Bataljon (KMAR)
+MB:Middelbrand
+MB:Middelen en Burgerzaken, sector
+MBV:Minimaal beveiligd vervoer
+MCU:Mobiele Communicatie / Commando Unit
+MDO:Multidisciplinair Overleg
+MDT:Mobiele Dataterminal
+MDW:Maatschappelijke dienstverlening en woonzaken, afdeling
+ME:Mobiele Eenheid (politie)
+MF:Multifunctionele Haakarmbak (BRW)
+MINDEF:Ministerie van Defensie
+MINVWS:Ministerie van Verkeer en Waterstaat
+MIVD:Militaire Inlichtingen- en Veiligheidsdienst
+MK:Meldkamer
+ML:Medisch leider
+MMK:Mobiele meldkamer (van politie)
+MMT:Mobiel medisch team (trauma team)
+MMZ:Medewerker Maatschappelijke Zorg
+MOB:Medische Ondersteuning Brandweer
+MOB:Mobilofoon
+MPT:Maritime Police Team (info op arrestatieteam.nl)
+MSA:Motorspuitaanhanger (BRW)
+MS:Motorspuitaanhanger (BRW)
+MUG:Medische Urgentiegroep (BelgiëM)
+MUH:Medische Urgentie Heli (traumahelikopter)
+MZ:Maatschappelijke Zaken, sector
+NATRES:Nationale Reserve
+NBDC:Nationaal Brandweer Documentatie Centrum
+NB:Nader bericht
+nb:niet bekend
+NCC:Nationaal Coönatiecentrum (Uitleg GRIP)
+NCC:Nationaal Coördinatiecentrum (alle departementen)
+NCIPS:Nederlands Centrum voor Internationale Politiesamenwerking
+NFC:Nederlandse Frequentie Commissie
+NFI:Nederlands Forensisch Instituut
+NIBRA:Kennisinstituut voor brand- en rampenbestrijding
+NLA:Nederlandse Luchtvaartautoriteit (MINVWS)
+NNet:Nationaal noodnet
+NPA:Nederlandse Politieacademie
+NPB:Nederlandse Politiebond
+NPI:Nederlands Politie Instituut
+NRK:Nederlandse Rode Kruis
+NS:Nederlandse Spoorwegen
+NS:Nederlandse Spoorwegen
+NVBR:Nederlandse Vereniging voor Brandweerzorg en Rampenbestrijding
+NVC:Nationaal Voorlichtings Centrum
+OBP:Operationeel basisplan
+OC:Operationeel Coönator
+OCW:(ministerie van) Onderwijs, Cultuur en Wetenschappen
+OD:Officier van Dienst (ook OvD)
+OGS:Ongevalsbestrijding gevaarlijke stoffen
+OGS:Optische- en Geluidssignalen (ook wel "optische- en akoestische signalen" of "toeters en bellen")
+OHD:Overheidshulpdiensten
+OL:Operationeel leider
+omac:operationeel medewerker actiecentrum
+OM:Openbaar Ministerie
+OMS:Openbaar Meldsysteem 
+OPCDT:Operationeel commandant
+OPS:Opsporingssysteem (politie)
+OR:Operationele Coördinatie
+OSC:On Scene Commander
+OSP:Ondersteuningspeloton
+OST:Ondersteuning
+OTH:Ontsmettings Haakarmbak 
+OT:Observatieteam (politie)
+OvBGM:Overleg van burgemeesters
+OvDB:Officier van dienst Brandweer
+OvDG:Officier van dienst Geneeskundig
+OvD:Officier van Dienst
+OvDP:Officier van dienst Politie
+OvDRail:'Officier van dienst' ProRail
+OvJ:Officier van Justitie
+P2000:Pagersysteem
+PA:Personenauto
+PawPel:Pantserwagen Peloton (KMAR)
+PawPo:Pantserwagen Peloton (KMAR)
+PBM:Persoonlijke Beschermingsmiddelen
+PB:Poederblusvoertuig
+PCC:Provinciaal coördinatie centrum
+PC:Pelotonscommandant
+PD:Plaats Delict
+PG:Procureur Generaal
+PID:Politie Informatiedienst
+PI:Plaats Incident
+PIT:Surveillancedienst politie
+PLD:Politie Luchtvaartdienst (KLPD)
+PMC:Provinciaal Militair Commando
+PMK:Politie Meldkamer
+PM:Personeel / Materieelwagen
+POL:Politie
+PORTO:Portofoon
+PRS:Provinciale rampenstaf
+PT:Portofoon
+PVD:Politie Verbindingsdienst
+PV:Proces Verbaal
+RAC:Regionale alarmcentrale
+RAG:Recherche Assistentiegroep
+RAVAA:Regionale ambulancevoorziening Agglometrie Amsterdam-Amstelland
+RAV:Regionale ambulancevoorziening
+RAV:Regionale Ambulance Voorziening
+RBO:Rampenbestrijdings-organisatie
+RBP:BRZO Rampenbestrijdingsplan Besluit Rampen en Zware Ongevallen
+RBP:LPG Rampenbestrijdingsplan LPG
+RBP:NH3 Rampenbestrijdingsplan NH3 (ammoniak)
+RB:Reddingsbrigade
+RBT:Railbeleidsteam (Prorail)
+RBT:Regionaal beleidsteam
+RBV:Regulier beveiligd vervoer
+RCC:Regionaal coördinatiecentrum
+RCDT:Regionaal Commandant (BRW)
+RCvD:Regionaal commandant van dienst
+RDW:Rijksdienst Wegverkeer
+REC:Regionale Expertisecentra
+RGF:Regionale Geneeskundige Functionaris
+RGO:Rampenbestrijding en Grootschalig Optreden
+RHH:Reddingshonden Hulpdienst Holland
+RHWW:Reddingshonden Werkgroep Westervoort
+RHWZ:Reddingshonden Werkgroep Zeeland
+RIAGG:Regionaal Instituut voor Ambulante Geestelijke Gezondheidszorg (» GGZ)
+RIB:Rigid Inflateable Boot (= speedboot)
+RIT:Rampen identificatie team (politie)
+RIVM:Rijksinstituut voor Volksgezondheid en Milieuhygiëne
+RIV:Rapid Intervention Vehicle
+RLD:Rijksluchtvaartdienst
+RMC:regionaal militair commando
+RN:Reddingsbrigades Nederland
+ROC:Regionaal Operationeel Centrum
+ROGS:Regionale deskundige Ongevalsbestrijding Gevaarlijke Stoffen
+ROOW:(sector) Ruimtelijke Ordening en Openbare Werken
+ROT:Regionaal Ondersteuningsteam
+RT:Rampterrein
+RVD:Rijksvoorlichtingsdienst
+RVHT:Regionaal Verkeers-handhavingsteam (politie)
+RVI:Rijksverkeersinspectie
+RWS:Rijkswaterstaat
+SAR:Search And Resque
+SBB:Staatsbosbeheer
+SB:Schuimblusvoertuig
+SEH:Spoedeisende Hulp
+SIGMA:Snel Inzetbare Groep ter Medische Assistentie
+SITRAP:Situatie-rapport
+SL:Slangenwagen
+SOB:Stafofficier Operatiën Brandweer
+SO:Stafofficier
+SPB:Schuim- / Poederbluswagen (BRW)
+SPEC(-container):Haakarmbak Speciaal huplverleningsgereedschap
+SPOPO:Spoorwegpolitie (KLPD)
+SP:Haakarmbak speciaal
+SVSD:Stormvloed seindienst
+SWAB:Samen Werken Aan Bereikbaarheid (spitsteams politie)
+SZW:(ministerie van) Sociale Zaken en Werkgelegenheid
+TAS:Tankautospuit
+TAWA:Tankwagen (BRW)
+TEV:Team Explosieven Verkenning
+THV:Technische Hulpverlening
+THW:Technisches Hilfswerk
+TIM:zie TIS
+TIS:Trein incident scenario (voorheen TIM)
+TML:Toegevoegd medisch leider
+TNO:Toegepast Natuurwetenschappelijk Onderzoek
+TOD:Technische Ongevallendienst (=VOA)
+TO:tegenover
+TR:Technische Recherche
+TS:Tankautospuit
+TW:Tankwagen
+UGS:Uitgangsstelling
+USAR:Urban Search and Rescue (team)
+VAG:Vaardigheden Aanhoudingen in Groepsverband (politie)
+VBB:Vereniging Belangstellenden Brandweerwezen
+VBB:Vereniging Bergers Belangen
+VBS:Nederlandse Vereniging van Bergingsspecialisten
+VC:Verbinding- Commandovoertuig
+VC1:Verbinding- Commandovoertuig (groot)
+VC2:Verbinding- Commandovoertuig (normaal regionaal model)
+VC3:Verbinding- Commandovoertuig (OVD-voertuig)
+VCK:Verkeers Commando / Controle Kamer
+VCU:Verbindings Commando Unit
+VD:Verbindingsdeskundige van Dienst (BRW)
+VG:Verzamelplaats gewonden
+VHD:Verzekeraars Hulpdienst
+VMHP:Vereniging van Middelbare en Hogere Politieambtenaren
+VOA:Verkeersongevallen Analyse (=TOD)
+VORAMP:Aanduiding van de commissie Voorlichting Grootschalige Incidenten en
+VPO:Verlaten Plaats Ongeval (vb:doorrijden na aanrijding)
+VROM:(ministerie van) Volkhuisvesting, Ruimtelijke Ordening en Milieubeheer
+VVD:Voorlichter van dienst
+V&W:(ministerie van) Verkeer en Waterstaat
+VW:Vrachtwagen
+VWS:(ministerie van) Volksgezondheid, Welzijn en Sport
+WA:Waarschuwingsadres
+WAN:WAN-gegevens = verzekeringsgegevens
+WC:Winkelcentrum
+WGHOR:Wet Geneeskundige Hulpverlening bij Ongevallen en Rampen
+WO:Waterongevallenwagen
+WRB:Wassenaarse Reddingsbrigade
+WRZO:Wet rampen en zware ongevallen.
+WVD:Waarschuwings- en Verkenningsdiensten
+WvS:Wetboek van Strafrecht
+X-pol:Landelijk Systeem Proces Verbaal
+ZAUSTAT:Ziekenauto station
+Re:Rechts
+A0:hoogste spoed
+A1:spoed, met sirene/zwaailicht, <15 min ter plaatse
+A2:zonder sirene/zwaailicht, <30 min ter plaatse
+B:geen spoed
+B1:geen spoed
+B2:geen spoed
+AB:Adembescherming
+ABH:Adembeschermingshaakarmbak
+ABM:Automatische brand melding
+AC:Alarmcentrale
+AGS:Adviseur gevaarlijke stoffen
+AL:Autoladder
+AS:Autospuit
+AZC:Asielzoekerscentrum
+BST:benzinestation
+CAFS:Compressed Air Foam System
+COH:commandohaakarmbak
+CPA:Centrale Post Ambulancevervoer
+CT:crashtender
+DA:Dienstauto
+DB:Dienstbus
+DECO:decontaminatie unit wordt ingezet bij een incident met gevaarlijke stoffen
+DPH:dompelpomp
+GK:grote kraan
+GMK:Gemeenschappelijke meldkamer
+GRIP 1:Bronbestrijding. Incident van beperkte afmetingen. Afstemming tussen de verschillende disciplines nodig.
+GRIP 2:Bron- en effectbestrijding. Incident met duidelijke uitstraling naar de omgeving.
+GRIP 3:Bedreiging van het welzijn van (grote groepen van) de bevolking binnen één gemeente.
+GRIP 4:Gemeentegrensoverschrijdend en/of dreiging van uitbreiding en/of mogelijk schaarste aan primaire levensbehoeften of andere zaken.
+Grip:Gecoördineerde Regionale Incidentbestrijdings Procedure
+GS:Gevaarlijke stoffen
+GVT:Gezinsvervangend tehuis
+HA:Haakarmvoertuig
+HAB:Haakarmbak
+HOvD:Hoofdofficier van Dienst
+HsVD:Hoofd Sectie van Dienst
+HV:Hulpverleningsvoertuig of Hulpverlening
+HVH:hulpverleningsbak
+HW:Hoogwerker
+KDV:Kinderdagverblijf
+KK:kleine kraan
+MK:Meldkamer
+MMT:Mobiel Medisch Team
+mobi:Mobilofoon
+NB:of n.b.:Nader bericht (opschaling of brand meester)
+OGS:Ongeval met gevaarlijke stoffen
+OMS:Openbaar meldsysteem
+OvD:Officier van Dienst
+p.auto:Personenauto
+PAC:Particuliere alarmcentrale
+PKG:Parkeergarage
+PKP:Parkeerplaats (langs snelweg)
+PM:Personeel- en materieelvoertuig
+porto:Portofoon
+RAC:Regionale alarmcentrale
+re:rechts (hectometerpaal langs snelweg of een oever van een waterweg, gezien met de stroomrichting mee)
+ROGS:Regionaal officier gevaarlijke stoffen
+SB:Schuimblusvoertuig
+SL:Slangenwagen
+SPW:Spoorweg
+TAS:Tankautospuit
+TS:Tankautospuit
+TIS 1.1:Vertraging van meer dan 5 minuten.    
+TIS 1.2:Langer dan 30 minuten treinuitval en vertraging.    
+TIS 1.3:Totale versperring. Treindienst niet meer uitvoerbaar.    
+TIS 1.4:Totale versperring. Treindienst niet meer mogelijk in minimaal een post of druk knooppunt.
+TIS 2.1:Brand op het spoor.    
+TIS 2.2:Kleine brand in trein of op station.    
+TIS 2.3:Grote brand trein.    
+TIS 2.4:Grote brand station of tunnel.
+TIS 3.1:Aanrijding trein met persoon, vee, (brom-)fietser, infra-element.    
+TIS 3.2:Aanrijding trein met rangeerdeel, klein wegvoertuig.    
+TIS 3.3:Ontsporing met slachtoffers of aanrijding met trein, groot wegvoertuig. Waardoor wagenstellen niet vervormd, gekanteld of gestapeld zijn.    
+TIS 3.4:Ontsporing met slachtoffers of aanrijding met trein, groot wegvoertuig. Waardoor wagenstellen vervormd, gekanteld of gestapeld zijn.
+TIS 4.1:Incident met gevaarlijke stoffen waarbij het gevaar zich beperkt tot het brongebied.
+TIS 4.2:Brand waarbij gevaarlijke stoffen betrokken zijn.
+TIS 4.3:Gas ontsnapping met gevaar voor de gezondheid buiten het brongebied.
+TIS 4.4:Morsing of lekkage van gevaarlijke vloeistoffen met gevaar voor gezondheid buiten het brongebied.
+TIS 5.1:Anonieme bommelding, verdacht gedrag of voorwerp.
+TIS 5.2:Verdacht voorwerp, bomvinding in trein.
+TIS 5.3:Verdacht voorwerp, bomvinding in trein op station of tunnel.
+TIS 5.4:Bomexplosie in trein, station of tunnel.
+TST:Tankstation of toestel (of test)
+UGS:Uitgangsstelling
+v.auto:Vrachtauto
+VBW:Verbindingsweg (tussen twee snelwegen)
+VC-2:Verbindings/Commandowagen klein
+VC:Verbindings- en Commandovoertuig
+VKO:Verkeersongeval
+VOS 1:Pan Pan Call, een waarschuwing van de piloot dat er iets niet in orde is, kan van alles zijn.
+VOS 2:May Day Call, een waarschuwing dat er een serieus probleem is, minder dan 50 passagiers.
+VOS 3:May Day Call, een waarschuwing dat er een serieus probleem is, tussen 50 - 250 passagiers.
+VOS 4:May Day Call, een waarschuwing dat er een serieus probleem is, meer dan 250 passagiers.
+VOS 5:Crash minder dan 50 passagiers.
+VOS 6:Crash tussen 50 - 250 passagiers.
+VOS 7:Crash meer dan 250 passagiers.
+VPK:Verpleegkundige
+WO:Waterongevallen-voertuig
+WTH:watertankhaakarmbak
+WTS:of GWT:Watertransportsysteem (of Groot WaterTransport) 1000 - 3000 m brandslang met een diameter van 150mm
+WTS:Watertransportsysteem
+WZC:Woonzorgcentrum
+P1:(Prioriteit 1), Hoogste spoed. Voorrangsvoertuig, gebruik van zwaailicht én sirene. 
+P2:(Prioriteit 2), Gepaste spoed. Met zwaailichten, maar zonder sirene. Mag bepaalde verkeersregels overtreden 
+P3:(Prioriteit 3), Normale urgentie. Geen zwaailichten, geen sirene, geen verkeersvrijstellingen.
+BR:Brandweer
+BRT-01:gespreksgroep 1
+BRT-02:gespreksgroep 2
+BRT-03:gespreksgroep 3

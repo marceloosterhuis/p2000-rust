@@ -12,3 +12,4 @@ chrono = { version = "0.4", features = ["serde"] }
 regex = "1"
 anyhow = "1"
 thiserror = "1"
+csv = "1.3"

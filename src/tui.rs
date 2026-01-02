@@ -11,7 +11,7 @@ use ratatui::{
 };
 use std::io;
 
-use crate::parser::P2000Message;
+use crate::{location::LocationLookup, lookup::Lookup, parser::P2000Message};
 
 pub struct AppState {
     pub messages: Vec<P2000Message>,
@@ -102,12 +102,16 @@ impl AppState {
 
 pub struct App {
     pub state: AppState,
+    lookup: Lookup,
+    location_lookup: LocationLookup,
 }
 
 impl App {
-    pub fn new(messages: Vec<P2000Message>) -> Self {
+    pub fn new(messages: Vec<P2000Message>, lookup: Lookup, location_lookup: LocationLookup) -> Self {
         App {
             state: AppState::new(messages),
+            lookup,
+            location_lookup,
         }
     }
 
@@ -216,19 +220,35 @@ impl App {
 
         // Detail view
         if let Some(msg) = self.state.selected_message() {
+            let capcodes_display = self
+                .format_capcodes(msg)
+                .unwrap_or_else(|| msg.capcodes.join(", "));
+
+            let abbrev_display = self.format_abbreviations(msg);
+
+            // Search for place names in the full message (content + location)
+            let full_text = format!("{} {}", msg.location, msg.content);
+            let location_display = self
+                .location_lookup
+                .find_location_by_text(&full_text)
+                .map(|found| self.location_lookup.format_found_location(&found))
+                .unwrap_or_else(|| msg.location.clone());
+
             let detail_text = format!(
                 "Priority: {:?} | Code: {:?} | Location: {}\n\
                 Timestamp: {} | Type: {} | Freq: {}\n\
                 Radio Addr: {} | Capcodes: {}\n\
+                Abbreviations: {}\n\
                 Content: {}",
                 msg.priority,
                 msg.incident_code,
-                msg.location,
+                location_display,
                 msg.timestamp.format("%Y-%m-%d %H:%M:%S"),
                 msg.message_type,
                 msg.frequency,
                 msg.radio_address,
-                msg.capcodes.join(", "),
+                capcodes_display,
+                abbrev_display,
                 msg.content
             );
 
@@ -253,9 +273,85 @@ impl App {
             .style(ratatui::style::Style::default().fg(ratatui::style::Color::Cyan));
         f.render_widget(help, chunks[2]);
     }
+
+    fn format_capcodes(&self, msg: &P2000Message) -> Option<String> {
+        let mut parts = Vec::new();
+        for code in &msg.capcodes {
+            if let Some(info) = self.lookup.resolve_capcode(code) {
+                let mut segment = String::new();
+                if !info.description.is_empty() {
+                    segment.push_str(&info.description);
+                } else if !info.short.is_empty() {
+                    segment.push_str(&info.short);
+                }
+                if !info.place.is_empty() {
+                    if !segment.is_empty() {
+                        segment.push_str(" - ");
+                    }
+                    segment.push_str(&info.place);
+                }
+                if segment.is_empty() {
+                    segment.push_str(&info.code);
+                }
+                parts.push(segment);
+            }
+        }
+        if parts.is_empty() {
+            None
+        } else {
+            Some(parts.join(", "))
+        }
+    }
+
+    fn format_abbreviations(&self, msg: &P2000Message) -> String {
+        let mut seen = std::collections::HashSet::new();
+        let mut expansions = Vec::new();
+
+        // Pre-tokenize once and keep cleaned tokens
+        let raw_tokens: Vec<String> = msg
+            .content
+            .split_whitespace()
+            .map(|raw| raw.trim_matches(|c: char| !c.is_alphanumeric() && c != '&').to_string())
+            .filter(|t| !t.is_empty())
+            .collect();
+
+        let mut i = 0;
+        while i < raw_tokens.len() {
+            let token = &raw_tokens[i];
+
+            // Direct match
+            if let Some(exp) = self.lookup.expand_abbreviation(token) {
+                if seen.insert(token.clone()) {
+                    expansions.push(format!("{}: {}", token, exp));
+                }
+            }
+
+            // Combined match with next token (e.g., "P" + "1" => "P1")
+            if i + 1 < raw_tokens.len() {
+                let combined = format!("{}{}", token, raw_tokens[i + 1]);
+                if let Some(exp) = self.lookup.expand_abbreviation(&combined) {
+                    if seen.insert(combined.clone()) {
+                        expansions.push(format!("{}: {}", combined, exp));
+                    }
+                }
+            }
+
+            i += 1;
+        }
+
+        if expansions.is_empty() {
+            "-".to_string()
+        } else {
+            expansions.join("; ")
+        }
+    }
 }
 
-pub async fn run_tui(messages: Vec<P2000Message>) -> io::Result<()> {
+pub async fn run_tui(
+    messages: Vec<P2000Message>,
+    lookup: Lookup,
+    location_lookup: LocationLookup,
+) -> io::Result<()> {
     // Setup terminal
     enable_raw_mode()?;
     let mut stdout = io::stdout();
@@ -263,7 +359,7 @@ pub async fn run_tui(messages: Vec<P2000Message>) -> io::Result<()> {
     let backend = CrosstermBackend::new(stdout);
     let mut terminal = Terminal::new(backend)?;
 
-    let mut app = App::new(messages);
+    let mut app = App::new(messages, lookup, location_lookup);
     let result = event_loop(&mut terminal, &mut app).await;
 
     // Restore terminal

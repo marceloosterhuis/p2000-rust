@@ -1,0 +1,2386 @@
+﻿"id","woonplaats","gemeente","provincie","latitude","longitude"
+1,"Amsterdam","Amsterdam","Noord-Holland",52.3362429,4.8694444
+89,"Amsterdam-Zuidoost","Amsterdam","Noord-Holland",52.3768632,4.8200283
+99,"Diemen","Diemen","Noord-Holland",52.3331508,4.9551377
+103,"Duivendrecht","Ouder-Amstel","Noord-Holland",52.332886,4.9412022
+104,"Schiphol","Haarlemmermeer","Noord-Holland",52.3052778,4.7992528
+105,"Luchthaven Schiphol","Haarlemmermeer","Noord-Holland",52.3105386,4.7682744
+106,"Schiphol-Rijk","Haarlemmermeer","Noord-Holland",52.279722,4.753889
+107,"Landsmeer","Landsmeer","Noord-Holland",52.4324284,4.9150708
+109,"Den Ilp","Landsmeer","Noord-Holland",52.454533,4.9073219
+110,"Volendam","Edam-Volendam","Noord-Holland",52.5180914,5.0024565
+113,"Edam","Edam-Volendam","Noord-Holland",52.5126367,5.0491819
+114,"Monnickendam","Waterland","Noord-Holland",52.4650634,4.954089
+116,"Katwoude","Waterland","Noord-Holland",52.4694862,5.0471278
+117,"Broek in Waterland","Waterland","Noord-Holland",52.4144806,5.0219082
+119,"Zuiderwoude","Waterland","Noord-Holland",52.4321039,5.033652
+120,"Uitdam","Waterland","Noord-Holland",52.4210268,5.0724962
+121,"Marken","Waterland","Noord-Holland",52.4589926,5.1032057
+122,"Zwanenburg","Haarlemmermeer","Noord-Holland",52.0370724,5.0887879
+124,"Halfweg","Haarlemmermeer","Noord-Holland",52.3819918,4.7538293
+125,"Badhoevedorp","Haarlemmermeer","Noord-Holland",52.337248,4.7798711
+127,"Lijnden","Haarlemmermeer","Noord-Holland",52.3538766,4.7544953
+128,"Amstelveen","Amstelveen","Noord-Holland",52.3020525,4.8448473
+138,"Ouderkerk aan de Amstel","Ouder-Amstel","Noord-Holland",52.2954563,4.9023305
+140,"Hilversum","Hilversum","Noord-Holland",52.2292024,5.1693338
+154,"Loosdrecht","Wijdemeren","Noord-Holland",52.20618,5.06697
+156,"Kortenhoef","Wijdemeren","Noord-Holland",52.2397632,5.1132094
+158,"'s-Graveland","Wijdemeren","Noord-Holland",52.244167,5.121111
+159,"Ankeveen","Wijdemeren","Noord-Holland",52.2642195,5.098253
+160,"Laren","Laren","Noord-Holland",52.255712,5.2293702
+163,"Blaricum","Blaricum","Noord-Holland",52.2857057,5.2697832
+165,"Huizen","Huizen","Noord-Holland",52.2974955,5.2351132
+173,"Almere","Almere","Flevoland",52.3481373,5.2474067
+221,"Weesp","Amsterdam","Noord-Holland",52.3066153,5.0432534
+225,"Abcoude","De Ronde Venen","Utrecht",52.2694313,4.9735943
+227,"Nigtevecht","Stichtse Vecht","Utrecht",52.2738533,5.0285536
+228,"Nederhorst den Berg","Wijdemeren","Noord-Holland",52.2601767,5.0449932
+229,"Baambrugge","De Ronde Venen","Utrecht",52.2462306,4.9886094
+230,"Muiden","Gooise Meren","Noord-Holland",52.3286972,5.0683449
+231,"Muiderberg","Gooise Meren","Noord-Holland",52.3263049,5.1165375
+232,"Bussum","Gooise Meren","Noord-Holland",52.27475,5.1679387
+239,"Naarden","Gooise Meren","Noord-Holland",52.2857057,5.2697832
+242,"Uithoorn","Uithoorn","Noord-Holland",52.3474444,4.9082811
+246,"De Kwakel","Uithoorn","Noord-Holland",52.2390773,4.7939868
+247,"De Hoef","De Ronde Venen","Utrecht",52.2007451,4.8143176
+248,"Amstelhoek","De Ronde Venen","Utrecht",52.2317442,4.8349976
+249,"Vrouwenakker","Nieuwkoop","Zuid-Holland",52.213967,4.7850891
+250,"Aalsmeer","Aalsmeer","Noord-Holland",52.2666259,4.7510049
+253,"Kudelstaart","Aalsmeer","Noord-Holland",52.2384184,4.7519489
+254,"Rijsenhout","Haarlemmermeer","Noord-Holland",52.2620371,4.7127066
+255,"Aalsmeerderbrug","Haarlemmermeer","Noord-Holland",52.2738103,4.7497732
+256,"Rozenburg","Haarlemmermeer","Noord-Holland",52.2817172,4.7377604
+257,"Oude Meer","Haarlemmermeer","Noord-Holland",52.2899333,4.7833671
+258,"Purmerend","Purmerend","Noord-Holland",52.4941495,4.9275193
+267,"Purmerland","Landsmeer","Noord-Holland",52.4814429,4.925769
+268,"Ilpendam","Waterland","Noord-Holland",52.4631783,4.9513713
+269,"Watergang","Waterland","Noord-Holland",52.4398855,4.9521153
+270,"Wijdewormer","Wormerland","Noord-Holland",52.4873869,4.8597355
+271,"Spijkerboor","Wormerland","Noord-Holland",52.5383425,4.8322711
+272,"Zuidoostbeemster","Purmerend","Noord-Holland",52.5151991,4.9421222
+273,"Middenbeemster","Purmerend","Noord-Holland",52.5481066,4.9109338
+274,"Noordbeemster","Purmerend","Noord-Holland",52.5797174,4.9322059
+275,"Westbeemster","Purmerend","Noord-Holland",52.5752469,4.8995178
+276,"Kwadijk","Edam-Volendam","Noord-Holland",52.527382,4.9837605
+277,"Middelie","Edam-Volendam","Noord-Holland",52.5355665,5.0158893
+278,"Warder","Edam-Volendam","Noord-Holland",52.5635314,5.0324222
+279,"Oosthuizen","Edam-Volendam","Noord-Holland",52.5739553,4.9975843
+280,"Beets","Edam-Volendam","Noord-Holland",52.5887299,4.978728
+281,"Schardam","Edam-Volendam","Noord-Holland",52.5950121,5.0174519
+282,"Hobrede","Edam-Volendam","Noord-Holland",52.5446616,4.9802415
+283,"Purmer","Waterland","Noord-Holland",52.5028767,5.0222838
+285,"De Rijp","Alkmaar","Noord-Holland",52.5563611,4.8468049
+286,"Graft","Alkmaar","Noord-Holland",52.5622696,4.832044
+287,"Noordeinde","Alkmaar","Noord-Holland",52.5713907,4.8356906
+288,"West-Graftdijk","Alkmaar","Noord-Holland",52.5542536,4.7950025
+289,"Oost-Graftdijk","Alkmaar","Noord-Holland",52.5451072,4.8138621
+290,"Starnmeer","Alkmaar","Noord-Holland",52.541944,4.793333
+291,"De Woude","Castricum","Noord-Holland",52.5469212,4.7757441
+292,"Zaandam","Zaanstad","Noord-Holland",52.4204677,4.8313093
+302,"Oostzaan","Oostzaan","Noord-Holland",52.4409764,4.8751529
+304,"Wormerveer","Zaanstad","Noord-Holland",52.4906967,4.8013431
+306,"Westknollendam","Wormerland","Noord-Holland",52.5178843,4.7866064
+307,"Wormer","Wormerland","Noord-Holland",52.4906967,4.8013431
+309,"Oostknollendam","Wormerland","Noord-Holland",52.5166916,4.7906888
+310,"Markenbinnen","Alkmaar","Noord-Holland",52.5302023,4.7812856
+311,"Koog aan de Zaan","Zaanstad","Noord-Holland",52.4681691,4.8078729
+313,"Zaandijk","Zaanstad","Noord-Holland",52.4740433,4.8028179
+314,"Jisp","Wormerland","Noord-Holland",52.5078271,4.8483414
+315,"Westzaan","Zaanstad","Noord-Holland",52.4989308,4.8004434
+317,"Krommenie","Zaanstad","Noord-Holland",52.4989308,4.8004434
+320,"Assendelft","Zaanstad","Noord-Holland",52.4691062,4.7396672
+322,"Enkhuizen","Enkhuizen","Noord-Holland",52.7040983,5.2948557
+325,"Venhuizen","Drechterland","Noord-Holland",52.6646778,5.2065474
+326,"Hem","Drechterland","Noord-Holland",52.661111,5.183056
+327,"Wijdenes","Drechterland","Noord-Holland",52.6364914,5.157782
+328,"Oosterleek","Drechterland","Noord-Holland",52.6389783,5.1971095
+329,"Bovenkarspel","Stede Broec","Noord-Holland",52.3878721,4.9500197
+331,"Grootebroek","Stede Broec","Noord-Holland",52.6982227,5.2229184
+332,"Lutjebroek","Stede Broec","Noord-Holland",52.6983506,5.2057581
+333,"Hoogkarspel","Drechterland","Noord-Holland",52.6925934,5.1652989
+334,"Westwoud","Drechterland","Noord-Holland",52.6849913,5.1342075
+335,"Andijk","Medemblik","Noord-Holland",52.7454906,5.2208756
+336,"Hoorn","Hoorn","Noord-Holland",52.6467478,5.0469633
+344,"Oudendijk","Koggenland","Noord-Holland",52.6010281,4.966909
+345,"Avenhorn","Koggenland","Noord-Holland",52.6194727,4.9527342
+346,"Scharwoude","Koggenland","Noord-Holland",52.6221832,5.0124124
+347,"Schermerhorn","Alkmaar","Noord-Holland",52.6005503,4.8897767
+348,"Spierdijk","Koggenland","Noord-Holland",52.6454451,4.9408649
+351,"Ursem","Koggenland","Noord-Holland",52.627698,4.891242
+353,"Berkhout","Koggenland","Noord-Holland",52.6404363,4.9985175
+354,"De Goorn","Koggenland","Noord-Holland",52.6275324,4.9449451
+355,"Zuidermeer","Koggenland","Noord-Holland",52.6644734,4.9761474
+356,"Benningbroek","Medemblik","Noord-Holland",52.7042382,5.0135027
+357,"Sijbekarspel","Medemblik","Noord-Holland",52.7121865,4.9764999
+358,"Abbekerk","Medemblik","Noord-Holland",52.7316774,5.0170886
+359,"Lambertschaag","Medemblik","Noord-Holland",52.7482137,5.0149131
+360,"De Weere","Opmeer","Noord-Holland",52.7350522,4.9771557
+363,"Medemblik","Medemblik","Noord-Holland",52.7739543,5.1063209
+365,"Opperdoes","Medemblik","Noord-Holland",52.7602994,5.0765027
+366,"Twisk","Medemblik","Noord-Holland",52.7413549,5.0563358
+367,"Oostwoud","Medemblik","Noord-Holland",52.7252238,5.0905909
+368,"Midwoud","Medemblik","Noord-Holland",52.712653,5.0703139
+369,"Zwaagdijk","Medemblik","Noord-Holland",52.7060522,5.1538239
+375,"Wognum","Medemblik","Noord-Holland",52.6818409,5.0228454
+376,"Nibbixwoud","Medemblik","Noord-Holland",52.6929271,5.0567118
+377,"Zwaag","Hoorn","Noord-Holland",52.6671969,5.073672
+378,"Hauwert","Medemblik","Noord-Holland",52.7083673,5.1002922
+380,"Wervershoof","Medemblik","Noord-Holland",52.7308539,5.1521926
+381,"Blokker","Hoorn","Noord-Holland",52.6607893,5.0847617
+382,"Oosterblokker","Drechterland","Noord-Holland",52.6686263,5.1179221
+383,"Schellinkhout","Drechterland","Noord-Holland",52.6359037,5.1215198
+384,"Heerhugowaard","Dijk en Waard","Noord-Holland",52.6657897,4.8186745
+390,"Hensbroek","Koggenland","Noord-Holland",52.3922488,4.9441753
+392,"Obdam","Koggenland","Noord-Holland",52.6760192,4.9081883
+393,"Spanbroek","Opmeer","Noord-Holland",52.6984009,4.9587439
+394,"Opmeer","Opmeer","Noord-Holland",52.7053787,4.9426672
+395,"Hoogwoud","Opmeer","Noord-Holland",52.7165189,4.9345332
+396,"Aartswoud","Opmeer","Noord-Holland",52.7427274,4.9496928
+397,"Broek op Langedijk","Dijk en Waard","Noord-Holland",52.686419,4.7377074
+399,"Zuid-Scharwoude","Dijk en Waard","Noord-Holland",52.6889687,4.7943409
+400,"Noord-Scharwoude","Dijk en Waard","Noord-Holland",52.6986574,4.8108679
+401,"Oudkarspel","Dijk en Waard","Noord-Holland",52.7095702,4.8076765
+402,"Winkel","Hollands Kroon","Noord-Holland",52.6336643,4.7510326
+404,"Lutjewinkel","Hollands Kroon","Noord-Holland",52.7675819,4.885082
+405,"Nieuwe Niedorp","Hollands Kroon","Noord-Holland",52.7377535,4.8913015
+406,"Oude-Niedorp","Hollands Kroon","Noord-Holland",52.718574,4.8760966
+407,"'t Veld","Hollands Kroon","Noord-Holland",52.7398968,4.8548368
+408,"Zijdewind","Hollands Kroon","Noord-Holland",52.7431992,4.8398995
+409,"Waarland","Schagen","Noord-Holland",52.725898,4.8335986
+410,"Schagen","Schagen","Noord-Holland",52.7856038,4.7971055
+413,"Sint Maarten","Schagen","Noord-Holland",52.7726894,4.7448499
+414,"Dirkshorn","Schagen","Noord-Holland",52.7494753,4.7793944
+415,"Tuitjenhorn","Schagen","Noord-Holland",52.7393604,4.7493132
+416,"Warmenhuizen","Schagen","Noord-Holland",52.7226939,4.7384987
+417,"Schagerbrug","Schagen","Noord-Holland",52.7901423,4.792597
+419,"Sint Maartensbrug","Schagen","Noord-Holland",52.7809681,4.7274984
+420,"Sint Maartensvlotbrug","Schagen","Noord-Holland",52.784475,4.7086508
+421,"Burgerbrug","Schagen","Noord-Holland",52.7479569,4.7032325
+422,"Petten","Schagen","Noord-Holland",52.7645968,4.6615332
+423,"'t Zand","Schagen","Noord-Holland",52.8366902,4.7563978
+424,"Oudesluis","Schagen","Noord-Holland",52.834414,4.8090952
+425,"Callantsoog","Schagen","Noord-Holland",52.835097,4.6943765
+426,"Anna Paulowna","Hollands Kroon","Noord-Holland",52.88009,4.79523
+428,"Breezand","Hollands Kroon","Noord-Holland",52.8884709,4.8058095
+429,"Wieringerwaard","Hollands Kroon","Noord-Holland",52.8356223,4.8624722
+430,"Kolhorn","Hollands Kroon","Noord-Holland",52.7948147,4.8900181
+431,"Barsingerhorn","Hollands Kroon","Noord-Holland",52.7852727,4.8451104
+432,"Haringhuizen","Hollands Kroon","Noord-Holland",52.7730739,4.8287535
+433,"Wieringerwerf","Hollands Kroon","Noord-Holland",52.7655418,5.0804324
+435,"Kreileroord","Hollands Kroon","Noord-Holland",52.8414013,5.0823533
+436,"Slootdorp","Hollands Kroon","Noord-Holland",52.8451344,4.9686855
+437,"Middenmeer","Hollands Kroon","Noord-Holland",52.8110945,4.9948975
+438,"Hippolytushoef","Hollands Kroon","Noord-Holland",52.9076257,4.9628723
+439,"Westerland","Hollands Kroon","Noord-Holland",52.89157,4.9271036
+440,"Den Oever","Hollands Kroon","Noord-Holland",52.9343779,5.0282699
+441,"Den Helder","Den Helder","Noord-Holland",52.963775,4.7721863
+450,"Huisduinen","Den Helder","Noord-Holland",52.9531094,4.7256959
+451,"Den Burg","Texel","Noord-Holland",52.428361,4.9168498
+453,"Oudeschild","Texel","Noord-Holland",53.0389751,4.8479885
+454,"De Waal","Texel","Noord-Holland",53.0729311,4.8201727
+455,"Oosterend","Texel","Noord-Holland",53.0853623,4.8768743
+456,"De Cocksdorp","Texel","Noord-Holland",53.1550263,4.8696559
+457,"De Koog","Texel","Noord-Holland",53.0962203,4.7618406
+458,"Den Hoorn","Texel","Noord-Holland",53.0255323,4.7511124
+459,"Alkmaar","Alkmaar","Noord-Holland",52.6199687,4.7346471
+477,"Oudorp","Alkmaar","Noord-Holland",52.6303937,4.7736543
+478,"Koedijk","Alkmaar","Noord-Holland",52.686419,4.7377074
+481,"Sint Pancras","Dijk en Waard","Noord-Holland",52.6655556,4.7867781
+482,"Stompetoren","Alkmaar","Noord-Holland",52.388662,4.9468127
+484,"Oterleek","Alkmaar","Noord-Holland",52.6368592,4.8348999
+485,"Grootschermer","Alkmaar","Noord-Holland",52.5821507,4.849897
+486,"Driehuizen","Alkmaar","Noord-Holland",52.5779152,4.8073131
+487,"Zuidschermer","Alkmaar","Noord-Holland",52.5691903,4.7768957
+489,"Heiloo","Heiloo","Noord-Holland",52.6080899,4.6891213
+492,"Bergen","Bergen","Noord-Holland",52.665,4.7045881
+495,"Bergen aan Zee","Bergen","Noord-Holland",52.6610417,4.6318186
+496,"Schoorl","Bergen","Noord-Holland",52.3948682,4.9468386
+498,"Groet","Bergen","Noord-Holland",52.7220044,4.6670183
+499,"Castricum","Castricum","Noord-Holland",52.5500063,4.6724068
+502,"Limmen","Castricum","Noord-Holland",52.5715831,4.6942467
+503,"Uitgeest","Uitgeest","Noord-Holland",52.5280686,4.7130762
+505,"Akersloot","Castricum","Noord-Holland",52.5660965,4.7402604
+507,"Egmond aan Zee","Bergen","Noord-Holland",52.6187,4.6281065
+509,"Egmond aan Den Hoef","Bergen","Noord-Holland",52.6209748,4.6531215
+510,"Egmond-Binnen","Bergen","Noord-Holland",52.5938149,4.6560387
+511,"Beverwijk","Beverwijk","Noord-Holland",52.4919759,4.6653166
+520,"Wijk aan Zee","Beverwijk","Noord-Holland",52.4916911,4.593325
+521,"Velsen-Noord","Velsen","Noord-Holland",52.4733264,4.6498059
+523,"Heemskerk","Heemskerk","Noord-Holland",52.5069097,4.6701014
+533,"IJmuiden","Velsen","Noord-Holland",52.4617618,4.5746247
+540,"Velsen-Zuid","Velsen","Noord-Holland",52.4568392,4.6680944
+542,"Driehuis","Velsen","Noord-Holland",52.4470055,4.6362986
+543,"Velserbroek","Velsen","Noord-Holland",52.4319909,4.6459886
+546,"Haarlem","Haarlem","Noord-Holland",52.3720069,4.6313075
+569,"Zandvoort","Zandvoort","Noord-Holland",52.3785082,4.5340065
+572,"Overveen","Bloemendaal","Noord-Holland",52.400023,4.5989705
+574,"Bloemendaal","Bloemendaal","Noord-Holland",52.3966448,4.6126387
+576,"Spaarndam-West","Haarlem","Noord-Holland",52.415,4.676944
+577,"Spaarndam","Haarlemmermeer","Noord-Holland",52.4128782,4.6860272
+578,"Haarlemmerliede","Haarlemmermeer","Noord-Holland",52.3885691,4.6895554
+579,"Santpoort-Noord","Velsen","Noord-Holland",52.4314485,4.6445616
+581,"Santpoort-Zuid","Velsen","Noord-Holland",52.4253297,4.6226263
+583,"Heemstede","Heemstede","Noord-Holland",52.3463359,4.6197272
+590,"Aerdenhout","Bloemendaal","Noord-Holland",52.3660029,4.5805322
+592,"Vogelenzang","Bloemendaal","Noord-Holland",52.3196324,4.5780826
+593,"Bentveld","Zandvoort","Noord-Holland",52.3658414,4.5753075
+594,"Bennebroek","Bloemendaal","Noord-Holland",52.4518399,4.802687
+596,"Hoofddorp","Haarlemmermeer","Noord-Holland",52.2866832,4.6652858
+602,"Zwaanshoek","Haarlemmermeer","Noord-Holland",52.3128404,4.6175817
+603,"Vijfhuizen","Haarlemmermeer","Noord-Holland",52.3560542,4.6726408
+605,"Cruquius","Haarlemmermeer","Noord-Holland",52.3360142,4.6347871
+606,"Boesingheliede","Haarlemmermeer","Noord-Holland",52.3610933,4.7255443
+607,"Beinsdorp","Haarlemmermeer","Noord-Holland",52.2860513,4.5950793
+608,"Nieuw Vennep","Haarlemmermeer","Noord-Holland",52.2866832,4.6652858
+612,"Burgerveen","Haarlemmermeer","Noord-Holland",52.2404576,4.6805452
+613,"Leimuiderbrug","Haarlemmermeer","Noord-Holland",52.2309985,4.6680189
+614,"Weteringbrug","Haarlemmermeer","Noord-Holland",52.2220328,4.6461529
+615,"Abbenes","Haarlemmermeer","Noord-Holland",52.2328358,4.5915174
+616,"Buitenkaag","Haarlemmermeer","Noord-Holland",52.2208157,4.5596967
+617,"Kaag","Kaag en Braassem","Zuid-Holland",52.2160589,4.5594046
+618,"Lisse","Lisse","Zuid-Holland",52.2580113,4.5524081
+622,"Lisserbroek","Haarlemmermeer","Noord-Holland",52.2605498,4.5709544
+623,"Sassenheim","Teylingen","Zuid-Holland",51.9578101,5.8635141
+626,"Hillegom","Hillegom","Zuid-Holland",52.2912973,4.5787866
+629,"De Zilk","Noordwijk","Zuid-Holland",52.3025745,4.5356369
+631,"Noordwijk","Noordwijk","Zuid-Holland",52.2340226,4.4489376
+636,"Noordwijkerhout","Noordwijk","Zuid-Holland",52.2636557,4.4938581
+638,"Voorhout","Teylingen","Zuid-Holland",52.2223012,4.4863318
+639,"Katwijk","Katwijk","Zuid-Holland",52.2024122,4.3973005
+645,"Rijnsburg","Katwijk","Zuid-Holland",52.2024122,4.3973005
+647,"Valkenburg","Katwijk","Zuid-Holland",52.1793927,4.4327928
+648,"Wassenaar","Wassenaar","Zuid-Holland",52.1181716,4.3704176
+654,"Voorschoten","Voorschoten","Zuid-Holland",52.1243035,4.4461047
+659,"Leidschendam","Leidschendam-Voorburg","Zuid-Holland",52.0767974,4.3976002
+667,"Voorburg","Leidschendam-Voorburg","Zuid-Holland",52.0869388,4.3185376
+673,"Rijswijk","Rijswijk","Zuid-Holland",52.05558,4.33495
+683,"Wateringen","Westland","Zuid-Holland",52.0216313,4.2354561
+686,"Kwintsheul","Westland","Zuid-Holland",52.0151806,4.2561308
+687,"Leiden","Leiden","Zuid-Holland",52.1581881,4.4912006
+707,"Oegstgeest","Oegstgeest","Zuid-Holland",52.1783182,4.462724
+711,"Leiderdorp","Leiderdorp","Zuid-Holland",52.0851211,4.3936825
+715,"Hoogmade","Kaag en Braassem","Zuid-Holland",52.1688532,4.5828795
+716,"Warmond","Teylingen","Zuid-Holland",52.2071287,4.5149711
+719,"Roelofarendsveen","Kaag en Braassem","Zuid-Holland",52.1831065,4.5910855
+721,"Oud-Ade","Kaag en Braassem","Zuid-Holland",52.1916423,4.5664685
+722,"Rijpwetering","Kaag en Braassem","Zuid-Holland",52.193109,4.5823688
+723,"Nieuwe Wetering","Kaag en Braassem","Zuid-Holland",52.204891,4.6158037
+724,"Oude Wetering","Kaag en Braassem","Zuid-Holland",52.214167,4.644444
+725,"Zoeterwoude","Zoeterwoude","Zuid-Holland",52.1155235,4.4857634
+728,"Hazerswoude Dorp","Alphen aan den Rijn","Zuid-Holland",52.0751101,4.5445181
+730,"Hazerswoude Rijndijk","Alphen aan den Rijn","Zuid-Holland",52.129167,4.593056
+731,"Koudekerk aan den Rijn","Alphen aan den Rijn","Zuid-Holland",52.1322767,4.5983776
+732,"Alphen aan den Rijn","Alphen aan den Rijn","Zuid-Holland",52.1194105,4.6437515
+742,"Bodegraven","Bodegraven-Reeuwijk","Zuid-Holland",52.0661976,4.7407101
+744,"Nieuwerbrug","Bodegraven-Reeuwijk","Zuid-Holland",52.0778881,4.8127843
+745,"Nieuwkoop","Nieuwkoop","Zuid-Holland",52.1550943,4.788442
+747,"Noorden","Nieuwkoop","Zuid-Holland",51.8725637,4.604099
+750,"Zevenhoven","Nieuwkoop","Zuid-Holland",52.1802606,4.7817564
+751,"Nieuwveen","Nieuwkoop","Zuid-Holland",52.1888804,4.7612193
+753,"Aarlanderveen","Alphen aan den Rijn","Zuid-Holland",52.1409426,4.728984
+754,"Leimuiden","Kaag en Braassem","Zuid-Holland",52.350925,4.8504867
+756,"Ter Aar","Nieuwkoop","Zuid-Holland",52.16461,4.70899
+758,"Rijnsaterwoude","Kaag en Braassem","Zuid-Holland",52.198906,4.6716523
+759,"Zwammerdam","Alphen aan den Rijn","Zuid-Holland",52.073556,4.6594665
+761,"Woubrugge","Kaag en Braassem","Zuid-Holland",52.1831065,4.5910855
+763,"Den Haag","Den Haag","Zuid-Holland",52.0869351,4.3155204
+835,"Delft","Delft","Zuid-Holland",52.0111076,4.3566778
+850,"Nootdorp","Pijnacker-Nootdorp","Zuid-Holland",52.0457064,4.4729491
+854,"Schipluiden","Midden-Delfland","Zuid-Holland",51.975149,4.3201488
+855,"Pijnacker","Pijnacker-Nootdorp","Zuid-Holland",52.003371,4.4346532
+859,"Delfgauw","Pijnacker-Nootdorp","Zuid-Holland",52.0091941,4.3967708
+860,"Berkel en Rodenrijs","Lansingerland","Zuid-Holland",52.0463895,4.4876313
+863,"Bergschenhoek","Lansingerland","Zuid-Holland",52.0415113,4.5039862
+866,"Bleiswijk","Lansingerland","Zuid-Holland",52.0094799,4.5384196
+867,"Naaldwijk","Westland","Zuid-Holland",51.9861935,4.206201
+871,"Honselersdijk","Westland","Zuid-Holland",52,4.233333
+872,"Maasdijk","Westland","Zuid-Holland",51.9593107,4.2144274
+873,"De Lier","Westland","Zuid-Holland",51.9744488,4.2511633
+874,"Monster","Westland","Zuid-Holland",51.9861935,4.206201
+876,"Ter Heijde","Westland","Zuid-Holland",52.0299823,4.1677757
+877,"Poeldijk","Westland","Zuid-Holland",52.0230405,4.2187772
+878,"'s-Gravenzande","Westland","Zuid-Holland",51.9861935,4.206201
+883,"Zoetermeer","Zoetermeer","Zuid-Holland",52.0383667,4.4874537
+903,"Benthuizen","Alphen aan den Rijn","Zuid-Holland",52.0751101,4.5445181
+905,"Gelderswoude","Zoeterwoude","Zuid-Holland",52.0909366,4.5310052
+906,"Waddinxveen","Waddinxveen","Zuid-Holland",52.0431934,4.6579012
+910,"Moerkapelle","Zuidplas","Zuid-Holland",52.0734433,4.6593099
+913,"Zevenhuizen","Zuidplas","Zuid-Holland",52.0091493,4.5671016
+915,"Boskoop","Alphen aan den Rijn","Zuid-Holland",52.0704702,4.6374051
+917,"Gouda","Gouda","Zuid-Holland",52.012556,4.708884
+927,"Reeuwijk","Bodegraven-Reeuwijk","Zuid-Holland",52.0428988,4.7211643
+929,"Stolwijk","Krimpenerwaard","Zuid-Holland",51.8759325,4.5377609
+931,"Berkenwoude","Krimpenerwaard","Zuid-Holland",51.945159,4.7068241
+932,"Gouderak","Krimpenerwaard","Zuid-Holland",51.985302,4.6767453
+934,"Moordrecht","Zuidplas","Zuid-Holland",52.016185,4.6603333
+936,"Haastrecht","Krimpenerwaard","Zuid-Holland",51.8802621,4.5363699
+938,"Vlist","Krimpenerwaard","Zuid-Holland",51.9809619,4.8171551
+939,"Bergambacht","Krimpenerwaard","Zuid-Holland",51.9318964,4.7827097
+941,"Ammerstol","Krimpenerwaard","Zuid-Holland",51.9273544,4.8077745
+942,"Schoonhoven","Krimpenerwaard","Zuid-Holland",51.9454225,4.8519993
+944,"Capelle aan den IJssel","Capelle aan den IJssel","Zuid-Holland",51.9224986,4.5629844
+954,"Nieuwerkerk aan den IJssel","Zuidplas","Zuid-Holland",51.9678752,4.6170521
+959,"Krimpen aan den IJssel","Krimpen aan den IJssel","Zuid-Holland",51.924447,4.6044957
+966,"Krimpen aan de Lek","Krimpenerwaard","Zuid-Holland",51.9118641,4.6425962
+968,"Ouderkerk aan den IJssel","Krimpenerwaard","Zuid-Holland",51.9324481,4.6371786
+969,"Lekkerkerk","Krimpenerwaard","Zuid-Holland",51.9227856,4.6854968
+971,"Alblasserdam","Alblasserdam","Zuid-Holland",51.8505717,4.6795684
+976,"Nieuw-Lekkerland","Molenlanden","Zuid-Holland",51.8872759,4.6858964
+977,"Streefkerk","Molenlanden","Zuid-Holland",51.8998914,4.74488
+978,"Kinderdijk","Molenlanden","Zuid-Holland",51.8177474,3.9801001
+980,"Groot-Ammers","Molenlanden","Zuid-Holland",51.9246393,4.8253021
+981,"Nieuwpoort","Molenlanden","Zuid-Holland",51.9347419,4.8692024
+982,"Langerak","Molenlanden","Zuid-Holland",51.9323151,4.8776587
+983,"Waal","Molenlanden","Zuid-Holland",51.9381851,4.9009372
+984,"Oud-Alblas","Molenlanden","Zuid-Holland",51.8569169,4.7034111
+985,"Bleskensgraaf","Molenlanden","Zuid-Holland",51.8708591,4.7805545
+987,"Molenaarsgraaf","Molenlanden","Zuid-Holland",51.8776962,4.8287892
+988,"Brandwijk","Molenlanden","Zuid-Holland",51.8895768,4.813418
+989,"Ottoland","Molenlanden","Zuid-Holland",51.8908145,4.8615678
+990,"Goudriaan","Molenlanden","Zuid-Holland",51.9025271,4.9006544
+991,"Ridderkerk","Ridderkerk","Zuid-Holland",51.8718157,4.5996739
+1001,"Barendrecht","Barendrecht","Zuid-Holland",51.8560474,4.5370848
+1006,"Heerjansdam","Zwijndrecht","Zuid-Holland",51.8359184,4.5656402
+1007,"Rotterdam","Rotterdam","Zuid-Holland",51.926789,4.421901
+1082,"Schiedam","Schiedam","Zuid-Holland",51.9127229,4.4007511
+1100,"Vlaardingen","Vlaardingen","Zuid-Holland",51.9059,4.34531
+1109,"Maassluis","Maassluis","Zuid-Holland",51.9861935,4.206201
+1117,"Hoek van Holland","Rotterdam","Zuid-Holland",51.9907783,4.1296864
+1119,"Maasland","Midden-Delfland","Zuid-Holland",51.9350968,4.2728618
+1120,"Rhoon","Albrandswaard","Zuid-Holland",51.857971,4.4722296
+1124,"Poortugaal","Albrandswaard","Zuid-Holland",51.9037688,4.4041475
+1130,"Hoogvliet","Rotterdam","Zuid-Holland",51.8631527,4.3594075
+1135,"Pernis","Rotterdam","Zuid-Holland",51.8887319,4.3890747
+1136,"Vondelingenplaat","Rotterdam","Zuid-Holland",51.8869,4.33
+1137,"Botlek","Rotterdam","Zuid-Holland",51.8749478,4.282547
+1138,"Europoort","Rotterdam","Zuid-Holland",51.943333,4.1425
+1139,"Maasvlakte","Rotterdam","Zuid-Holland",51.962398,4.0567997
+1140,"Spijkenisse","Nissewaard","Zuid-Holland",51.847626,4.327577
+1149,"Hekelingen","Nissewaard","Zuid-Holland",51.8254264,4.3447884
+1150,"Geervliet","Nissewaard","Zuid-Holland",51.8613451,4.2608302
+1151,"Simonshaven","Nissewaard","Zuid-Holland",51.821815,4.2898095
+1152,"Zuidland","Nissewaard","Zuid-Holland",51.8220118,4.2592753
+1153,"Abbenbroek","Nissewaard","Zuid-Holland",51.84872,4.2428247
+1154,"Heenvliet","Nissewaard","Zuid-Holland",51.8651667,4.2431951
+1155,"Hellevoetsluis","Voorne aan Zee","Zuid-Holland",51.8302409,4.1434108
+1161,"Oudenhoorn","Nissewaard","Zuid-Holland",51.8272731,4.1915346
+1162,"Brielle","Voorne aan Zee","Zuid-Holland",51.9047236,4.1678526
+1165,"Oostvoorne","Voorne aan Zee","Zuid-Holland",51.9113563,4.0946488
+1166,"Tinte","Voorne aan Zee","Zuid-Holland",51.8864771,4.1355882
+1167,"Rockanje","Voorne aan Zee","Zuid-Holland",51.8719333,4.0683056
+1168,"Vierpolders","Voorne aan Zee","Zuid-Holland",51.8790302,4.179654
+1169,"Zwartewaal","Voorne aan Zee","Zuid-Holland",51.8835357,4.2200928
+1170,"Middelharnis","Goeree-Overflakkee","Zuid-Holland",51.7610442,4.1686425
+1172,"Stad aan 't Haringvliet","Goeree-Overflakkee","Zuid-Holland",51.7385339,4.2412443
+1173,"Nieuwe-Tonge","Goeree-Overflakkee","Zuid-Holland",51.7137696,4.1648577
+1174,"Sommelsdijk","Goeree-Overflakkee","Zuid-Holland",51.7510552,4.1492498
+1175,"Dirksland","Goeree-Overflakkee","Zuid-Holland",51.7506355,4.0920971
+1176,"Melissant","Goeree-Overflakkee","Zuid-Holland",51.7700572,4.0707187
+1177,"Herkingen","Goeree-Overflakkee","Zuid-Holland",51.7102808,4.0879282
+1178,"Stellendam","Goeree-Overflakkee","Zuid-Holland",51.8122906,4.0230099
+1180,"Goedereede","Goeree-Overflakkee","Zuid-Holland",51.8180728,3.9773845
+1181,"Ouddorp","Goeree-Overflakkee","Zuid-Holland",51.8090723,3.9352037
+1182,"Oude-Tonge","Goeree-Overflakkee","Zuid-Holland",51.6909767,4.2126832
+1183,"Achthuizen","Goeree-Overflakkee","Zuid-Holland",51.6874623,4.280891
+1184,"Ooltgensplaat","Goeree-Overflakkee","Zuid-Holland",51.682876,4.330104
+1185,"Den Bommel","Goeree-Overflakkee","Zuid-Holland",51.7152812,4.2788659
+1186,"Oud-Beijerland","Hoeksche Waard","Zuid-Holland",51.8202877,4.4018179
+1190,"Nieuw-Beijerland","Hoeksche Waard","Zuid-Holland",51.8116663,4.3417332
+1191,"Piershil","Hoeksche Waard","Zuid-Holland",51.796384,4.315958
+1192,"Goudswaard","Hoeksche Waard","Zuid-Holland",51.7935836,4.277584
+1193,"Mijnsheerenland","Hoeksche Waard","Zuid-Holland",51.8016905,4.4615328
+1195,"Westmaas","Hoeksche Waard","Zuid-Holland",51.7869707,4.475239
+1196,"Heinenoord","Hoeksche Waard","Zuid-Holland",51.827373,4.4833706
+1197,"Numansdorp","Hoeksche Waard","Zuid-Holland",51.7302535,4.4389921
+1199,"Zuid-Beijerland","Hoeksche Waard","Zuid-Holland",51.7507077,4.3690917
+1200,"Klaaswaal","Hoeksche Waard","Zuid-Holland",51.771621,4.446888
+1201,"Strijen","Hoeksche Waard","Zuid-Holland",51.7502159,4.5541348
+1203,"Strijensas","Hoeksche Waard","Zuid-Holland",51.7145472,4.5858807
+1204,"Mookhoek","Hoeksche Waard","Zuid-Holland",51.7520703,4.5957148
+1205,"'s-Gravendeel","Hoeksche Waard","Zuid-Holland",51.7792843,4.6180902
+1206,"Puttershoek","Hoeksche Waard","Zuid-Holland",51.8053785,4.5664733
+1207,"Maasdam","Hoeksche Waard","Zuid-Holland",51.7876295,4.5566676
+1208,"Dordrecht","Dordrecht","Zuid-Holland",51.811791,4.666947
+1221,"Zwijndrecht","Zwijndrecht","Zuid-Holland",51.8177184,4.6475238
+1228,"Hendrik-Ido-Ambacht","Hendrik-Ido-Ambacht","Zuid-Holland",51.8448385,4.6379611
+1233,"Papendrecht","Papendrecht","Zuid-Holland",51.8266761,4.6836174
+1240,"Sliedrecht","Sliedrecht","Zuid-Holland",51.8239636,4.7725387
+1245,"Wijngaarden","Molenlanden","Zuid-Holland",51.8449757,4.7639776
+1246,"Hardinxveld-Giessendam","Hardinxveld-Giessendam","Zuid-Holland",51.8267159,4.8379184
+1250,"Giessenburg","Molenlanden","Zuid-Holland",52.1483652,4.6770504
+1252,"IJsselstein","IJsselstein","Utrecht",52.02848,5.062803
+1257,"Benschop","Lopik","Utrecht",52.0073727,4.9803792
+1258,"Lopik","Lopik","Utrecht",52.0097032,5.0529213
+1260,"Lopikerkapel","Lopik","Utrecht",51.9919862,5.0458469
+1261,"Jaarsveld","Lopik","Utrecht",51.9695221,4.9774626
+1262,"Polsbroek","Lopik","Utrecht",51.9765277,4.850949
+1263,"Montfoort","Montfoort","Utrecht",52.0362127,4.9518586
+1264,"Oudewater","Oudewater","Utrecht",52.020443,4.8748371
+1266,"Snelrewaard","Oudewater","Utrecht",52.0282894,4.9001637
+1267,"Nieuwegein","Nieuwegein","Utrecht",52.025367,5.0918255
+1277,"Woerden","Woerden","Utrecht",52.0870197,4.8821429
+1287,"Vleuten","Utrecht","Utrecht",52.106882,5.0109262
+1290,"De Meern","Utrecht","Utrecht",52.0822001,5.01236
+1292,"Haarzuilens","Utrecht","Utrecht",52.1211155,4.998104
+1293,"Linschoten","Montfoort","Utrecht",52.0556292,4.9049101
+1295,"Papekop","Oudewater","Utrecht",52.0459814,4.8532079
+1296,"Driebruggen","Bodegraven-Reeuwijk","Zuid-Holland",52.0440942,4.8003904
+1297,"Waarder","Bodegraven-Reeuwijk","Zuid-Holland",52.0615017,4.8200232
+1298,"Hekendorp","Oudewater","Utrecht",52.014957,4.8100511
+1299,"Kamerik","Woerden","Utrecht",52.1144343,4.8903322
+1301,"Zegveld","Woerden","Utrecht",52.1116787,4.8439706
+1302,"Harmelen","Woerden","Utrecht",52.0878577,4.9645696
+1304,"Utrecht","Utrecht","Utrecht",52.0927337,5.1493681
+1357,"Maarssen","Stichtse Vecht","Utrecht",52.1361852,5.0318734
+1366,"Oud-Zuilen","Stichtse Vecht","Utrecht",52.1280085,5.0703357
+1367,"Tienhoven","Stichtse Vecht","Utrecht",52.1667429,5.082587
+1368,"Westbroek","De Bilt","Utrecht",52.1515898,5.1279711
+1369,"Breukelen","Stichtse Vecht","Utrecht",52.1706397,4.9906837
+1371,"Breukeleveen","Wijdemeren","Noord-Holland",52.1758164,5.0706833
+1372,"Nieuwer-Ter-Aa","Stichtse Vecht","Utrecht",52.1908875,4.9819382
+1373,"Kockengen","Stichtse Vecht","Utrecht",52.1482984,4.9505617
+1374,"Nieuwersluis","Stichtse Vecht","Utrecht",52.1961298,5.0071018
+1376,"Loenen aan de Vecht","Stichtse Vecht","Utrecht",52.2110379,5.0231899
+1377,"Vreeland","Stichtse Vecht","Utrecht",52.2303508,5.0284187
+1378,"Loenersloot","Stichtse Vecht","Utrecht",52.2294321,4.9993569
+1379,"Mijdrecht","De Ronde Venen","Utrecht",52.0752405,5.1180832
+1383,"Vinkeveen","De Ronde Venen","Utrecht",52.2150916,4.9348068
+1384,"Waverveen","De Ronde Venen","Utrecht",52.2211049,4.8987891
+1385,"Wilnis","De Ronde Venen","Utrecht",52.1956103,4.9041875
+1386,"Woerdense Verlaat","Nieuwkoop","Zuid-Holland",52.1473613,4.8525959
+1389,"Zeist","Zeist","Utrecht",52.075864,5.2646312
+1399,"Austerlitz","Zeist","Utrecht",52.0950885,5.0133749
+1401,"Huis ter Heide","Zeist","Utrecht",52.1119467,5.2539372
+1402,"Bilthoven","De Bilt","Utrecht",52.1294004,5.2065062
+1406,"De Bilt","De Bilt","Utrecht",52.0970458,5.1472408
+1409,"Den Dolder","Zeist","Utrecht",52.1390592,5.2428279
+1410,"Bosch en Duin","Zeist","Utrecht",52.1230239,5.2421204
+1411,"Groenekan","De Bilt","Utrecht",52.1235451,5.1526802
+1412,"Maartensdijk","De Bilt","Utrecht",52.1594706,5.1670032
+1413,"Hollandsche Rading","De Bilt","Utrecht",52.1770657,5.1853519
+1414,"Baarn","Baarn","Utrecht",52.2111076,5.2916122
+1419,"Lage Vuursche","Baarn","Utrecht",52.1803305,5.2150904
+1420,"Bunschoten-Spakenburg","Bunschoten","Utrecht",52.243238,5.3741996
+1423,"Eemdijk","Bunschoten","Utrecht",52.2540881,5.3304132
+1424,"Eemnes","Eemnes","Utrecht",52.2537461,5.2612754
+1425,"Soest","Soest","Utrecht",52.1838726,5.3017128
+1433,"Soesterberg","Soest","Utrecht",52.1210918,5.2853468
+1434,"Barneveld","Barneveld","Gelderland",51.9598667,6.2046774
+1438,"Kootwijkerbroek","Barneveld","Gelderland",52.150776,5.6671862
+1439,"Kootwijk","Barneveld","Gelderland",52.1846413,5.7704693
+1440,"Stroe","Barneveld","Gelderland",52.1862224,5.6939179
+1441,"Voorthuizen","Barneveld","Gelderland",52.1861021,5.6071369
+1443,"Terschuur","Barneveld","Gelderland",52.1647835,5.5149033
+1444,"Zwartebroek","Barneveld","Gelderland",52.1791133,5.5031896
+1445,"Achterveld","Leusden","Utrecht",52.2133968,4.9315809
+1448,"De Glind","Barneveld","Gelderland",52.1194102,5.5085534
+1449,"Amersfoort","Amersfoort","Utrecht",52.1566784,5.384757
+1466,"Hoogland","Amersfoort","Utrecht",52.1842738,5.3746083
+1467,"Hooglanderveen","Amersfoort","Utrecht",52.1893644,5.4283866
+1468,"Leusden","Leusden","Utrecht",52.1306041,5.4291558
+1473,"Stoutenburg","Amersfoort","Utrecht",52.1540746,5.4325516
+1474,"Stoutenburg Noord","Amersfoort","Utrecht",52.158056,5.464167
+1475,"Harderwijk","Harderwijk","Gelderland",52.34788,5.6162
+1484,"Hierden","Harderwijk","Gelderland",52.3567091,5.676924
+1485,"Ermelo","Ermelo","Gelderland",52.3010177,5.6174184
+1489,"Nijkerk","Nijkerk","Gelderland",52.2261723,5.4828346
+1493,"Nijkerkerveen","Nijkerk","Gelderland",52.195124,5.4665941
+1494,"Hoevelaken","Nijkerk","Gelderland",52.168694,5.4484583
+1496,"Putten","Putten","Gelderland",52.2616146,5.6075467
+1499,"Garderen","Barneveld","Gelderland",52.2329632,5.7148144
+1500,"Uddel","Apeldoorn","Gelderland",52.2577273,5.7824206
+1501,"Zeewolde","Zeewolde","Flevoland",52.3318841,5.5447782
+1511,"Veenendaal","Veenendaal","Utrecht",52.0274473,5.5591249
+1519,"Rhenen","Rhenen","Utrecht",51.9617268,5.567923
+1522,"Elst","Rhenen","Utrecht",51.9822999,5.507013
+1525,"Scherpenzeel","Scherpenzeel","Gelderland",52.0789297,5.4880645
+1526,"Renswoude","Renswoude","Utrecht",52.0746607,5.5381732
+1527,"Woudenberg","Woudenberg","Utrecht",52.0813686,5.414863
+1529,"Doorn","Utrechtse Heuvelrug","Utrecht",52.0314177,5.3386133
+1531,"Cothen","Wijk bij Duurstede","Utrecht",51.9981708,5.3080065
+1532,"Langbroek","Wijk bij Duurstede","Utrecht",52.011957,5.3269077
+1533,"Maarn","Utrechtse Heuvelrug","Utrecht",52.0656472,5.3751391
+1535,"Maarsbergen","Utrechtse Heuvelrug","Utrecht",52.0581194,5.4054317
+1536,"Leersum","Utrechtse Heuvelrug","Utrecht",52.0120583,5.4295484
+1537,"Amerongen","Utrechtse Heuvelrug","Utrecht",52.0025516,5.4604852
+1538,"Overberg","Utrechtse Heuvelrug","Utrecht",52.039517,5.4982362
+1539,"Wijk bij Duurstede","Wijk bij Duurstede","Utrecht",51.9727537,5.3454837
+1542,"Driebergen-Rijsenburg","Utrechtse Heuvelrug","Utrecht",52.0517336,5.2828748
+1545,"Bunnik","Bunnik","Utrecht",52.0552506,5.226153
+1547,"Odijk","Bunnik","Utrecht",52.0521446,5.2356248
+1548,"Werkhoven","Bunnik","Utrecht",52.0232139,5.2437838
+1549,"Ossenwaard","Vijfheerenlanden","Utrecht",51.991944,5.137222
+1550,"Houten","Houten","Utrecht",52.0345902,5.1670598
+1556,"'t Goy","Houten","Utrecht",52.0016048,5.2219072
+1557,"Schalkwijk","Houten","Utrecht",51.9951885,5.187845
+1558,"Tull en 't Waal","Houten","Utrecht",52.0013657,5.1336144
+1559,"Tiel","Tiel","Gelderland",51.8857675,5.4342686
+1567,"Zoelen","Buren","Gelderland",52.0498426,5.6665945
+1569,"Kerk-Avezaath","Tiel","Gelderland",51.8964151,5.3833696
+1570,"Kapel-Avezaath","Tiel","Gelderland",51.8802626,5.3740616
+1571,"Wadenoijen","Tiel","Gelderland",51.8741325,5.3728726
+1574,"Maurik","Buren","Gelderland",51.9623346,5.4228153
+1577,"Eck en Wiel","Buren","Gelderland",51.9703135,5.4566052
+1578,"Ingen","Buren","Gelderland",51.9598754,5.4841425
+1580,"Ommeren","Buren","Gelderland",51.94795,5.493864
+1581,"Lienden","Buren","Gelderland",51.9475664,5.5183547
+1582,"Kesteren","Neder-Betuwe","Gelderland",51.8784375,5.4111072
+1584,"Opheusden","Neder-Betuwe","Gelderland",51.9330254,5.629707
+1585,"Ochten","Neder-Betuwe","Gelderland",51.8781289,5.4111066
+1587,"IJzendoorn","Neder-Betuwe","Gelderland",51.9069217,5.5329587
+1588,"Echteld","Neder-Betuwe","Gelderland",51.9090624,5.4987853
+1589,"Ophemert","West Betuwe","Gelderland",51.8464741,5.3901313
+1591,"Zennewijnen","Tiel","Gelderland",51.8581307,5.4121898
+1592,"Heesselt","West Betuwe","Gelderland",51.8134984,5.3471298
+1593,"Varik","West Betuwe","Gelderland",51.8231362,5.368234
+1594,"Culemborg","Culemborg","Gelderland",51.9579813,5.2261052
+1602,"Zoelmond","Buren","Gelderland",51.8794241,5.423533
+1604,"Beusichem","Buren","Gelderland",51.9476422,5.2879361
+1605,"Asch","Buren","Gelderland",51.9304493,5.310839
+1606,"Buren","Buren","Gelderland",51.9103889,5.3340584
+1607,"Erichem","Buren","Gelderland",51.8999593,5.3486729
+1608,"Ravenswaaij","Buren","Gelderland",51.95201,5.3271725
+1609,"Everdingen","Vijfheerenlanden","Utrecht",51.9651631,5.1556903
+1610,"Zijderveld","Vijfheerenlanden","Utrecht",51.9434316,5.1390481
+1611,"Hagestein","Vijfheerenlanden","Utrecht",51.9806962,5.1222922
+1612,"Hei- en Boeicop","Vijfheerenlanden","Zuid-Holland",51.9446455,5.0819124
+1613,"Lexmond","Vijfheerenlanden","Zuid-Holland",51.9633397,5.0363307
+1614,"Vianen","Vijfheerenlanden","Utrecht",51.9924967,5.0928772
+1618,"Leerdam","Vijfheerenlanden","Zuid-Holland",51.8909084,5.0895432
+1622,"Schoonrewoerd","Vijfheerenlanden","Zuid-Holland",51.9220123,5.1184369
+1623,"Asperen","West Betuwe","Gelderland",51.8812375,5.1127984
+1624,"Acquoy","West Betuwe","Gelderland",51.8794348,5.1346229
+1625,"Rhenoy","West Betuwe","Gelderland",51.8824694,5.1547505
+1626,"Beesd","West Betuwe","Gelderland",51.8874751,5.1940016
+1627,"Gellicum","West Betuwe","Gelderland",51.8769615,5.1557083
+1628,"Rumpt","West Betuwe","Gelderland",51.8829567,5.1797875
+1629,"Enspijk","West Betuwe","Gelderland",51.8834486,5.2113753
+1630,"Deil","West Betuwe","Gelderland",51.8852281,5.2444122
+1631,"Heukelum","West Betuwe","Gelderland",51.8715098,5.0740528
+1632,"Oosterwijk","Vijfheerenlanden","Zuid-Holland",51.878744,5.0786707
+1633,"Herwijnen","West Betuwe","Gelderland",51.8791273,5.4075345
+1635,"Hellouw","West Betuwe","Gelderland",51.8277306,5.1774625
+1636,"Haaften","West Betuwe","Gelderland",51.8176296,5.2116242
+1637,"Tuil","West Betuwe","Gelderland",51.8226459,5.2398093
+1638,"Waardenburg","West Betuwe","Gelderland",51.8328712,5.2799598
+1640,"Neerijnen","West Betuwe","Gelderland",51.8319019,5.2793557
+1641,"Opijnen","West Betuwe","Gelderland",51.826866,5.2979789
+1642,"Est","West Betuwe","Gelderland",51.8519987,5.3127915
+1643,"Geldermalsen","West Betuwe","Gelderland",51.8817861,5.2824223
+1645,"Meteren","West Betuwe","Gelderland",51.863947,5.2813551
+1646,"Tricht","West Betuwe","Gelderland",51.8901708,5.2655795
+1647,"Buurmalsen","West Betuwe","Gelderland",51.8927468,5.2935555
+1648,"Gorinchem","Gorinchem","Zuid-Holland",51.8294989,4.9743846
+1656,"Schelluinen","Molenlanden","Zuid-Holland",51.8419281,4.9253392
+1657,"Spijk","West Betuwe","Gelderland",51.8557688,5.0077464
+1659,"Dalem","Gorinchem","Zuid-Holland",51.8264014,5.0070217
+1660,"Vuren","West Betuwe","Gelderland",51.8244417,5.0477201
+1661,"Hoogblokland","Molenlanden","Zuid-Holland",51.8744633,4.9753367
+1662,"Hoornaar","Molenlanden","Zuid-Holland",51.8818928,4.9446089
+1663,"Noordeloos","Molenlanden","Zuid-Holland",51.9041025,4.944463
+1664,"Meerkerk","Vijfheerenlanden","Zuid-Holland",52.3004603,4.9667026
+1666,"Ameide","Vijfheerenlanden","Zuid-Holland",51.9543595,4.9624281
+1668,"Arkel","Molenlanden","Zuid-Holland",52.0662691,4.5306763
+1670,"Nieuwland","Vijfheerenlanden","Zuid-Holland",51.9011115,5.0150939
+1671,"Leerbroek","Vijfheerenlanden","Zuid-Holland",51.9085296,5.0509421
+1672,"Kedichem","Vijfheerenlanden","Zuid-Holland",51.859547,5.0500158
+1673,"Werkendam","Altena","Noord-Brabant",51.8065547,4.8967858
+1675,"Sleeuwijk","Altena","Noord-Brabant",51.810891,4.9511788
+1676,"Nieuwendijk","Altena","Noord-Brabant",51.7704114,4.9219419
+1677,"Wijk en Aalburg","Altena","Noord-Brabant",51.7606454,5.1310032
+1679,"Veen",,"Noord-Brabant",51.7793516,5.1077955
+1680,"Genderen","Altena","Noord-Brabant",51.7359282,5.0894323
+1681,"Eethen","Altena","Noord-Brabant",51.7330603,5.0525521
+1682,"Drongelen","Altena","Noord-Brabant",51.715221,5.0535523
+1683,"Meeuwen","Altena","Noord-Brabant",51.728317,5.0090627
+1684,"BabyloniÃ«nbroek","Altena","Noord-Brabant",51.75,5.05
+1685,"Dussen","Altena","Noord-Brabant",51.7300853,4.9636688
+1686,"Hank","Altena","Noord-Brabant",51.734558,4.8959349
+1687,"Andel","Altena","Noord-Brabant",51.6892054,5.0452106
+1689,"Giessen","Altena","Noord-Brabant",51.7906305,5.030891
+1691,"Woudrichem","Altena","Noord-Brabant",51.8170069,5.0037508
+1692,"Almkerk","Altena","Noord-Brabant",51.7719653,4.9609986
+1693,"Waardhuizen","Altena","Noord-Brabant",51.7768855,5.0074388
+1694,"Uitwijk","Altena","Noord-Brabant",51.7856212,5.0071044
+1695,"Zierikzee","Schouwen-Duiveland","Zeeland",51.6471762,3.9188477
+1699,"Ouwerkerk","Schouwen-Duiveland","Zeeland",51.6260288,3.9834204
+1700,"Nieuwerkerk","Schouwen-Duiveland","Zeeland",51.6496411,4.0004632
+1701,"Oosterland","Schouwen-Duiveland","Zeeland",51.6501195,4.0375444
+1702,"Sirjansland","Schouwen-Duiveland","Zeeland",51.6762875,4.0312695
+1703,"Bruinisse","Schouwen-Duiveland","Zeeland",51.6237543,4.1903715
+1705,"Dreischor","Schouwen-Duiveland","Zeeland",51.689295,3.9831787
+1706,"Zonnemaire","Schouwen-Duiveland","Zeeland",51.7130521,3.9518196
+1707,"Noordgouwe","Schouwen-Duiveland","Zeeland",51.6934407,3.9382807
+1708,"Brouwershaven","Schouwen-Duiveland","Zeeland",51.7253972,3.9121993
+1709,"Kerkwerve","Schouwen-Duiveland","Zeeland",51.685601,3.8995116
+1710,"Scharendijke","Schouwen-Duiveland","Zeeland",51.7357017,3.8446523
+1711,"Ellemeet","Schouwen-Duiveland","Zeeland",51.7297274,3.8158588
+1712,"Renesse","Schouwen-Duiveland","Zeeland",51.73129,3.771445
+1713,"Noordwelle","Schouwen-Duiveland","Zeeland",51.7180023,3.7923999
+1714,"Serooskerke","Schouwen-Duiveland","Zeeland",51.7017905,3.8147897
+1715,"Burgh-Haamstede","Schouwen-Duiveland","Zeeland",51.695833,3.743333
+1716,"Middelburg","Middelburg","Zeeland",51.496765,3.5971822
+1725,"Nieuw en Sint Joosland","Middelburg","Zeeland",51.4834686,3.6583794
+1726,"Arnemuiden","Middelburg","Zeeland",51.513446,3.7308001
+1728,"Veere","Veere","Zeeland",51.5482937,3.6660061
+1729,"Gapinge","Veere","Zeeland",51.5438497,3.6242172
+1731,"Vrouwenpolder","Veere","Zeeland",51.5772562,3.6187496
+1732,"Oostkapelle","Veere","Zeeland",51.567147,3.5525823
+1733,"Domburg","Veere","Zeeland",51.5634575,3.4998639
+1734,"Westkapelle","Veere","Zeeland",51.5184166,3.4519334
+1736,"Aagtekerke","Veere","Zeeland",51.5466135,3.511869
+1737,"Grijpskerke","Veere","Zeeland",51.5336858,3.5624386
+1738,"Meliskerke","Veere","Zeeland",51.5140606,3.5097681
+1739,"Koudekerke","Veere","Zeeland",51.4687704,3.5243139
+1741,"Biggekerke","Veere","Zeeland",51.4997479,3.5243893
+1742,"Zoutelande","Veere","Zeeland",51.5023416,3.4867275
+1743,"Vlissingen","Vlissingen","Zeeland",51.4483479,3.5696039
+1751,"Oost-Souburg","Vlissingen","Zeeland",51.467957,3.6055656
+1752,"Ritthem","Vlissingen","Zeeland",51.4513474,3.6260148
+1753,"Yerseke","Reimerswaal","Zeeland",51.4927155,4.0497668
+1755,"Rilland","Reimerswaal","Zeeland",51.4168703,4.1808409
+1756,"Krabbendijke","Reimerswaal","Zeeland",51.4308295,4.1121385
+1757,"Waarde","Reimerswaal","Zeeland",51.4184562,4.0681591
+1758,"Oostdijk","Reimerswaal","Zeeland",51.4435618,4.0789366
+1759,"Kruiningen","Reimerswaal","Zeeland",51.4488556,4.034088
+1760,"Hansweert","Reimerswaal","Zeeland",51.4491458,4.0043985
+1761,"Kapelle","Kapelle","Zeeland",51.4864301,3.957104
+1763,"Schore","Kapelle","Zeeland",51.4626485,3.998334
+1764,"Wemeldinge","Kapelle","Zeeland",51.5167534,3.9964784
+1765,"'s-Gravenpolder","Borsele","Zeeland",51.4585553,3.9041631
+1767,"Hoedekenskerke","Borsele","Zeeland",51.424627,3.9130838
+1768,"Kwadendamme","Borsele","Zeeland",51.4332889,3.8775952
+1769,"Baarland","Borsele","Zeeland",51.4083744,3.8829049
+1770,"Oudelande","Borsele","Zeeland",51.411102,3.8528273
+1771,"Ellewoutsdijk","Borsele","Zeeland",51.3891882,3.8160041
+1772,"Driewegen","Borsele","Zeeland",51.4183279,3.8029224
+1773,"Ovezande","Borsele","Zeeland",51.4297919,3.8216803
+1774,"Nisse","Borsele","Zeeland",51.4557231,3.8518473
+1775,"'s-Heer-Abtskerke","Borsele","Zeeland",51.470885,3.8817753
+1776,"Heinkenszand","Borsele","Zeeland",51.482204,3.797621
+1778,"'s-Heerenhoek","Borsele","Zeeland",51.4530498,3.7697674
+1779,"Borssele","Borsele","Zeeland",51.4256645,3.7336697
+1780,"Nieuwdorp","Borsele","Zeeland",51.4705122,3.7403466
+1781,"Lewedorp","Borsele","Zeeland",51.4951309,3.7501853
+1782,"'s-Heer-Arendskerke","Goes","Zeeland",51.4916391,3.8231764
+1783,"Goes","Goes","Zeeland",51.4997323,3.8861125
+1789,"Wolphaartsdijk","Goes","Zeeland",51.5299685,3.8218161
+1790,"'s-Heer-Hendrikskinderen","Goes","Zeeland",51.5023009,3.8613904
+1791,"Kattendijke","Goes","Zeeland",51.5233235,3.9444848
+1792,"Wilhelminadorp","Goes","Zeeland",51.5292075,3.8968798
+1793,"Kloetinge","Goes","Zeeland",51.5070314,3.9338321
+1795,"Kortgene","Noord-Beveland","Zeeland",51.5578335,3.8031359
+1796,"Kats","Noord-Beveland","Zeeland",51.5679227,3.8860162
+1797,"Colijnsplaat","Noord-Beveland","Zeeland",51.5993241,3.8500147
+1798,"Wissenkerke","Noord-Beveland","Zeeland",51.5691895,3.7553825
+1800,"Kamperland","Noord-Beveland","Zeeland",51.5706508,3.7022927
+1801,"Geersdijk","Noord-Beveland","Zeeland",51.5646664,3.7706136
+1802,"Oostburg","Sluis","Zeeland",51.3254841,3.4908192
+1804,"Groede","Sluis","Zeeland",51.3787644,3.5065781
+1805,"Nieuwvliet","Sluis","Zeeland",51.3719096,3.4733429
+1806,"Zuidzande","Sluis","Zeeland",51.341308,3.4517718
+1807,"Cadzand","Sluis","Zeeland",51.3692317,3.4077694
+1808,"Schoondijke","Sluis","Zeeland",51.3540194,3.5556505
+1809,"Waterlandkerkje","Sluis","Zeeland",51.3191569,3.5598595
+1810,"Breskens","Sluis","Zeeland",51.403198,3.5408837
+1812,"Hoofdplaat","Sluis","Zeeland",51.3697876,3.6615801
+1813,"IJzendijke","Sluis","Zeeland",51.3217174,3.6167632
+1814,"Biervliet","Terneuzen","Zeeland",51.3269506,3.6889172
+1817,"Sluis","Sluis","Zeeland",51.3086558,3.3879195
+1818,"Retranchement","Sluis","Zeeland",51.3481316,3.3852526
+1819,"Aardenburg","Sluis","Zeeland",51.2742727,3.4453328
+1820,"Sint Kruis","Sluis","Zeeland",51.272565,3.4950273
+1821,"Eede","Sluis","Zeeland",51.2468297,3.4431473
+1822,"Terneuzen","Terneuzen","Zeeland",51.3379494,3.8313925
+1830,"Spui","Terneuzen","Zeeland",51.2977464,3.8782696
+1831,"Sluiskil","Terneuzen","Zeeland",51.2963197,3.8511559
+1833,"Hoek","Terneuzen","Zeeland",51.3116932,3.7807246
+1834,"Zaamslag","Terneuzen","Zeeland",51.3127295,3.911686
+1835,"Sas van Gent","Terneuzen","Zeeland",51.2258071,3.7976272
+1837,"Philippine","Terneuzen","Zeeland",51.2826839,3.7587171
+1838,"Westdorpe","Terneuzen","Zeeland",51.2335278,3.8303218
+1839,"Hulst","Hulst","Zeeland",51.2796743,4.0543421
+1842,"Sint Jansteen","Hulst","Zeeland",51.2631795,4.0486905
+1843,"Kapellebrug","Hulst","Zeeland",51.2543768,4.0650501
+1844,"Heikant","Hulst","Zeeland",51.2522521,4.0342834
+1845,"Clinge","Hulst","Zeeland",51.2693961,4.0888417
+1846,"Nieuw-Namen","Hulst","Zeeland",51.2937002,4.1613557
+1847,"Graauw","Hulst","Zeeland",51.3301724,4.1047304
+1848,"Axel","Terneuzen","Zeeland",51.2588941,3.9100399
+1850,"Zuiddorpe","Terneuzen","Zeeland",51.2345512,3.903091
+1851,"Overslag","Terneuzen","Zeeland",51.2031259,3.8914575
+1852,"Koewacht","Terneuzen","Zeeland",51.2293853,3.9680779
+1853,"Vogelwaarde","Hulst","Zeeland",51.3247316,3.9775618
+1854,"Ter Hole","Hulst","Zeeland",51.3161628,4.0368113
+1855,"Kuitaart","Hulst","Zeeland",51.3419995,4.0344976
+1856,"Hengstdijk","Hulst","Zeeland",51.344126,3.9959942
+1857,"Lamswaarde","Hulst","Zeeland",51.3436222,4.0559661
+1858,"Kloosterzande","Hulst","Zeeland",51.3693216,4.0131792
+1859,"Walsoorden","Hulst","Zeeland",51.3814114,4.0276265
+1860,"Ossenisse","Hulst","Zeeland",51.3884661,3.9804612
+1861,"Bergen op Zoom","Bergen op Zoom","Noord-Brabant",51.4932152,4.2902202
+1876,"Hoogerheide","Woensdrecht","Noord-Brabant",51.4058609,4.3345061
+1878,"Woensdrecht","Woensdrecht","Noord-Brabant",51.4292475,4.3047078
+1879,"Huijbergen","Woensdrecht","Noord-Brabant",51.4330637,4.3779637
+1880,"Ossendrecht","Woensdrecht","Noord-Brabant",51.4058609,4.3345061
+1882,"Putte","Woensdrecht","Noord-Brabant",51.358896,4.3957354
+1883,"Steenbergen","Steenbergen","Noord-Brabant",51.627894,4.399958
+1886,"De Heen","Steenbergen","Noord-Brabant",51.6103141,4.2724967
+1887,"Halsteren","Bergen op Zoom","Noord-Brabant",51.5284213,4.2788105
+1889,"Lepelstraat","Bergen op Zoom","Noord-Brabant",51.5495719,4.2767692
+1890,"Dinteloord","Steenbergen","Noord-Brabant",51.627894,4.399958
+1892,"Sint Philipsland","Tholen","Zeeland",51.6167888,4.16795
+1893,"Nieuw-Vossemeer","Steenbergen","Noord-Brabant",51.5896321,4.2179697
+1894,"Tholen","Tholen","Zeeland",51.538619,4.1901932
+1896,"Poortvliet","Tholen","Zeeland",51.5446862,4.143358
+1897,"Scherpenisse","Tholen","Zeeland",51.5463105,4.1040252
+1898,"Sint Maartensdijk","Tholen","Zeeland",51.5491448,4.0767226
+1899,"Stavenisse","Tholen","Zeeland",51.5861025,4.0122135
+1900,"Sint Annaland","Tholen","Zeeland",51.5998713,4.1033185
+1901,"Oud-Vossemeer","Tholen","Zeeland",51.5705615,4.198129
+1902,"Roosendaal","Roosendaal","Noord-Brabant",51.5488875,4.4293118
+1911,"Nispen","Roosendaal","Noord-Brabant",51.4864749,4.4532481
+1912,"Sint Willebrord","Rucphen","Noord-Brabant",51.5517785,4.5897498
+1913,"Sprundel","Rucphen","Noord-Brabant",51.5353221,4.5930928
+1914,"Rucphen","Rucphen","Noord-Brabant",51.5335666,4.5603199
+1915,"Schijf","Rucphen","Noord-Brabant",51.4960157,4.5313899
+1917,"Wouw","Roosendaal","Noord-Brabant",51.5218976,4.3887158
+1918,"Wouwse Plantage","Roosendaal","Noord-Brabant",51.4842696,4.3888071
+1919,"Heerle","Roosendaal","Noord-Brabant",51.5195961,4.3606999
+1920,"Moerstraten","Roosendaal","Noord-Brabant",51.5410276,4.3420642
+1921,"Oudenbosch","Halderberge","Noord-Brabant",51.5896718,4.5515809
+1923,"Zegge","Rucphen","Noord-Brabant",51.5568408,4.5184235
+1924,"Hoeven","Halderberge","Noord-Brabant",51.5791978,4.5839864
+1925,"Bosschenhoofd","Halderberge","Noord-Brabant",51.5608187,4.5423737
+1926,"Oud Gastel","Halderberge","Noord-Brabant",51.5488875,4.4293118
+1928,"Stampersgat","Halderberge","Noord-Brabant",51.6139275,4.4427261
+1929,"Kruisland","Steenbergen","Noord-Brabant",51.5703451,4.4074783
+1930,"Standdaarbuiten","Moerdijk","Noord-Brabant",51.6133003,4.5135592
+1931,"Noordhoek","Moerdijk","Noord-Brabant",51.6429953,4.5336613
+1932,"Zevenbergen","Moerdijk","Noord-Brabant",51.7299368,5.5726323
+1935,"Zevenbergschen Hoek","Moerdijk","Noord-Brabant",51.6731202,4.6782725
+1937,"Langeweg","Moerdijk","Noord-Brabant",51.6496658,4.6467815
+1939,"Moerdijk","Moerdijk","Noord-Brabant",51.5949267,4.5463626
+1942,"Klundert","Moerdijk","Noord-Brabant",51.4390553,5.4358209
+1944,"Fijnaart","Moerdijk","Noord-Brabant",51.6364799,4.4731556
+1945,"Heijningen","Moerdijk","Noord-Brabant",51.6558653,4.4125141
+1946,"Oudemolen","Moerdijk","Noord-Brabant",51.6648557,4.4590927
+1947,"Willemstad","Moerdijk","Noord-Brabant",51.6919469,4.4379073
+1948,"Breda","Breda","Noord-Brabant",51.5896,4.77717
+1974,"Prinsenbeek","Breda","Noord-Brabant",51.602582,4.721368
+1976,"Terheijden","Drimmelen","Noord-Brabant",51.6443817,4.7512386
+1977,"Wagenberg","Drimmelen","Noord-Brabant",51.6646838,4.747925
+1978,"Teteringen","Breda","Noord-Brabant",51.6100996,4.8236992
+1979,"Dorst","Oosterhout","Noord-Brabant",51.5906836,4.8582707
+1980,"Ulvenhout","Breda","Noord-Brabant",51.5613826,4.7920382
+1982,"Bavel","Breda","Noord-Brabant",51.5668739,4.8308114
+1983,"Galder","Alphen-Chaam","Noord-Brabant",51.5142098,4.7741483
+1984,"Strijbeek","Alphen-Chaam","Noord-Brabant",51.5015194,4.7971903
+1987,"Chaam","Alphen-Chaam","Noord-Brabant",51.4811391,4.6154253
+1989,"Etten-Leur","Etten-Leur","Noord-Brabant",51.5857936,4.6450701
+1999,"Zundert","Zundert","Noord-Brabant",51.473146,4.6643297
+2002,"Wernhout","Zundert","Noord-Brabant",51.4558841,4.6431964
+2003,"Achtmaal","Zundert","Noord-Brabant",51.4541025,4.5832867
+2004,"Rijsbergen","Zundert","Noord-Brabant",51.5864096,4.9773537
+2006,"Oosterhout","Oosterhout","Noord-Brabant",51.6394246,4.8618289
+2015,"Oosteind","Oosterhout","Noord-Brabant",51.6460883,4.9036273
+2016,"Den Hout","Oosterhout","Noord-Brabant",51.6586088,4.8120397
+2017,"Made","Drimmelen","Noord-Brabant",51.5817618,4.5283895
+2019,"Drimmelen","Drimmelen","Noord-Brabant",51.7085524,4.8034905
+2020,"Lage Zwaluwe","Drimmelen","Noord-Brabant",51.7102543,4.7042699
+2021,"Hooge Zwaluwe","Drimmelen","Noord-Brabant",51.6883234,4.7426213
+2022,"Geertruidenberg","Geertruidenberg","Noord-Brabant",51.7008149,4.8596086
+2024,"Raamsdonksveer","Geertruidenberg","Noord-Brabant",51.6891589,4.8760318
+2027,"Raamsdonk","Geertruidenberg","Noord-Brabant",51.6898836,4.9043163
+2028,"Tilburg","Tilburg","Noord-Brabant",51.59113,5.09348
+2057,"Goirle","Goirle","Noord-Brabant",51.5588664,5.0800386
+2061,"Berkel-Enschot","Tilburg","Noord-Brabant",51.5878583,5.1465219
+2062,"Heukelom","Oisterwijk","Noord-Brabant",51.5758107,5.154778
+2063,"Oisterwijk","Oisterwijk","Noord-Brabant",51.5809909,5.1980271
+2067,"Moergestel","Oisterwijk","Noord-Brabant",51.5462872,5.1709311
+2068,"Udenhout","Tilburg","Noord-Brabant",51.6348382,5.2090164
+2070,"Biezenmortel","Tilburg","Noord-Brabant",51.6243382,5.1777074
+2071,"Haaren","Oisterwijk","Noord-Brabant",51.6021331,5.2267124
+2072,"Hilvarenbeek","Hilvarenbeek","Noord-Brabant",51.5588664,5.0800386
+2074,"Biest-Houtakker","Hilvarenbeek","Noord-Brabant",51.5081801,5.1591711
+2075,"Esbeek","Hilvarenbeek","Noord-Brabant",51.4622478,5.1370682
+2076,"Diessen","Hilvarenbeek","Noord-Brabant",51.4757206,5.175417
+2077,"Haghorst","Hilvarenbeek","Noord-Brabant",51.4959221,5.2069552
+2078,"Oost- West- en Middelbeers","Oirschot","Noord-Brabant",51.471631,5.2430774
+2079,"Lage Mierde","Reusel-De Mierden","Noord-Brabant",51.4059976,5.150455
+2080,"Hooge Mierde","Reusel-De Mierden","Noord-Brabant",51.3894095,5.1287338
+2081,"Hulsel","Reusel-De Mierden","Noord-Brabant",51.3879936,5.1789361
+2082,"Dongen","Dongen","Noord-Brabant",51.6304849,4.9362777
+2090,"'s-Gravenmoer","Dongen","Noord-Brabant",51.6588074,4.942094
+2091,"Baarle-Nassau","Baarle-Nassau","Noord-Brabant",51.4435,4.92869
+2093,"Ulicoten","Baarle-Nassau","Noord-Brabant",51.4578947,4.8566909
+2094,"CastelrÃ©","Baarle-Nassau","Noord-Brabant",51.4333333,4.7833333
+2095,"Rijen","Gilze en Rijen","Noord-Brabant",51.5675967,4.937517
+2098,"Molenschot","Gilze en Rijen","Noord-Brabant",51.5728921,4.8820195
+2099,"Hulten","Gilze en Rijen","Noord-Brabant",51.5722857,4.9549864
+2100,"Gilze","Gilze en Rijen","Noord-Brabant",51.5442814,4.9413872
+2101,"Alphen","Alphen-Chaam","Noord-Brabant",51.7863327,5.5227297
+2103,"Riel","Goirle","Noord-Brabant",51.5259901,5.0252716
+2104,"Waalwijk","Waalwijk","Noord-Brabant",51.6901729,5.0531762
+2111,"Drunen","Heusden","Noord-Brabant",51.5766966,5.0142747
+2114,"Elshout","Heusden","Noord-Brabant",51.70193,5.1421528
+2115,"Sprang-Capelle","Waalwijk","Noord-Brabant",51.6901729,5.0531762
+2117,"Waspik","Waalwijk","Noord-Brabant",51.685585,4.9495377
+2118,"Kaatsheuvel","Loon op Zand","Noord-Brabant",51.6901729,5.0531762
+2121,"Loon op Zand","Loon op Zand","Noord-Brabant",51.6270137,5.0720086
+2122,"De Moer","Loon op Zand","Noord-Brabant",51.6255918,5.0134146
+2123,"'s-Hertogenbosch","'s-Hertogenbosch","Noord-Brabant",51.677923,5.3295242
+2143,"Rosmalen","'s-Hertogenbosch","Noord-Brabant",51.7184144,5.363585
+2153,"Vlijmen","Heusden","Noord-Brabant",51.57523,4.9720774
+2156,"Nieuwkuijk","Heusden","Noord-Brabant",51.6903595,5.1780672
+2157,"Haarsteeg","Heusden","Noord-Brabant",51.7102766,5.1984482
+2158,"Heusden","Heusden","Noord-Brabant",51.733889,5.138333
+2159,"Berlicum","Sint-Michielsgestel","Noord-Brabant",51.6788511,5.4012001
+2160,"Vught","Vught","Noord-Brabant",51.6574409,5.2994167
+2165,"Cromvoirt","Vught","Noord-Brabant",51.6612638,5.2298416
+2166,"Helvoirt","Vught","Noord-Brabant",51.630874,5.2301204
+2167,"Sint-Michielsgestel","Sint-Michielsgestel","Noord-Brabant",51.6411669,5.3438558
+2170,"Den Dungen","Sint-Michielsgestel","Noord-Brabant",51.6653323,5.3717239
+2171,"Boxtel","Boxtel","Noord-Brabant",51.5922927,5.3162236
+2175,"Gemonde","Sint-Michielsgestel","Noord-Brabant",51.6117629,5.3511555
+2179,"Esch","Boxtel","Noord-Brabant",51.611461,5.2901588
+2180,"Liempde","Boxtel","Noord-Brabant",51.569362,5.3723188
+2181,"Zaltbommel","Zaltbommel","Gelderland",51.8113393,5.2495298
+2184,"Zuilichem","Zaltbommel","Gelderland",51.8080071,5.1358349
+2185,"Brakel","Zaltbommel","Gelderland",51.8186409,5.0934983
+2186,"Poederoijen","Zaltbommel","Gelderland",51.7846183,5.0788795
+2187,"Aalst","Zaltbommel","Gelderland",51.7822878,5.1260223
+2188,"Gameren","Zaltbommel","Gelderland",51.8833486,5.1529531
+2190,"Nieuwaal","Zaltbommel","Gelderland",51.8098893,5.1790214
+2191,"Bruchem","Zaltbommel","Gelderland",51.7867535,5.2383323
+2192,"Kerkwijk","Zaltbommel","Gelderland",51.7750073,5.2195059
+2193,"Delwijnen","Zaltbommel","Gelderland",51.770395,5.1879073
+2194,"Nederhemert","Zaltbommel","Gelderland",51.762778,5.161667
+2195,"Bern","Zaltbommel","Gelderland",51.7483122,5.1656063
+2196,"Hedel","Maasdriel","Gelderland",51.7435935,5.2627663
+2198,"Ammerzoden","Maasdriel","Gelderland",51.7481635,5.2227623
+2199,"Well","Maasdriel","Gelderland",51.7444609,5.204966
+2200,"Hurwenen","Maasdriel","Gelderland",51.8114711,5.3139749
+2201,"Rossum","Maasdriel","Gelderland",51.8018021,5.3354909
+2202,"Kerkdriel","Maasdriel","Gelderland",51.7714743,5.3382611
+2204,"Hoenzadriel","Maasdriel","Gelderland",51.7541878,5.3293322
+2205,"Velddriel","Maasdriel","Gelderland",51.7693183,5.3043655
+2206,"Alem","Maasdriel","Gelderland",51.7875937,5.3408986
+2207,"Oss","Oss","Noord-Brabant",51.786643,5.5215572
+2217,"Berghem","Oss","Noord-Brabant",51.7709329,5.5684345
+2218,"Grave","Land van Cuijk","Noord-Brabant",51.7632906,5.7331862
+2220,"Velp","Land van Cuijk","Noord-Brabant",51.7492525,5.716923
+2221,"Escharen","Land van Cuijk","Noord-Brabant",51.7411436,5.7536682
+2222,"Megen","Oss","Noord-Brabant",51.8213739,5.5636481
+2223,"Macharen","Oss","Noord-Brabant",51.8043581,5.5453565
+2224,"Haren","Oss","Noord-Brabant",51.8014577,5.5849108
+2225,"Ravenstein","Oss","Noord-Brabant",51.8321163,5.5718883
+2227,"Herpen","Oss","Noord-Brabant",51.7719286,5.6419812
+2228,"Schaijk","Maashorst","Noord-Brabant",51.7484858,5.6297284
+2229,"Reek","Maashorst","Noord-Brabant",51.7449838,5.6829659
+2230,"Vinkel","Den Bosch","Noord-Brabant",51.7175457,5.4634582
+2233,"Heesch","Bernheze","Noord-Brabant",51.7317098,5.5278266
+2234,"Geffen","Den Bosch","Noord-Brabant",51.7377855,5.4582737
+2235,"Nistelrode","Bernheze","Noord-Brabant",51.7043949,5.5612692
+2236,"Nuland","Den Bosch","Noord-Brabant",51.7287354,5.433115
+2239,"Oijen","Oss","Noord-Brabant",51.825144,5.5027547
+2240,"Teeffelen","Oss","Noord-Brabant",51.7980878,5.4946541
+2241,"Lithoijen","Oss","Noord-Brabant",51.8009283,5.4591853
+2242,"Lith","Oss","Noord-Brabant",51.8065563,5.4399971
+2243,"Maren-Kessel","Oss","Noord-Brabant",51.7957011,5.3946991
+2244,"Uden","Maashorst","Noord-Brabant",51.6566022,5.6171875
+2251,"Volkel","Maashorst","Noord-Brabant",51.6428528,5.6546035
+2252,"Odiliapeel","Maashorst","Noord-Brabant",51.6439997,5.7029224
+2253,"Zeeland","Maashorst","Noord-Brabant",51.6410753,5.7690201
+2255,"Gemert","Gemert-Bakel","Noord-Brabant",51.5540689,5.6810997
+2258,"Handel","Gemert-Bakel","Noord-Brabant",51.579495,5.7137118
+2259,"Elsendorp","Gemert-Bakel","Noord-Brabant",51.5807827,5.7692663
+2260,"Mortel","Gemert-Bakel","Noord-Brabant",51.5389606,5.7197279
+2261,"Boekel","Boekel","Noord-Brabant",51.6028789,5.6743158
+2262,"Venhorst","Boekel","Noord-Brabant",51.6083485,5.7384754
+2263,"Cuijk","Land van Cuijk","Noord-Brabant",51.7289292,5.878605
+2268,"Sint Agatha","Land van Cuijk","Noord-Brabant",51.7133941,5.9103669
+2269,"Beers","Land van Cuijk","Noord-Brabant",51.7262186,5.8254961
+2270,"Gassel","Land van Cuijk","Noord-Brabant",51.7404991,5.7805781
+2271,"Linden","Land van Cuijk","Noord-Brabant",51.7492987,5.8333084
+2272,"Oeffelt","Land van Cuijk","Noord-Brabant",51.6928062,5.9386646
+2273,"Haps","Land van Cuijk","Noord-Brabant",51.6896523,5.8625696
+2274,"Landhorst","Land van Cuijk","Noord-Brabant",51.618252,5.7918908
+2275,"Wanroij","Land van Cuijk","Noord-Brabant",51.6565966,5.8221627
+2276,"Rijkevoort","Land van Cuijk","Noord-Brabant",51.6577927,5.8851558
+2277,"Rijkevoort-De Walsert","Land van Cuijk","Noord-Brabant",51.646667,5.861111
+2278,"Mill","Land van Cuijk","Noord-Brabant",51.6531351,5.8069413
+2280,"Langenboom","Land van Cuijk","Noord-Brabant",51.7022167,5.7291508
+2281,"Sint Hubert","Land van Cuijk","Noord-Brabant",51.6781424,5.8098778
+2282,"Wilbertoord","Land van Cuijk","Noord-Brabant",51.655076,5.7739829
+2283,"Veghel","Meierijstad","Noord-Brabant",51.607583,5.5362367
+2291,"Erp","Meierijstad","Noord-Brabant",51.6015073,5.6062082
+2292,"Loosbroek","Bernheze","Noord-Brabant",51.6836819,5.5093219
+2294,"Heeswijk-Dinther","Bernheze","Noord-Brabant",51.650278,5.475
+2295,"Vorstenbosch","Bernheze","Noord-Brabant",51.6534974,5.5510569
+2296,"Schijndel","Meierijstad","Noord-Brabant",51.6191143,5.435366
+2299,"Sint-Oedenrode","Meierijstad","Noord-Brabant",51.5625482,5.4595334
+2302,"Veldhoven","Veldhoven","Noord-Brabant",51.4209328,5.4045443
+2312,"Knegsel","Eersel","Noord-Brabant",51.3996231,5.344687
+2313,"Vessem","Eersel","Noord-Brabant",51.4196789,5.2884532
+2314,"Wintelre","Eersel","Noord-Brabant",51.4436419,5.340608
+2315,"Eersel","Eersel","Noord-Brabant",51.3569604,5.3115562
+2317,"Steensel","Eersel","Noord-Brabant",51.3781787,5.352071
+2318,"Duizel","Eersel","Noord-Brabant",51.3689175,5.2966333
+2319,"Hapert","Bladel","Noord-Brabant",51.3685373,5.2558944
+2320,"Hoogeloon","Bladel","Noord-Brabant",51.396699,5.2684294
+2321,"Casteren","Bladel","Noord-Brabant",51.3964385,5.2383109
+2322,"Bladel","Bladel","Noord-Brabant",51.3619505,5.2184932
+2324,"Netersel","Bladel","Noord-Brabant",51.4045925,5.2096153
+2325,"Reusel","Reusel-De Mierden","Noord-Brabant",51.3677473,5.171578
+2327,"Valkenswaard","Valkenswaard","Noord-Brabant",51.3501477,5.4608605
+2334,"Riethoven","Bergeijk","Noord-Brabant",51.3525213,5.3865427
+2335,"Westerhoven","Bergeijk","Noord-Brabant",51.3314776,5.403675
+2336,"Bergeijk","Bergeijk","Noord-Brabant",51.3208087,5.3571702
+2338,"Luyksgestel","Bergeijk","Noord-Brabant",51.2893698,5.3258872
+2339,"Waalre","Waalre","Noord-Brabant",51.4319167,5.4175198
+2343,"Heeze","Heeze-Leende","Noord-Brabant",51.3812802,5.587193
+2345,"Leende","Heeze-Leende","Noord-Brabant",51.3494735,5.5525049
+2346,"Eindhoven","Eindhoven","Noord-Brabant",51.473798,5.452834
+2385,"Geldrop","Geldrop-Mierlo","Noord-Brabant",51.4478557,5.490054
+2393,"Nuenen","Nuenen, Gerwen en Nederwetten","Noord-Brabant",51.4478557,5.490054
+2398,"Best","Best","Noord-Brabant",51.4362766,5.4245307
+2404,"Oirschot","Oirschot","Noord-Brabant",51.5320155,5.306528
+2406,"Son","Son en Breugel","Noord-Brabant",51.5244947,5.4824473
+2409,"Breugel","Son en Breugel","Noord-Brabant",51.5184209,5.5117846
+2410,"Helmond","Helmond","Noord-Brabant",51.4961325,5.667027
+2420,"Someren","Someren","Noord-Brabant",51.3913081,5.7093737
+2423,"Lierop","Someren","Noord-Brabant",51.4191765,5.6821138
+2424,"Asten","Asten","Noord-Brabant",51.3913081,5.7093737
+2426,"Ommel","Asten","Noord-Brabant",51.4231409,5.7476111
+2428,"Mierlo","Geldrop-Mierlo","Noord-Brabant",51.4275926,5.5681558
+2430,"Aarle-Rixtel","Laarbeek","Noord-Brabant",51.5096192,5.6364183
+2431,"Lieshout","Laarbeek","Noord-Brabant",51.5197504,5.5945613
+2432,"Mariahout","Laarbeek","Noord-Brabant",51.5397618,5.5714891
+2433,"Beek en Donk","Laarbeek","Noord-Brabant",51.538654,5.628708
+2435,"Deurne","Deurne","Noord-Brabant",51.4638061,5.7945788
+2440,"Vlierden","Deurne","Noord-Brabant",51.4445635,5.7596074
+2441,"Liessel","Deurne","Noord-Brabant",51.4141759,5.821055
+2442,"Neerkant","Deurne","Noord-Brabant",51.3684598,5.8667024
+2443,"Helenaveen","Deurne","Noord-Brabant",51.3907101,5.917854
+2444,"Bakel","Gemert-Bakel","Noord-Brabant",51.5540985,5.6828569
+2446,"Milheeze","Gemert-Bakel","Noord-Brabant",51.5038039,5.7800695
+2447,"Rips","Gemert-Bakel","Noord-Brabant",51.5504737,5.807514
+2448,"Griendtsveen","Horst aan de Maas","Limburg",51.4421994,5.8912113
+2449,"Meijel","Peel en Maas","Limburg",51.3440883,5.8908029
+2450,"Venray","Venray","Limburg",51.524712,5.9748704
+2455,"Oostrum","Venray","Limburg",51.528588,6.0161961
+2456,"Oirlo","Venray","Limburg",51.5148307,6.0331578
+2457,"Leunen","Venray","Limburg",51.508274,5.9796526
+2458,"Castenray","Venray","Limburg",51.4891704,6.0358747
+2459,"Heide","Venray","Limburg",51.5049224,5.9503411
+2460,"Ysselsteyn","Venray","Limburg",51.4898334,5.8968362
+2461,"Veulen","Venray","Limburg",51.4828482,5.9554233
+2462,"Merselo","Venray","Limburg",51.5297637,5.9283115
+2463,"Vredepeel","Venray","Limburg",51.541458,5.8691665
+2464,"Smakt","Venray","Limburg",51.5681813,6.0045218
+2465,"Vierlingsbeek","Land van Cuijk","Noord-Brabant",51.5964371,6.0071434
+2466,"Maashees","Land van Cuijk","Noord-Brabant",51.5701118,6.03481
+2467,"Holthees","Land van Cuijk","Noord-Brabant",51.5740303,6.0084241
+2468,"Overloon","Land van Cuijk","Noord-Brabant",51.5715151,5.9476477
+2469,"Groeningen","Land van Cuijk","Noord-Brabant",51.6096284,5.9968846
+2470,"Vortum-Mullem","Land van Cuijk","Noord-Brabant",51.6209888,5.9787141
+2471,"Boxmeer","Land van Cuijk","Noord-Brabant",51.6480194,5.9442034
+2473,"Beugen","Land van Cuijk","Noord-Brabant",51.6729024,5.9373811
+2474,"Sambeek","Land van Cuijk","Noord-Brabant",51.6356817,5.9650533
+2475,"Oploo","Land van Cuijk","Noord-Brabant",51.6423026,5.7721034
+2477,"Westerbeek","Land van Cuijk","Noord-Brabant",51.5824394,5.8639128
+2478,"Stevensbeek","Land van Cuijk","Noord-Brabant",51.6034193,5.9160981
+2479,"Sint Anthonis","Land van Cuijk","Noord-Brabant",51.6271613,5.8851934
+2480,"Ledeacker","Land van Cuijk","Noord-Brabant",51.6362282,5.8746627
+2481,"Afferden","Bergen","Flevoland",52.5279781,5.5953508
+2482,"Siebengewald","Bergen","Limburg",51.6499329,6.1054976
+2485,"Wellerlooi","Bergen","Limburg",51.5348134,6.1368845
+2486,"Wanssum","Venray","Limburg",51.5363948,6.0756528
+2487,"Geysteren","Horst aan de Maas","Limburg",51.550566,6.0499585
+2488,"Blitterswijck","Venray","Limburg",51.5317535,6.1089177
+2489,"Meerlo","Horst aan de Maas","Limburg",51.5135768,6.0854637
+2490,"Tienray","Horst aan de Maas","Limburg",51.4953398,6.0926863
+2491,"Swolgen","Horst aan de Maas","Limburg",51.4920154,6.1173012
+2492,"Broekhuizenvorst","Horst aan de Maas","Limburg",51.4950867,6.1569232
+2493,"Broekhuizen","Horst aan de Maas","Limburg",51.4861249,6.1636824
+2494,"Venlo","Venlo","Limburg",51.3669066,6.1680878
+2510,"Tegelen","Venlo","Limburg",51.3441241,6.1377539
+2513,"Steijl","Venlo","Limburg",51.3332053,6.1219083
+2514,"Velden","Venlo","Limburg",51.4029637,6.1784563
+2516,"Lomm","Venlo","Limburg",51.4482863,6.1696691
+2517,"Arcen","Venlo","Limburg",51.4763636,6.1809478
+2518,"Belfeld","Venlo","Limburg",51.3105598,6.1153726
+2520,"Reuver","Beesel","Limburg",51.2862173,6.0828226
+2521,"Beesel","Beesel","Limburg",51.2696984,6.0468338
+2522,"Horst","Horst aan de Maas","Limburg",51.4647397,6.0484978
+2524,"Melderslo","Horst aan de Maas","Limburg",51.4615797,6.084853
+2525,"Hegelsom","Horst aan de Maas","Limburg",51.4342209,6.0229257
+2526,"Meterik","Horst aan de Maas","Limburg",51.4552708,6.0249317
+2527,"America","Horst aan de Maas","Limburg",51.4362036,5.9792472
+2528,"Grubbenvorst","Horst aan de Maas","Limburg",51.4195163,6.1569655
+2530,"Lottum","Horst aan de Maas","Limburg",51.4608598,6.1605462
+2531,"Sevenum","Horst aan de Maas","Limburg",51.410634,6.0262189
+2532,"Kronenberg","Horst aan de Maas","Limburg",51.4152483,6.0005521
+2533,"Evertsoord","Horst aan de Maas","Limburg",51.4035422,5.9583872
+2534,"Panningen","Peel en Maas","Limburg",51.3211923,5.9772619
+2536,"Koningslust","Peel en Maas","Limburg",51.3564059,5.993904
+2537,"Grashoek","Helden","Limburg",51.3599859,5.9416989
+2538,"Beringe","Peel en Maas","Limburg",51.3368412,5.9482681
+2539,"Egchel","Peel en Maas","Limburg",51.3134105,5.9713597
+2540,"Helden","Peel en Maas","Limburg",51.319895,6.0003768
+2541,"Baarlo","Peel en Maas","Limburg",51.3569579,6.1321366
+2543,"Maasbree","Peel en Maas","Limburg",51.3584896,6.0503002
+2544,"Kessel","Peel en Maas","Limburg",51.2926693,6.0540036
+2545,"Weert","Weert","Limburg",51.253197,5.7200076
+2552,"Ell","Leudal","Limburg",51.2201477,5.7950699
+2553,"Haler","Leudal","Limburg",51.1880645,5.7800231
+2554,"Hunsel","Leudal","Limburg",51.1881543,5.8131944
+2555,"Ittervoort","Leudal","Limburg",51.1698532,5.8180288
+2556,"Neeritter","Leudal","Limburg",51.1645144,5.8030819
+2557,"Thorn","Maasgouw","Limburg",51.1626128,5.8427213
+2558,"Wessem","Maasgouw","Limburg",51.160396,5.8814392
+2559,"Budel","Cranendonck","Noord-Brabant",51.2568254,5.6004011
+2561,"Budel-Schoot","Cranendonck","Noord-Brabant",51.250289,5.5666271
+2562,"Budel-Dorplein","Cranendonck","Noord-Brabant",51.2363484,5.5880076
+2563,"Maarheeze","Cranendonck","Noord-Brabant",51.3103841,5.6148653
+2564,"Soerendonk","Cranendonck","Noord-Brabant",51.3018545,5.5741425
+2565,"Gastel","Cranendonck","Noord-Brabant",51.2850098,5.5564143
+2566,"Sterksel","Heeze-Leende","Noord-Brabant",51.3506055,5.6118505
+2567,"Nederweert","Nederweert","Limburg",51.2836176,5.7475885
+2569,"Nederweert-Eind","Nederweert","Limburg",51.276111,5.779722
+2570,"Ospel","Nederweert","Limburg",51.2995048,5.7861993
+2571,"Kelpen-Oler","Leudal","Limburg",51.2180484,5.8284007
+2572,"Stramproy","Weert","Limburg",51.1943225,5.722053
+2573,"Roermond","Roermond","Limburg",51.1958494,5.9858348
+2579,"Herten","Roermond","Limburg",51.181315,5.9624494
+2580,"Maasbracht","Maasgouw","Limburg",51.1458591,5.891771
+2582,"Posterholt","Roerdalen","Limburg",51.0690108,5.8510078
+2584,"Vlodrop","Roerdalen","Limburg",51.1331277,6.0757908
+2585,"Montfort","Roerdalen","Limburg",51.1260454,5.9476358
+2586,"Linne","Maasgouw","Limburg",51.155428,5.9405902
+2587,"Swalmen","Roermond","Limburg",51.2382609,6.0507425
+2589,"Melick","Roerdalen","Limburg",51.1572306,6.033625
+2590,"Herkenbosch","Roerdalen","Limburg",51.1564244,6.0584854
+2591,"Sint OdiliÃ«nberg","Roerdalen","Limburg",51.15,6
+2592,"Haelen","Leudal","Limburg",51.2385905,5.9533793
+2594,"Buggenum","Leudal","Limburg",51.2323713,5.981036
+2595,"Nunhem","Leudal","Limburg",51.2453624,5.9609248
+2596,"Horn","Leudal","Limburg",51.2100669,5.9472027
+2597,"Neer","Leudal","Limburg",51.259826,5.9893002
+2598,"Roggel","Leudal","Limburg",51.2625256,5.9225139
+2599,"Heibloem","Leudal","Limburg",51.3007315,5.8957599
+2600,"Leveroy","Nederweert","Limburg",51.2547991,5.8242896
+2602,"Heythuysen","Leudal","Limburg",51.2474835,5.9014274
+2603,"Baexem","Leudal","Limburg",51.2246814,5.8800423
+2604,"Grathem","Leudal","Limburg",51.1941673,5.8575731
+2605,"Heel","Maasgouw","Limburg",51.1773069,5.8974233
+2606,"Beegden","Maasgouw","Limburg",51.1896078,5.9178131
+2607,"Echt","Echt-Susteren","Limburg",51.0989899,5.8807662
+2610,"Koningsbosch","Echt-Susteren","Limburg",51.0512859,5.9583775
+2611,"Maria Hoop","Echt-Susteren","Limburg",51.091389,5.969444
+2612,"Stevensweert","Maasgouw","Limburg",51.13123,5.8456817
+2613,"OhÃ© en Laak","Maasgouw","Limburg",51.1166667,5.85
+2614,"Sint Joost","Echt-Susteren","Limburg",51.1063504,5.9068971
+2616,"Susteren","Echt-Susteren","Limburg",51.0640999,5.8527448
+2617,"Roosteren","Echt-Susteren","Limburg",51.0827501,5.8159001
+2618,"Nieuwstadt","Echt-Susteren","Limburg",51.0368359,5.8618076
+2619,"Born","Sittard-Geleen","Limburg",50.7308383,5.8779229
+2621,"Buchten","Sittard-Geleen","Limburg",51.0404326,5.8104448
+2622,"Holtum","Sittard-Geleen","Limburg",51.0484812,5.8240233
+2623,"Papenhoven","Sittard-Geleen","Limburg",51.040833,5.780556
+2624,"Obbicht","Sittard-Geleen","Limburg",51.0280231,5.7812383
+2625,"Grevenbicht","Sittard-Geleen","Limburg",51.0378003,5.774008
+2626,"Urmond","Stein","Limburg",50.9904464,5.7769151
+2627,"Sittard","Sittard-Geleen","Limburg",50.99619,5.86902
+2635,"Limbricht","Sittard-Geleen","Limburg",51.0127729,5.8369369
+2636,"Einighausen","Sittard-Geleen","Limburg",51.0022236,5.8266196
+2637,"Guttecoven","Sittard-Geleen","Limburg",51.0135741,5.8177077
+2638,"Munstergeleen","Sittard-Geleen","Limburg",50.9741745,5.8639537
+2639,"Windraak","Sittard-Geleen","Limburg",50.9723785,5.8890634
+2640,"Puth","Beekdaelen","Limburg",50.9554323,5.8705487
+2641,"Geleen","Sittard-Geleen","Limburg",50.9504076,5.8324062
+2649,"Stein","Stein","Limburg",50.9679065,5.768199
+2651,"Sweikhuizen","Beekdaelen","Limburg",50.9533396,5.8458946
+2652,"Spaubeek","Beek","Limburg",50.9348612,5.8428501
+2653,"Elsloo","Stein","Limburg",50.9484656,5.7696738
+2654,"Beek","Beek","Limburg",50.9394539,5.7937326
+2657,"Maastricht-Airport","Beek","Limburg",50.924444,5.781111
+2658,"Maastricht","Maastricht","Limburg",50.8402418,5.7015598
+2680,"Meerssen","Meerssen","Limburg",50.8849502,5.7536005
+2682,"Ulestraten","Meerssen","Limburg",50.9052194,5.7806749
+2683,"Moorveld","Meerssen","Limburg",50.9192879,5.764185
+2684,"Bunde","Meerssen","Limburg",50.8608905,5.6902461
+2686,"Geulle","Meerssen","Limburg",50.9219779,5.7493883
+2687,"Eijsden","Eijsden-Margraten","Limburg",50.7773424,5.7077516
+2688,"Gronsveld","Eijsden-Margraten","Limburg",50.8093304,5.7316401
+2689,"Eckelrade","Eijsden-Margraten","Limburg",50.8081935,5.7783674
+2691,"Noorbeek","Eijsden-Margraten","Limburg",50.768969,5.8126918
+2692,"Mheer","Eijsden-Margraten","Limburg",50.7785433,5.7927004
+2693,"Banholt","Eijsden-Margraten","Limburg",50.7923877,5.8073292
+2694,"Sint Geertruid","Eijsden-Margraten","Limburg",50.7956698,5.7653784
+2695,"Cadier en Keer","Eijsden-Margraten","Limburg",50.8283686,5.7661277
+2696,"Bemelen","Eijsden-Margraten","Limburg",50.846974,5.7638236
+2697,"Margraten","Eijsden-Margraten","Limburg",50.8204632,5.8209934
+2698,"Gulpen","Gulpen-Wittem","Limburg",50.8100161,5.8888138
+2700,"Ingber","Gulpen-Wittem","Limburg",50.8182441,5.8596677
+2701,"Reijmerstok","Gulpen-Wittem","Limburg",50.8010119,5.8396199
+2702,"Heijenrath","Gulpen-Wittem","Limburg",50.7761248,5.8742237
+2703,"Slenaken","Gulpen-Wittem","Limburg",50.7686548,5.8613458
+2704,"Beutenaken","Gulpen-Wittem","Limburg",50.7814337,5.8555215
+2705,"Mechelen","Gulpen-Wittem","Limburg",50.7953616,5.9247456
+2706,"Epen","Gulpen-Wittem","Limburg",50.7748368,5.9137339
+2707,"Wittem","Gulpen-Wittem","Limburg",50.8137818,5.9121234
+2708,"Eys","Gulpen-Wittem","Limburg",50.8257683,5.9349048
+2709,"Elkenrade","Gulpen-Wittem","Limburg",50.8410995,5.9183908
+2710,"Vaals","Vaals","Limburg",50.7707927,6.0187953
+2712,"Vijlen","Vaals","Limburg",50.7887847,5.9632976
+2713,"Lemiers","Vaals","Limburg",50.7854894,5.9924527
+2716,"Schin op Geul","Valkenburg aan de Geul","Limburg",50.8537836,5.873265
+2717,"Scheulder","Eijsden-Margraten","Limburg",50.8294318,5.8426081
+2718,"Ransdaal","Voerendaal","Limburg",50.8578128,5.8819227
+2720,"Wijlre","Gulpen-Wittem","Limburg",50.8328661,5.89428
+2721,"Berg en Terblijt","Valkenburg aan de Geul","Limburg",50.86112,5.78447
+2722,"Schimmert","Beekdaelen","Limburg",50.9064579,5.8261927
+2723,"Hulsberg","Beekdaelen","Limburg",50.889875,5.8578124
+2724,"Walem","Valkenburg aan de Geul","Limburg",50.8642273,5.8711971
+2726,"Klimmen","Voerendaal","Limburg",50.8716769,5.8846898
+2727,"Bocholtz","Simpelveld","Limburg",50.8180412,6.0088551
+2728,"Baneheide","Simpelveld","Limburg",50.8183424,5.9753571
+2729,"Nuth","Beekdaelen","Limburg",50.919009,5.8871214
+2731,"Wijnandsrade","Beekdaelen","Limburg",50.9053628,5.8836304
+2732,"Schinnen","Beekdaelen","Limburg",50.9436467,5.8793607
+2733,"Voerendaal","Voerendaal","Limburg",50.8725871,5.9253165
+2734,"Simpelveld","Simpelveld","Limburg",50.8340269,5.9826108
+2735,"Landgraaf","Landgraaf","Limburg",50.9052835,6.024469
+2740,"Heerlen","Heerlen","Limburg",50.8853317,5.9764042
+2753,"Hoensbroek","Heerlen","Limburg",50.9383579,5.9787478
+2757,"Amstenrade","Beekdaelen","Limburg",50.9394805,5.9247853
+2758,"Oirsbeek","Beekdaelen","Limburg",50.9501105,5.9079467
+2759,"Doenrade","Beekdaelen","Limburg",50.9677447,5.9064088
+2760,"Brunssum","Brunssum","Limburg",50.9443284,5.9695188
+2767,"Merkelbeek","Beekdaelen","Limburg",50.9539439,5.9400246
+2768,"Schinveld","Beekdaelen","Limburg",50.9822602,6.0045724
+2770,"Jabeek","Beekdaelen","Limburg",50.9812482,5.9408642
+2771,"Bingelrade","Beekdaelen","Limburg",50.9762479,5.9261389
+2772,"Kerkrade","Kerkrade","Limburg",50.8647494,6.0652729
+2782,"Eygelshoven","Kerkrade","Limburg",50.8920268,6.0591374
+2783,"Nijmegen","Nijmegen","Gelderland",51.8469018,5.8659734
+2809,"Weurt","Beuningen","Gelderland",51.8601965,5.8094841
+2811,"Groesbeek","Berg en Dal","Gelderland",51.7776679,5.9323548
+2814,"Heilig Landstichting","Berg en Dal","Gelderland",51.8144753,5.8893539
+2815,"Millingen aan de Rijn","Berg en Dal","Gelderland",51.8633,6.0475
+2816,"Berg en Dal","Berg en Dal","Gelderland",51.8115994,5.9254694
+2818,"Beek-Ubbergen","Berg en Dal","Gelderland",51.8325697,5.9299505
+2819,"Ubbergen","Berg en Dal","Gelderland",51.8368067,5.9022384
+2820,"Persingen","Berg en Dal","Gelderland",51.8410511,5.9181207
+2821,"Ooij","Berg en Dal","Gelderland",51.8546481,5.9391535
+2822,"Erlecom","Berg en Dal","Gelderland",51.8480833,5.9612034
+2823,"Leuth","Berg en Dal","Gelderland",51.8376223,5.9930785
+2824,"Kekerdom","Berg en Dal","Gelderland",51.8646192,6.0094122
+2825,"Malden","Heumen","Gelderland",51.7961234,5.8257646
+2827,"Heumen","Heumen","Gelderland",51.7645323,5.8431502
+2828,"Molenhoek","Mook en Middelaar","Limburg",51.7650181,5.8699691
+2829,"Mook","Mook en Middelaar","Limburg",51.7514159,5.8834801
+2830,"Plasmolen","Mook en Middelaar","Limburg",51.7358346,5.9251617
+2831,"Middelaar","Mook en Middelaar","Limburg",51.7247379,5.9156076
+2832,"Gennep","Gennep","Limburg",51.701983,5.9680414
+2834,"Ottersum","Gennep","Limburg",51.7024505,5.9845826
+2835,"Milsbeek","Gennep","Limburg",51.7265999,5.9507431
+2836,"Heijen","Gennep","Limburg",51.674561,5.9788072
+2837,"Ven-Zelderheide","Gennep","Limburg",51.7119985,6.0234434
+2838,"Wijchen","Wijchen","Gelderland",51.8084742,5.7276577
+2844,"Niftrik","Wijchen","Gelderland",51.7964381,5.6712102
+2845,"Overasselt","Heumen","Gelderland",51.7615399,5.7856131
+2847,"Nederasselt","Heumen","Gelderland",51.7721853,5.7434596
+2848,"Balgoij","Wijchen","Gelderland",51.780278,5.713889
+2849,"Leur","Wijchen","Gelderland",51.8184636,5.6936586
+2850,"Hernen","Wijchen","Gelderland",51.8339481,5.6805759
+2851,"Bergharen","Wijchen","Gelderland",51.8504049,5.6661841
+2852,"Dreumel","West Maas en Waal","Gelderland",51.8362556,5.486937
+2854,"Heerewaarden","Maasdriel","Gelderland",51.8173181,5.3930495
+2856,"Maasbommel","West Maas en Waal","Gelderland",51.8216389,5.534452
+2857,"Altforst","West Maas en Waal","Gelderland",51.8492801,5.565354
+2858,"Appeltern","West Maas en Waal","Gelderland",51.8321175,5.5846537
+2859,"Horssen","Druten","Gelderland",51.8551824,5.609271
+2860,"Batenburg","Wijchen","Gelderland",51.8224967,5.6295322
+2861,"Beuningen","Beuningen","Gelderland",51.8635875,5.7798237
+2864,"Ewijk","Beuningen","Gelderland",51.869987,5.7374579
+2865,"Winssen","Beuningen","Gelderland",51.8817876,5.7067548
+2866,"Druten","Druten","Gelderland",51.888554,5.6046552
+2869,"Deest","Druten","Gelderland",51.8892306,5.6660108
+2871,"Puiflijk","Druten","Gelderland",51.8784055,5.5909275
+2872,"Boven-Leeuwen","West Maas en Waal","Gelderland",51.885586,5.551554
+2873,"Beneden-Leeuwen","West Maas en Waal","Gelderland",51.8823027,5.5178903
+2874,"Wamel","West Maas en Waal","Gelderland",51.8775456,5.4576816
+2878,"Lent","Nijmegen","Gelderland",51.8620511,5.8671918
+2879,"Driel","Overbetuwe","Gelderland",51.9621243,5.8119397
+2880,"Heteren","Overbetuwe","Gelderland",51.9599741,5.7509005
+2881,"Randwijk","Overbetuwe","Gelderland",51.9529593,5.709109
+2882,"Dodewaard","Neder-Betuwe","Gelderland",51.9105136,5.6568202
+2883,"Zetten","Overbetuwe","Gelderland",51.9275855,5.7133445
+2885,"Hemmen","Overbetuwe","Gelderland",51.9342706,5.6999306
+2886,"Andelst","Overbetuwe","Gelderland",51.9074859,5.7288373
+2887,"Herveld","Overbetuwe","Gelderland",51.9030519,5.7536219
+2888,"Valburg","Overbetuwe","Gelderland",51.9108668,5.7881438
+2889,"Homoet","Overbetuwe","Gelderland",51.933841,5.79026
+2890,"Slijk-Ewijk","Overbetuwe","Gelderland",51.8849709,5.7882905
+2893,"Bemmel","Lingewaard","Gelderland",51.8924102,5.8907121
+2895,"Ressen","Nijmegen","Gelderland",51.8899741,5.8681436
+2897,"Haalderen","Lingewaard","Gelderland",51.8860922,5.92783
+2898,"Doornenburg","Lingewaard","Gelderland",51.8899909,5.9996818
+2899,"Angeren","Lingewaard","Gelderland",51.9163268,5.9568715
+2900,"Gendt","Lingewaard","Gelderland",51.8781292,5.9702398
+2902,"Wageningen","Wageningen","Gelderland",51.9647622,5.6629452
+2912,"Ede","Ede","Gelderland",52.0431065,5.6682725
+2921,"Bennekom","Ede","Gelderland",52.0289479,5.559304
+2923,"Otterlo","Ede","Gelderland",52.0996367,5.773453
+2924,"Harskamp","Ede","Gelderland",52.1348693,5.7495058
+2925,"Wekerom","Ede","Gelderland",52.1123738,5.7152647
+2926,"Lunteren","Ede","Gelderland",52.083613,5.6199265
+2928,"Ederveen","Ede","Gelderland",52.0628171,5.5789161
+2929,"De Klomp","Ede","Gelderland",52.0476361,5.5740299
+2930,"Arnhem","Arnhem","Gelderland",52.0099492,5.9066406
+2960,"Huissen","Lingewaard","Gelderland",51.936359,5.9426836
+2963,"Oosterbeek","Renkum","Gelderland",51.9863321,5.844909
+2966,"Doorwerth","Renkum","Gelderland",51.9799552,5.7998237
+2967,"Heelsum","Renkum","Gelderland",51.9821438,5.752274
+2968,"Renkum","Renkum","Gelderland",51.9759774,5.7931349
+2970,"Wolfheze","Renkum","Gelderland",52.0024191,5.7861376
+2971,"Deelen","Ede","Gelderland",52.0667189,5.8940333
+2976,"Rozendaal","Rozendaal","Gelderland",52.0097855,5.9665074
+2977,"Zevenaar","Zevenaar","Gelderland",51.9285355,6.0753605
+2983,"Babberich","Zevenaar","Gelderland",51.9067702,6.1121712
+2984,"Pannerden","Zevenaar","Gelderland",51.8880305,6.0447439
+2985,"Aerdt","Zevenaar","Gelderland",51.8939934,6.083127
+2986,"Herwen","Zevenaar","Gelderland",51.8871911,6.1022394
+2987,"Lobith","Zevenaar","Gelderland",51.861895,6.1185933
+2988,"Tolkamer","Zevenaar","Gelderland",51.852073,6.1032046
+2990,"Duiven","Duiven","Gelderland",51.948974,6.0245889
+2993,"Groessen","Duiven","Gelderland",51.9319086,6.0291449
+2994,"Loo","Duiven","Gelderland",51.930351,5.9871029
+2995,"Westervoort","Westervoort","Gelderland",51.9622027,5.9677696
+2998,"Didam","Montferland","Gelderland",51.9411214,6.1288097
+3001,"Dieren","Rheden","Gelderland",52.0509992,6.1011131
+3005,"Ellecom","Rheden","Gelderland",52.0317786,6.0874534
+3006,"Spankeren","Rheden","Gelderland",52.0580435,6.1125359
+3007,"Laag-Soeren","Rheden","Gelderland",52.0835588,6.0739664
+3008,"Eerbeek","Brummen","Gelderland",52.5329042,6.1127693
+3010,"Hall","Brummen","Gelderland",52.1119999,6.1016524
+3011,"Brummen","Brummen","Gelderland",52.0886365,6.1470846
+3013,"Leuvenheim","Brummen","Gelderland",52.0745753,6.1393956
+3014,"Tonden","Brummen","Gelderland",52.1379608,6.1323271
+3015,"Doesburg","Doesburg","Gelderland",52.015169,6.1336114
+3020,"Angerlo","Zevenaar","Gelderland",51.9956681,6.1334407
+3021,"Giesbeek","Zevenaar","Gelderland",51.9937389,6.0707844
+3022,"Lathum","Zevenaar","Gelderland",51.9877312,6.0199814
+3023,"Rheden","Rheden","Gelderland",52.015792,6.024913
+3025,"De Steeg","Rheden","Gelderland",52.0190867,6.0597786
+3026,"Drempt","Bronckhorst","Gelderland",52.007799,6.1740024
+3027,"Hoog-Keppel","Bronckhorst","Gelderland",52.005582,6.2038641
+3028,"Laag-Keppel","Bronckhorst","Gelderland",51.9969999,6.2240648
+3029,"Hummelo","Bronckhorst","Gelderland",52.0054488,6.2341555
+3030,"Doetinchem","Doetinchem","Gelderland",51.9663828,6.2886137
+3040,"Gaanderen","Doetinchem","Gelderland",51.9302044,6.3477531
+3041,"Zelhem","Bronckhorst","Gelderland",51.9987779,6.3454761
+3043,"Halle","Bronckhorst","Gelderland",51.9904752,6.4288122
+3044,"Wehl","Doetinchem","Gelderland",51.9614684,6.2098276
+3046,"Kilder","Montferland","Gelderland",51.9375549,6.2321038
+3047,"Loerbeek","Montferland","Gelderland",51.9202429,6.1989397
+3049,"Zeddam","Montferland","Gelderland",51.9033324,6.2583142
+3050,"Stokkum","Montferland","Gelderland",51.8774173,6.2225361
+3051,"'s-Heerenberg","Montferland","Gelderland",51.8746606,6.2455904
+3053,"Lengel","Montferland","Gelderland",51.8861452,6.2667255
+3054,"Azewijn","Montferland","Gelderland",51.8869632,6.3056136
+3055,"Vethuizen","Montferland","Gelderland",51.9131842,6.300888
+3056,"Braamt","Montferland","Gelderland",51.9226581,6.2643586
+3057,"Wijnbergen","Montferland","Gelderland",51.9331305,6.2743088
+3058,"Varsseveld","Oude IJsselstreek","Gelderland",51.9791259,6.4392719
+3060,"Westendorp","Oude IJsselstreek","Gelderland",51.9502975,6.4132311
+3061,"Heelweg","Oude IJsselstreek","Gelderland",51.971667,6.465556
+3062,"Terborg","Oude IJsselstreek","Gelderland",51.9198625,6.3604636
+3064,"Silvolde","Oude IJsselstreek","Gelderland",51.9094896,6.3849034
+3065,"Sinderen","Oude IJsselstreek","Gelderland",51.9045837,6.4611313
+3066,"Ulft","Oude IJsselstreek","Gelderland",51.89014,6.38044
+3068,"Etten","Oude IJsselstreek","Gelderland",51.9158139,6.3387627
+3069,"Varsselder-Veldhunten","Oude IJsselstreek","Gelderland",51.8835365,6.3441366
+3070,"Netterden","Oude IJsselstreek","Gelderland",51.8560488,6.3138811
+3071,"Megchelen","Oude IJsselstreek","Gelderland",51.8386731,6.3935931
+3072,"Gendringen","Oude IJsselstreek","Gelderland",51.8734055,6.374097
+3074,"Voorst","Oude IJsselstreek","Gelderland",51.8764719,6.4163392
+3075,"Breedenbroek","Oude IJsselstreek","Gelderland",51.8757895,6.4692446
+3076,"Dinxperlo","Aalten","Gelderland",51.8614859,6.487853
+3078,"De Heurne","Aalten","Gelderland",51.8894094,6.4912905
+3079,"Winterswijk","Winterswijk","Gelderland",51.9725966,6.7182648
+3083,"Winterswijk Meddo","Winterswijk","Gelderland",52.0126958,6.7049291
+3084,"Winterswijk Huppel","Winterswijk","Gelderland",52.002875,6.7585034
+3085,"Winterswijk Ratum","Winterswijk","Gelderland",51.9769898,6.8099513
+3086,"Winterswijk Kotten","Winterswijk","Gelderland",51.9384239,6.7698806
+3087,"Winterswijk Woold","Winterswijk","Gelderland",51.925388,6.7193026
+3088,"Winterswijk Miste","Winterswijk","Gelderland",51.9444578,6.6601764
+3089,"Winterswijk Henxel","Winterswijk","Gelderland",51.9819552,6.7558951
+3090,"Winterswijk Brinkheurne","Winterswijk","Gelderland",51.9504426,6.7457105
+3091,"Winterswijk Corle","Winterswijk","Gelderland",51.9633551,6.6516469
+3092,"Aalten","Aalten","Gelderland",51.9273137,6.581382
+3096,"Heurne","Aalten","Gelderland",52.014433,6.4405166
+3097,"Bredevoort","Aalten","Gelderland",51.9421422,6.6184985
+3098,"Lichtenvoorde","Oost Gelre","Gelderland",51.9941586,6.5880118
+3101,"Vragender","Oost Gelre","Gelderland",51.986733,6.6117406
+3102,"Harreveld","Oost Gelre","Gelderland",51.9802834,6.5144451
+3103,"Zieuwent","Oost Gelre","Gelderland",52.0034671,6.5196681
+3104,"Lievelde","Oost Gelre","Gelderland",52.0095187,6.5947685
+3105,"Groenlo","Oost Gelre","Gelderland",52.04102,6.61924
+3108,"Eibergen","Berkelland","Gelderland",52.10221,6.64713
+3111,"Beltrum","Berkelland","Gelderland",52.0680567,6.5634316
+3112,"Rekken","Berkelland","Gelderland",52.0941369,6.723281
+3113,"Neede","Berkelland","Gelderland",52.1168296,6.5307119
+3115,"Rietmolen","Berkelland","Gelderland",52.1406755,6.6627635
+3116,"Zutphen","Zutphen","Gelderland",52.1580835,6.2064546
+3124,"Eefde","Lochem","Gelderland",52.1640328,6.2314647
+3125,"Gorssel","Lochem","Gelderland",52.201424,6.2011394
+3126,"Epse","Lochem","Gelderland",52.2250088,6.2020898
+3127,"Joppe","Lochem","Gelderland",52.208341,6.2307681
+3128,"Kring van Dorth","Lochem","Gelderland",52.2205894,6.2680259
+3129,"Harfsen","Lochem","Gelderland",52.2072171,6.2973588
+3130,"Almen","Lochem","Gelderland",52.1579224,6.3023448
+3131,"Steenderen","Bronckhorst","Gelderland",52.0633705,6.1877242
+3133,"Baak","Bronckhorst","Gelderland",52.0762516,6.2252849
+3134,"Rha","Bronckhorst","Gelderland",52.0540092,6.1451152
+3135,"Olburgen","Bronckhorst","Gelderland",52.0456583,6.123997
+3136,"Bronkhorst","Bronckhorst","Gelderland",52.0757855,6.1809748
+3137,"Toldijk","Bronckhorst","Gelderland",52.053962,6.221237
+3138,"Warnsveld","Zutphen","Gelderland",52.1330792,6.2893337
+3141,"Vierakker","Bronckhorst","Gelderland",52.1075872,6.2350546
+3142,"Wichmond","Bronckhorst","Gelderland",52.0900691,6.2596307
+3143,"Lochem","Lochem","Gelderland",52.1616213,6.4151762
+3146,"Barchem","Lochem","Gelderland",52.1242208,6.4486221
+3148,"Vorden","Bronckhorst","Gelderland",52.1012912,6.3223282
+3150,"Hengelo","Bronckhorst","Gelderland",52.0520215,6.3113901
+3151,"Keijenborg","Bronckhorst","Gelderland",52.0291979,6.2977603
+3152,"Ruurlo","Berkelland","Gelderland",52.0788928,6.4449674
+3154,"MariÃ«nvelde","Oost Gelre","Gelderland",52.0166667,6.4666667
+3155,"Borculo","Berkelland","Gelderland",52.1146148,6.5243397
+3157,"Haarlo","Berkelland","Gelderland",52.111698,6.5803627
+3158,"Geesteren","Berkelland","Gelderland",52.1388797,6.5258544
+3159,"Gelselaar","Berkelland","Gelderland",52.1701382,6.5244158
+3160,"Apeldoorn","Apeldoorn","Gelderland",52.2205307,5.988588
+3187,"Ugchelen","Apeldoorn","Gelderland",52.1771238,5.8931714
+3188,"Beemte Broekland","Apeldoorn","Gelderland",52.255833,5.99
+3189,"Wenum Wiesel","Apeldoorn","Gelderland",52.2446684,5.9278042
+3190,"Hoog Soeren","Apeldoorn","Gelderland",52.205141,5.8655143
+3191,"Radio Kootwijk","Apeldoorn","Gelderland",52.1745753,5.827017
+3192,"Hoenderloo","Ede","Gelderland",52.1182068,5.8777855
+3195,"Beekbergen","Apeldoorn","Gelderland",52.1370377,6.0024405
+3197,"Lieren","Apeldoorn","Gelderland",52.1622894,5.9887781
+3198,"Loenen","Apeldoorn","Gelderland",52.1291347,6.0315049
+3200,"Klarenbeek","Voorst","Gelderland",52.1847318,6.072406
+3204,"Wilp","Voorst","Gelderland",52.2192375,6.1515414
+3205,"Twello","Voorst","Gelderland",52.2505913,6.1032549
+3208,"Teuge","Voorst","Gelderland",52.2354487,6.0489772
+3209,"Terwolde","Voorst","Gelderland",52.2836031,6.0990234
+3210,"Nijbroek","Voorst","Gelderland",52.2917672,6.0617326
+3211,"Empe","Brummen","Gelderland",52.1552704,6.1410918
+3212,"Deventer","Deventer","Overijssel",52.2515782,6.1556741
+3232,"Colmschate","Deventer","Overijssel",52.248611,6.218333
+3233,"Diepenveen","Deventer","Overijssel",52.3163556,6.1224717
+3235,"Schalkhaar","Deventer","Overijssel",52.268486,6.1940083
+3236,"Lettele","Deventer","Overijssel",52.2765024,6.2719909
+3237,"Okkenbroek","Deventer","Overijssel",52.2983662,6.320483
+3238,"Bathmen","Deventer","Overijssel",52.2503032,6.2860997
+3239,"Steenenkamer","Voorst","Gelderland",52.2440677,6.1489797
+3240,"Nijverdal","Hellendoorn","Overijssel",52.36435,6.4605672
+3244,"Hellendoorn","Hellendoorn","Overijssel",52.3870446,6.4542947
+3245,"Haarle","Tubbergen","Overijssel",52.359722,6.380278
+3246,"Holten","Rijssen-Holten","Overijssel",52.2824387,6.4210583
+3248,"Rijssen","Rijssen-Holten","Overijssel",52.2824387,6.4210583
+3252,"Zuna","Wierden","Overijssel",52.3296389,6.5084591
+3253,"Notter","Wierden","Overijssel",52.333679,6.5193307
+3254,"Enter","Wierden","Overijssel",52.294847,6.5780796
+3255,"Goor","Hof van Twente","Overijssel",52.3560394,6.9546341
+3258,"Markelo","Hof van Twente","Overijssel",52.2318971,6.5000676
+3259,"Diepenheim","Hof van Twente","Overijssel",52.200578,6.5579901
+3260,"Haaksbergen","Haaksbergen","Overijssel",52.1683937,6.7169852
+3264,"Delden","Hof van Twente","Overijssel",52.26275,6.71243
+3266,"Ambt Delden","Hof van Twente","Overijssel",52.2707575,6.6395438
+3267,"Hengevelde","Hof van Twente","Overijssel",52.1973319,6.6395278
+3268,"Bentelo","Hof van Twente","Overijssel",52.2253675,6.6836861
+3269,"Enschede","Enschede","Overijssel",52.204661,6.8812288
+3305,"Deurningen","Dinkelland","Overijssel",52.3000363,6.8369416
+3307,"Oldenzaal","Oldenzaal","Overijssel",52.312599,6.930282
+3315,"Losser","Losser","Overijssel",52.2630065,7.0054757
+3318,"Glane","Losser","Overijssel",52.233839,7.0033132
+3319,"Overdinkel","Losser","Overijssel",52.2402256,7.0335926
+3320,"De Lutte","Losser","Overijssel",52.3149047,6.9874149
+3322,"Denekamp","Dinkelland","Overijssel",52.3744014,7.0061041
+3324,"Weerselo","Dinkelland","Overijssel",52.3514479,6.8540934
+3326,"Saasveld","Dinkelland","Overijssel",52.331452,6.8074325
+3327,"Almelo","Almelo","Overijssel",52.3578423,6.6624587
+3338,"Aadorp","Almelo","Overijssel",52.37416,6.6289088
+3339,"Mariaparochie","Tubbergen","Overijssel",52.3802348,6.7069399
+3340,"Harbrinkhoek","Tubbergen","Overijssel",52.3850724,6.7205855
+3341,"Borne","Borne","Overijssel",52.3002495,6.7572774
+3345,"Zenderen","Borne","Overijssel",52.3231896,6.7258119
+3346,"Hertme","Borne","Overijssel",52.3201799,6.7601777
+3347,"Bornerbroek","Almelo","Overijssel",52.3085181,6.655053
+3348,"Ootmarsum","Dinkelland","Overijssel",52.4080602,6.8974551
+3350,"Tilligte","Dinkelland","Overijssel",52.4046707,6.9503282
+3351,"Lattrop-Breklenkamp","Dinkelland","Overijssel",52.426667,6.975833
+3352,"Agelo","Dinkelland","Overijssel",52.3925,6.886111
+3353,"Oud-Ootmarsum","Dinkelland","Overijssel",52.4180102,6.9089293
+3354,"Nutter","Dinkelland","Overijssel",52.4229625,6.8807226
+3355,"Wierden","Wierden","Overijssel",52.3557835,6.5928269
+3358,"Hoge Hexel","Wierden","Overijssel",52.3963222,6.5641148
+3359,"Tubbergen","Tubbergen","Overijssel",52.4081486,6.7805151
+3361,"Vasse","Tubbergen","Overijssel",52.4347951,6.831258
+3362,"Hezingen","Tubbergen","Overijssel",52.44141,6.8567959
+3363,"Mander","Tubbergen","Overijssel",52.4451854,6.8260297
+3364,"Manderveen","Tubbergen","Overijssel",52.4453261,6.7781231
+3365,"Albergen","Tubbergen","Overijssel",52.3732628,6.7636425
+3366,"Fleringen","Tubbergen","Overijssel",52.3806059,6.8048226
+3367,"Reutum","Tubbergen","Overijssel",52.3910739,6.8458257
+3369,"Vriezenveen","Twenterand","Overijssel",52.412255,6.6253198
+3372,"Bruinehaar","Twenterand","Overijssel",52.4700667,6.7053984
+3373,"Westerhaar-Vriezenveensewijk","Twenterand","Overijssel",52.4474666,6.6340956
+3375,"Langeveen","Tubbergen","Overijssel",52.4688342,6.7122981
+3376,"Vroomshoop","Twenterand","Overijssel",52.4634837,6.5272757
+3378,"Den Ham","Twenterand","Overijssel",52.4643982,6.4942602
+3379,"Beerzerveld","Ommen","Overijssel",52.4931864,6.5751177
+3380,"Geerdijk","Twenterand","Overijssel",52.473871,6.5361971
+3381,"Daarlerveen","Hellendoorn","Overijssel",52.4427788,6.5770881
+3382,"Daarle","Hellendoorn","Overijssel",52.4351093,6.536381
+3383,"Bergentheim","Hardenberg","Overijssel",52.5267308,6.6147783
+3384,"MariÃ«nberg","Hardenberg","Overijssel",52.5166667,6.5666667
+3385,"Sibculo","Hardenberg","Overijssel",52.4819795,6.6370606
+3386,"Kloosterhaar","Hardenberg","Overijssel",52.4952797,6.6701002
+3387,"Bruchterveld","Hardenberg","Overijssel",52.5300436,6.6628427
+3388,"Brucht","Hardenberg","Overijssel",52.5517272,6.6095023
+3389,"Dedemsvaart","Hardenberg","Overijssel",52.6045875,6.4518059
+3392,"Drogteropslagen","De Wolden","Drenthe",52.6224364,6.4977465
+3393,"Balkbrug","Hardenberg","Overijssel",52.6005467,6.391224
+3394,"Nieuwleusen","Dalfsen","Overijssel",52.5921271,6.2820886
+3396,"Punthorst","Staphorst","Overijssel",52.613889,6.263333
+3397,"Dalfsen","Dalfsen","Overijssel",52.5030365,6.2577077
+3400,"Ommen","Ommen","Overijssel",52.5258675,6.4237139
+3402,"Vilsteren","Ommen","Overijssel",52.5109849,6.3520644
+3403,"ArriÃ«n","Ommen","Overijssel",52.5333333,6.45
+3404,"Beerze","Ommen","Overijssel",52.5136479,6.5279649
+3405,"Stegeren","Ommen","Overijssel",52.5236417,6.508687
+3406,"Witharen","Ommen","Overijssel",52.5580135,6.3958443
+3407,"Vinkenbuurt","Ommen","Overijssel",52.5786768,6.3358125
+3408,"Coevorden","Coevorden","Drenthe",52.6668238,6.7438055
+3411,"Dalen","Coevorden","Drenthe",52.6994032,6.7567822
+3412,"Dalerpeel","Coevorden","Drenthe",52.6795361,6.6596398
+3413,"Wachtum","Coevorden","Drenthe",52.7236641,6.7495309
+3414,"Dalerveen","Coevorden","Drenthe",52.6950496,6.8099187
+3415,"Stieltjeskanaal","Coevorden","Drenthe",52.6748679,6.8258857
+3416,"Schoonebeek","Emmen","Drenthe",52.6621731,6.8828506
+3418,"Zandpol","Emmen","Drenthe",52.6942061,6.8665361
+3419,"Weiteveen","Emmen","Drenthe",52.6714283,6.9988843
+3420,"Nieuw-Schoonebeek","Emmen","Drenthe",52.646371,6.9859122
+3421,"Hardenberg","Hardenberg","Overijssel",52.5734115,6.6195476
+3425,"Lutten","Hardenberg","Overijssel",52.6111248,6.5735742
+3426,"Slagharen","Hardenberg","Overijssel",52.6268548,6.5571307
+3427,"Schuinesloot","Hardenberg","Overijssel",52.6447125,6.5526705
+3428,"Loozen","Hardenberg","Overijssel",52.5936784,6.6654677
+3429,"Holthone","Hardenberg","Overijssel",52.6412029,6.6841063
+3430,"De Krim","Hardenberg","Overijssel",52.633175,6.6427718
+3433,"Gramsbergen","Hardenberg","Overijssel",52.6112646,6.674114
+3434,"Ane","Hardenberg","Overijssel",52.613657,6.6530537
+3435,"Anevelde","Hardenberg","Overijssel",52.5975062,6.6496078
+3436,"Den Velde","Hardenberg","Overijssel",52.6003485,6.6914457
+3437,"Holtheme","Hardenberg","Overijssel",52.6132395,6.6916399
+3438,"Anerveen","Hardenberg","Overijssel",52.6314083,6.6572574
+3439,"Radewijk","Hardenberg","Overijssel",52.570246,6.7106212
+3440,"Venebrugge","Hardenberg","Overijssel",52.5605572,6.6737839
+3441,"Hoogenweg","Hardenberg","Overijssel",52.5667895,6.6617967
+3442,"Rheeze","Hardenberg","Overijssel",52.5468903,6.581385
+3443,"Diffelen","Hardenberg","Overijssel",52.5238919,6.5586442
+3444,"Heemserveen","Hardenberg","Overijssel",52.586265,6.5806667
+3445,"Rheezerveen","Hardenberg","Overijssel",52.569017,6.5311769
+3446,"Collendoorn","Hardenberg","Overijssel",52.5942909,6.5958059
+3447,"Emmen","Emmen","Drenthe",52.7845481,6.8930276
+3462,"Nieuw-Weerdinge","Emmen","Drenthe",52.8567203,6.9875144
+3463,"Nieuw-Amsterdam","Emmen","Drenthe",52.7145064,6.863239
+3464,"Sleen","Coevorden","Drenthe",52.7756717,6.8023989
+3465,"Diphoorn","Coevorden","Drenthe",52.7700627,6.8197339
+3466,"Erm","Coevorden","Drenthe",52.75,6.816667
+3467,"Veenoord","Emmen","Drenthe",52.7145189,6.845464
+3468,"Holsloot","Coevorden","Drenthe",52.7282157,6.8023629
+3469,"Noord-Sleen","Coevorden","Drenthe",52.7918785,6.8022555
+3470,"'t Haantje","Coevorden","Drenthe",52.8143455,6.8220143
+3471,"Schoonoord","Coevorden","Drenthe",52.8463259,6.756837
+3472,"De Kiel","Coevorden","Drenthe",52.8633699,6.7316824
+3473,"Zweeloo","Coevorden","Drenthe",52.7943878,6.7306765
+3474,"Wezup","Coevorden","Drenthe",52.8120962,6.719235
+3475,"Wezuperbrug","Coevorden","Drenthe",52.8404098,6.7206171
+3476,"Aalden","Coevorden","Drenthe",52.7918073,6.7175711
+3477,"Meppen","Coevorden","Drenthe",52.7822588,6.6948796
+3478,"Benneveld","Coevorden","Drenthe",52.776578,6.7461816
+3479,"Eeserveen","Borger-Odoorn","Drenthe",52.8724234,6.761826
+3481,"Oosterhesselen","Coevorden","Drenthe",52.757589,6.7173263
+3482,"Gees","Coevorden","Drenthe",52.7495746,6.6910798
+3483,"Zwinderen","Coevorden","Drenthe",52.7266049,6.6765411
+3484,"Klijndijk","Borger-Odoorn","Drenthe",52.8304724,6.857936
+3485,"Valthe","Borger-Odoorn","Drenthe",52.8454306,6.8941775
+3486,"Odoorn","Borger-Odoorn","Drenthe",52.8505215,6.8470359
+3487,"Odoornerveen","Borger-Odoorn","Drenthe",52.843806,6.7865982
+3488,"Exloo","Borger-Odoorn","Drenthe",52.8826954,6.8648949
+3489,"Valthermond","Borger-Odoorn","Drenthe",52.8751593,6.948558
+3490,"Tweede Valthermond","Borger-Odoorn","Drenthe",52.8902525,7.0254193
+3491,"Emmer-Compascuum","Emmen","Drenthe",52.8117839,7.0457254
+3492,"Barger-Compascuum","Emmen","Drenthe",52.7548724,7.0416603
+3493,"Nieuw-Dordrecht","Emmen","Drenthe",52.7485136,6.9678617
+3494,"Erica","Emmen","Drenthe",52.7103574,6.9281865
+3495,"Klazienaveen-Noord","Emmen","Drenthe",52.7719191,7.0020222
+3496,"Klazienaveen","Emmen","Drenthe",52.7151892,6.969668
+3499,"Zwartemeer","Emmen","Drenthe",52.7201947,7.0416848
+3500,"Roswinkel","Emmen","Drenthe",52.8375134,7.0388792
+3501,"Hoogeveen","Hoogeveen","Drenthe",52.7259869,6.4749354
+3511,"Nieuweroord","Hoogeveen","Drenthe",52.7213458,6.5791028
+3513,"Hollandscheveld","Hoogeveen","Drenthe",52.7051845,6.5394136
+3514,"Noordscheschut","Hoogeveen","Drenthe",52.7237546,6.5356
+3515,"Alteveer","Hoogeveen","Drenthe",52.6827085,6.5007462
+3516,"Elim","Hoogeveen","Drenthe",52.6813088,6.5800537
+3517,"Geesbrug","Coevorden","Drenthe",52.727147,6.6343282
+3518,"Nieuwlande","Hoogeveen","Drenthe",52.6951862,6.6101208
+3519,"Zuidwolde","De Wolden","Drenthe",52.6648766,6.4396004
+3521,"Veeningen","De Wolden","Drenthe",52.6694862,6.3713321
+3522,"Linde","De Wolden","Drenthe",52.6394212,6.4477951
+3523,"Kerkenveld","De Wolden","Drenthe",52.6674899,6.5046801
+3525,"Nieuwlande Coevorden","Coevorden","Drenthe",52.7044659,6.6408586
+3526,"Fluitenberg","Hoogeveen","Drenthe",52.7360087,6.4520253
+3527,"Echten","De Wolden","Drenthe",52.7120531,6.3989238
+3528,"Pesse","Hoogeveen","Drenthe",52.7722444,6.4501941
+3529,"Stuifzand","Hoogeveen","Drenthe",52.7474721,6.49875
+3530,"Eursinge","De Wolden","Drenthe",52.7770085,6.4440406
+3531,"Tiendeveen","Hoogeveen","Drenthe",52.74672,6.5437401
+3532,"Nieuw Balinge","Midden-Drenthe","Drenthe",52.7673402,6.6056588
+3533,"Meppel","Meppel","Drenthe",52.6980793,6.1903523
+3538,"Wanneperveen","Steenwijkerland","Overijssel",52.7038368,6.1235013
+3539,"Nijeveen","Meppel","Drenthe",52.7316875,6.1636226
+3540,"Rogat","Meppel","Drenthe",52.6881001,6.2656138
+3541,"Staphorst","Staphorst","Overijssel",52.6440543,6.2108429
+3543,"Rouveen","Staphorst","Overijssel",52.6158208,6.1790162
+3544,"IJhorst","Staphorst","Overijssel",52.6593004,6.2925301
+3545,"De Wijk","De Wolden","Drenthe",52.6742848,6.2922178
+3546,"Koekange","De Wolden","Drenthe",52.7000927,6.3184641
+3547,"Ruinerwold","De Wolden","Drenthe",52.7224272,6.2477691
+3548,"Ruinen","De Wolden","Drenthe",52.763737,6.3599286
+3549,"Ansen","De Wolden","Drenthe",52.7824535,6.3341311
+3551,"De Schiphorst","Meppel","Drenthe",52.6819564,6.2454234
+3552,"Havelte","Westerveld","Drenthe",52.769872,6.2327874
+3554,"Darp","Westerveld","Drenthe",52.7748364,6.2036734
+3555,"Havelterberg","Westerveld","Drenthe",52.7730409,6.176729
+3556,"Uffelte","Westerveld","Drenthe",52.7905962,6.2781653
+3557,"Diever","Westerveld","Drenthe",52.8547376,6.3177419
+3558,"Wapse","Westerveld","Drenthe",52.8576344,6.2655306
+3559,"Dieverbrug","Westerveld","Drenthe",52.846944,6.340833
+3560,"Geeuwenbrug","Westerveld","Drenthe",52.872778,6.370278
+3561,"Wittelte","Westerveld","Drenthe",52.8294057,6.3073113
+3562,"Dwingeloo","Westerveld","Drenthe",52.8357516,6.3634012
+3564,"Zwolle","Zwolle","Overijssel",52.5177547,6.1002817
+3593,"Hattem","Hattem","Gelderland",52.4743729,6.0695368
+3596,"Laag Zuthem","Raalte","Overijssel",52.4588197,6.1741547
+3597,"Hasselt","Zwartewaterland","Overijssel",52.5951263,6.0931171
+3599,"Zwartsluis","Zwartewaterland","Overijssel",52.6408691,6.0703159
+3600,"Belt-Schutsloot","Steenwijkerland","Overijssel",52.6710661,6.0640437
+3601,"Nunspeet","Nunspeet","Gelderland",52.376673,5.7840898
+3604,"Elspeet","Nunspeet","Gelderland",52.2924294,5.7876983
+3605,"Vierhouten","Nunspeet","Gelderland",52.332086,5.8297801
+3606,"Hulshorst","Nunspeet","Gelderland",52.3624138,5.7252759
+3608,"Elburg","Elburg","Gelderland",52.4481735,5.8365337
+3611,"'t Harde","Elburg","Gelderland",52.4154103,5.8839833
+3612,"Doornspijk","Elburg","Gelderland",52.4182772,5.8176767
+3613,"Wezep","Oldebroek","Gelderland",52.4620967,5.9985569
+3615,"Hattemerbroek","Oldebroek","Gelderland",52.4740221,6.0225654
+3616,"'t Loo Oldebroek","Oldebroek","Gelderland",52.4458724,5.9535445
+3617,"Oldebroek","Oldebroek","Gelderland",52.4474448,5.8983168
+3618,"Oosterwolde","Oldebroek","Gelderland",52.4650841,5.89463
+3619,"Raalte","Raalte","Overijssel",52.3875279,6.2768222
+3623,"Luttenberg","Raalte","Overijssel",52.4048721,6.3675484
+3624,"MariÃ«nheem","Raalte","Overijssel",52.3833333,6.3166667
+3625,"Broekland","Raalte","Overijssel",52.361667,6.2
+3626,"Heeten","Raalte","Overijssel",52.3326062,6.2815599
+3627,"Nieuw Heeten","Raalte","Overijssel",52.3194906,6.3515673
+3628,"Olst","Olst-Wijhe","Overijssel",52.3367369,6.1111839
+3630,"Wesepe","Olst-Wijhe","Overijssel",52.3310595,6.213719
+3631,"Wijhe","Olst-Wijhe","Overijssel",52.387959,6.1350152
+3632,"Heino","Raalte","Overijssel",52.3875279,6.2768222
+3634,"Lierderholthuis","Raalte","Overijssel",52.4357007,6.192276
+3635,"Dalmsholte","Ommen","Overijssel",52.4775637,6.3602991
+3636,"Giethmen","Ommen","Overijssel",52.488687,6.4107738
+3637,"Lemele","Ommen","Overijssel",52.4541351,6.4163371
+3638,"Lemelerveld","Dalfsen","Overijssel",52.4412282,6.3584704
+3642,"Epe","Epe","Gelderland",52.3490175,5.9857336
+3645,"Emst","Epe","Gelderland",52.3142226,5.9752263
+3646,"Oene","Epe","Gelderland",52.3441039,6.0473687
+3647,"Vaassen","Epe","Gelderland",52.2832367,6.0681238
+3650,"Heerde","Heerde","Gelderland",52.3880172,6.0427787
+3652,"Wapenveld","Heerde","Gelderland",52.4318059,6.0744092
+3654,"Vorchten","Heerde","Gelderland",52.3985828,6.1068357
+3655,"Veessen","Heerde","Gelderland",52.3773778,6.0893526
+3656,"Welsum","Olst-Wijhe","Overijssel",52.3361006,6.0901814
+3657,"Marle","Olst-Wijhe","Overijssel",52.4132581,6.1260936
+3658,"Lelystad","Lelystad","Flevoland",52.5069018,5.4711006
+3680,"Dronten","Dronten","Flevoland",52.523599,5.7176977
+3685,"Swifterbant","Dronten","Flevoland",52.5673148,5.6410931
+3686,"Biddinghuizen","Dronten","Flevoland",52.4552356,5.692693
+3687,"Kampen","Kampen","Overijssel",52.559358,5.916223
+3695,"IJsselmuiden","Kampen","Overijssel",52.5653152,5.9325723
+3696,"Wilsum","Kampen","Overijssel",52.5293995,5.9634435
+3697,"'s-Heerenbroek","Kampen","Overijssel",52.5384188,6.0121874
+3698,"Zalk","Kampen","Overijssel",52.5206144,6.0088264
+3699,"Grafhorst","Kampen","Overijssel",52.5806421,5.9337653
+3700,"Kamperveen","Kampen","Overijssel",52.5092678,5.9151615
+3701,"Genemuiden","Zwartewaterland","Overijssel",52.6255389,6.0424139
+3703,"Mastenbroek","Zwartewaterland","Overijssel",52.5913292,6.0360363
+3707,"Emmeloord","Noordoostpolder","Flevoland",52.714596,5.7507377
+3713,"Ens","Noordoostpolder","Flevoland",52.636582,5.8271288
+3714,"Nagele","Noordoostpolder","Flevoland",52.6441699,5.7242342
+3715,"Tollebeek","Noordoostpolder","Flevoland",52.6785436,5.6771077
+3716,"Espel","Noordoostpolder","Flevoland",52.724601,5.6419913
+3717,"Creil","Noordoostpolder","Flevoland",52.7632436,5.6585421
+3718,"Rutten","Noordoostpolder","Flevoland",52.8063117,5.6972857
+3719,"Bant","Noordoostpolder","Flevoland",52.7668017,5.7499054
+3720,"Luttelgeest","Noordoostpolder","Flevoland",52.7452418,5.8533301
+3721,"Marknesse","Noordoostpolder","Flevoland",52.7115592,5.8645588
+3722,"Kraggenburg","Noordoostpolder","Flevoland",52.662505,5.899955
+3723,"Schokland","Noordoostpolder","Flevoland",52.6439531,5.7736587
+3724,"Urk","Urk","Flevoland",52.6636333,5.6020369
+3727,"Vollenhove","Steenwijkerland","Overijssel",52.6734759,5.9625154
+3728,"Sint Jansklooster","Steenwijkerland","Overijssel",52.6781926,6.0081125
+3729,"Steenwijk","Steenwijkerland","Overijssel",52.7886096,6.1118291
+3732,"Tuk","Steenwijkerland","Overijssel",52.796389,6.094722
+3733,"Witte Paarden","Steenwijkerland","Overijssel",52.8094237,6.0777804
+3734,"Baars","Steenwijkerland","Overijssel",52.8133461,6.0909096
+3735,"De Pol","Steenwijkerland","Overijssel",52.824016,6.0781888
+3736,"Willemsoord","Steenwijkerland","Overijssel",52.8252656,6.0624376
+3737,"Marijenkampen","Steenwijkerland","Overijssel",52.8154534,6.0589933
+3738,"Steenwijkerwold","Steenwijkerland","Overijssel",52.8045827,6.0647433
+3739,"Basse","Steenwijkerland","Overijssel",52.8046033,6.031882
+3740,"Zuidveen","Steenwijkerland","Overijssel",52.7779722,6.1061692
+3741,"Onna","Steenwijkerland","Overijssel",52.7731967,6.1598236
+3742,"Kallenkote","Steenwijkerland","Overijssel",52.7953581,6.1722833
+3743,"De Bult","Steenwijkerland","Overijssel",52.814115,6.1242803
+3744,"Eesveen","Steenwijkerland","Overijssel",52.8243647,6.142197
+3745,"Wapserveen","Westerveld","Drenthe",52.8274572,6.2330688
+3746,"Giethoorn","Steenwijkerland","Overijssel",52.7401779,6.0779779
+3747,"Blokzijl","Steenwijkerland","Overijssel",52.7260165,5.9621294
+3748,"IJsselham","Steenwijkerland","Overijssel",52.8081866,5.9574952
+3749,"Nederland","Steenwijkerland","Overijssel",52.7549781,5.9652516
+3750,"Wetering","Steenwijkerland","Overijssel",52.7611021,5.9933761
+3751,"Scheerwolde","Steenwijkerland","Overijssel",52.7568944,6.014545
+3753,"Blankenham","Steenwijkerland","Overijssel",52.7653927,5.8987326
+3754,"Kuinre","Steenwijkerland","Overijssel",52.7876615,5.8412115
+3755,"Oldemarkt","Steenwijkerland","Overijssel",52.8201219,5.9748349
+3756,"Ossenzijl","Steenwijkerland","Overijssel",52.8087816,5.9211295
+3757,"Kalenberg","Steenwijkerland","Overijssel",52.7762674,5.9560481
+3758,"Paasloo","Steenwijkerland","Overijssel",52.8133756,6.013115
+3759,"Vledder","Westerveld","Drenthe",52.8574253,6.2104423
+3760,"Frederiksoord","Westerveld","Drenthe",52.8434333,6.1838777
+3761,"Nijensleek","Westerveld","Drenthe",52.833003,6.1601381
+3762,"Wilhelminaoord","Westerveld","Drenthe",52.8572074,6.1666239
+3763,"Vledderveen","Westerveld","Drenthe",52.8763431,6.187924
+3764,"Doldersum","Westerveld","Drenthe",52.886922,6.2458838
+3765,"Boschoord","Westerveld","Drenthe",52.883333,6.216667
+3766,"Oosterstreek","Weststellingwerf","Friesland",52.899167,6.169167
+3767,"Zandhuizen","Weststellingwerf","Friesland",52.9117216,6.1526872
+3768,"Noordwolde","Weststellingwerf","Friesland",52.9306298,6.1361115
+3770,"Boijl","Weststellingwerf","Friesland",52.9101278,6.2007187
+3771,"Vinkega","Weststellingwerf","Friesland",52.872999,6.1151444
+3772,"De Hoeve","Weststellingwerf","Friesland",52.8868001,6.0884871
+3773,"Steggerda","Weststellingwerf","Friesland",52.8566917,6.0751422
+3774,"Peperga","Weststellingwerf","Friesland",52.8484746,6.0507283
+3775,"De Blesse","Weststellingwerf","Friesland",52.8428329,6.041826
+3776,"Blesdijke","Weststellingwerf","Friesland",52.8296248,6.0146236
+3777,"Gorredijk","Opsterland","Friesland",53.0034544,6.064626
+3779,"JonkerslÃ¢n","Opsterland","Friesland",52.97564,6.04255
+3780,"Langezwaag","Opsterland","Friesland",52.9824148,6.0025602
+3781,"Luxwoude","Opsterland","Friesland",52.9964646,5.9822194
+3782,"Tijnje","Opsterland","Friesland",53.031338,5.9934442
+3783,"Terwispel","Opsterland","Friesland",53.0192697,6.0493237
+3784,"Lippenhuizen","Opsterland","Friesland",53.0174444,6.0919597
+3785,"Hemrik","Opsterland","Friesland",53.0316772,6.1379988
+3786,"Jubbega","Heerenveen","Friesland",52.9748154,6.0950066
+3788,"Hoornsterzwaag","Heerenveen","Friesland",52.9983239,6.1723081
+3789,"Oudehorne","Heerenveen","Friesland",52.9609287,6.0765496
+3790,"Nieuwehorne","Heerenveen","Friesland",52.9483417,6.0570387
+3791,"Bontebok","Heerenveen","Friesland",52.9632199,6.0281857
+3792,"Oldeberkoop","Ooststellingwerf","Friesland",52.9390541,6.1277258
+3794,"Nijeberkoop","Ooststellingwerf","Friesland",52.9586587,6.191014
+3795,"Makkinga","Ooststellingwerf","Friesland",52.980487,6.2173244
+3797,"Langedijke","Ooststellingwerf","Friesland",52.9616811,6.2816475
+3798,"Appelscha","Ooststellingwerf","Friesland",52.9523997,6.3563031
+3799,"Ravenswoud","Ooststellingwerf","Friesland",52.9651208,6.3808774
+3800,"Fochteloo","Ooststellingwerf","Friesland",52.985614,6.3385027
+3803,"Haule","Ooststellingwerf","Friesland",53.0365305,6.3046863
+3804,"Haulerwijk","Ooststellingwerf","Friesland",53.0653054,6.3319233
+3805,"Waskemeer","Ooststellingwerf","Friesland",53.0563837,6.2813745
+3806,"Donkerbroek","Ooststellingwerf","Friesland",53.0173249,6.2349711
+3807,"Zorgvlied","Westerveld","Drenthe",52.9216165,6.2538379
+3808,"Wateren","Westerveld","Drenthe",52.9104343,6.2814045
+3809,"Oude Willem","Westerveld","Drenthe",52.9068106,6.3291884
+3810,"Heerenveen","Heerenveen","Friesland",52.9614637,5.9210856
+3819,"Terband","Heerenveen","Friesland",53.0060142,5.897299
+3820,"Oudeschoot","Heerenveen","Friesland",52.933158,5.9798679
+3821,"Nieuweschoot","Heerenveen","Friesland",52.9309449,5.9332436
+3822,"Oranjewoud","Heerenveen","Friesland",52.9504028,5.9633787
+3823,"Mildam","Heerenveen","Friesland",52.9349101,6.0030051
+3824,"Katlijk","Heerenveen","Friesland",52.9473703,6.0124351
+3825,"De Knipe","Heerenveen","Friesland",52.9685087,5.9674586
+3826,"Gersloot","Heerenveen","Friesland",53.0046927,5.96085
+3827,"Tjalleberd","Heerenveen","Friesland",52.9978296,5.9432282
+3828,"Luinjeberd","Heerenveen","Friesland",52.9918842,5.9247596
+3829,"Rottum","De Fryske Marren","Friesland",52.9356565,5.8917903
+3830,"Rotstergaast","De Fryske Marren","Friesland",52.9004303,5.8937014
+3831,"Rotsterhaule","De Fryske Marren","Friesland",52.9227609,5.8449816
+3832,"Sintjohannesga","De Fryske Marren","Friesland",52.9363021,5.8659471
+3833,"Oudehaske","De Fryske Marren","Friesland",52.9568858,5.8714262
+3834,"Nijehaske","De Fryske Marren","Friesland",52.9613501,5.8935762
+3835,"Vegelinsoord","De Fryske Marren","Friesland",52.9993439,5.8636397
+3836,"Haskerdijken","De Fryske Marren","Friesland",52.9927516,5.8820568
+3837,"Nieuwebrug","De Fryske Marren","Friesland",52.9907088,5.8849227
+3838,"Wolvega","Weststellingwerf","Friesland",52.8781093,5.9887014
+3841,"Oldeholtpade","Weststellingwerf","Friesland",52.8927613,6.047896
+3842,"Nijeholtpade","Weststellingwerf","Friesland",52.9124446,6.0783552
+3843,"Ter Idzard","Weststellingwerf","Friesland",52.9050559,6.0370666
+3844,"Oldeholtwolde","Weststellingwerf","Friesland",52.9064184,6.0107631
+3845,"Sonnega","Weststellingwerf","Friesland",52.8697601,5.9684037
+3846,"Oldetrijne","Weststellingwerf","Friesland",52.8619047,5.946056
+3847,"Nijetrijne","Weststellingwerf","Friesland",52.8429864,5.9086643
+3848,"Spanga","Weststellingwerf","Friesland",52.8188502,5.8850429
+3850,"Langelille","Weststellingwerf","Friesland",52.8423439,5.8440204
+3851,"Munnekeburen","Weststellingwerf","Friesland",52.8508842,5.8880353
+3852,"Oldelamer","Weststellingwerf","Friesland",52.8712795,5.9320965
+3853,"Nijelamer","Weststellingwerf","Friesland",52.8862115,5.9582476
+3854,"Nijeholtwolde","Weststellingwerf","Friesland",52.8959354,5.9871194
+3855,"Slijkenburg","Weststellingwerf","Friesland",52.8065575,5.8442817
+3856,"Akkrum","Heerenveen","Friesland",53.0381781,5.8488052
+3858,"Terherne","De Fryske Marren","Friesland",53.0410043,5.7814
+3859,"Nes","Heerenveen","Friesland",53.0683281,5.8652353
+3860,"Aldeboarn","Heerenveen","Friesland",53.0481093,5.8924892
+3861,"GoÃ«ngahuizen","Smallingerland","Friesland",53.0833333,5.8833333
+3862,"Joure","De Fryske Marren","Friesland",52.967918,5.796805
+3866,"Snikzwaag","De Fryske Marren","Friesland",52.9853496,5.7877901
+3867,"Haskerhorne","De Fryske Marren","Friesland",52.9533826,5.8293375
+3868,"Rohel","De Fryske Marren","Friesland",52.9174277,5.8318126
+3869,"Delfstrahuizen","De Fryske Marren","Friesland",52.8741795,5.8249106
+3870,"Goingarijp","De Fryske Marren","Friesland",53.0101991,5.7705574
+3871,"Broek","De Fryske Marren","Friesland",52.983056,5.777222
+3872,"Ouwsterhaule","De Fryske Marren","Friesland",52.9389359,5.8135725
+3873,"Ouwster-Nijega","De Fryske Marren","Friesland",52.9296763,5.8044253
+3874,"Oldeouwer","De Fryske Marren","Friesland",52.9181233,5.7982042
+3875,"Doniaga","De Fryske Marren","Friesland",52.9056497,5.747647
+3876,"Scharsterbrug","De Fryske Marren","Friesland",52.9430397,5.7776424
+3877,"Sint Nicolaasga","De Fryske Marren","Friesland",52.9254962,5.7409619
+3879,"Tjerkgaast","De Fryske Marren","Friesland",52.9035576,5.6783033
+3880,"Idskenhuizen","De Fryske Marren","Friesland",52.9283231,5.7137736
+3881,"Teroele","De Fryske Marren","Friesland",52.9350628,5.6934478
+3882,"Langweer","De Fryske Marren","Friesland",52.9583718,5.723091
+3883,"Boornzwaag","De Fryske Marren","Friesland",52.958372,5.7456541
+3884,"Legemeer","De Fryske Marren","Friesland",52.9394865,5.7289998
+3885,"Dijken","De Fryske Marren","Friesland",52.9511305,5.710463
+3886,"Koufurderrige","Súdwest-Fryslân","Friesland",52.9543965,5.6542861
+3887,"Lemmer","De Fryske Marren","Friesland",52.8460331,5.6949828
+3890,"Eesterga","De Fryske Marren","Friesland",52.868055,5.7283961
+3891,"Follega","De Fryske Marren","Friesland",52.8862034,5.7361296
+3892,"Oosterzee","De Fryske Marren","Friesland",52.8699773,5.7529451
+3894,"Bantega","De Fryske Marren","Friesland",52.8416244,5.7972027
+3895,"Echtenerbrug","De Fryske Marren","Friesland",52.8733749,5.822319
+3896,"Akmarijp","De Fryske Marren","Friesland",53.0056557,5.7886028
+3897,"Terkaple","De Fryske Marren","Friesland",53.0136865,5.7894517
+3898,"Woudsend","Súdwest-Fryslân","Friesland",52.9427599,5.6287027
+3899,"Smallebrugge","Súdwest-Fryslân","Friesland",52.9580538,5.6377756
+3900,"Indijk","Súdwest-Fryslân","Friesland",52.9467921,5.6018568
+3901,"IJpecolsga","Súdwest-Fryslân","Friesland",53.1641642,5.7817542
+3902,"Sloten","De Fryske Marren","Friesland",52.8945213,5.6457171
+3903,"Balk","De Fryske Marren","Friesland",53.0011262,6.2311672
+3905,"Wijckel","De Fryske Marren","Friesland",52.8889663,5.6247945
+3906,"Ruigahuizen","De Fryske Marren","Friesland",52.8815405,5.5704592
+3907,"Sondel","De Fryske Marren","Friesland",52.8711433,5.5976085
+3908,"Nijemirdum","De Fryske Marren","Friesland",52.8557002,5.5673222
+3909,"Oudemirdum","De Fryske Marren","Friesland",52.8494203,5.5332441
+3910,"Harich","De Fryske Marren","Friesland",52.9024442,5.5636659
+3911,"Rijs","De Fryske Marren","Friesland",52.8632514,5.4992868
+3912,"Mirns","De Fryske Marren","Friesland",52.8567456,5.4649598
+3913,"Bakhuizen","De Fryske Marren","Friesland",52.8686496,5.45515
+3914,"Elahuizen","De Fryske Marren","Friesland",52.9255427,5.5416776
+3915,"Oudega","De Fryske Marren","Friesland",52.9044748,5.5226678
+3916,"Kolderwolde","De Fryske Marren","Friesland",52.897222,5.51
+3917,"Hemelum","Súdwest-Fryslân","Friesland",52.880709,5.4560155
+3918,"Sneek","Súdwest-Fryslân","Friesland",53.0307872,5.6696146
+3927,"Gaastmeer","Súdwest-Fryslân","Friesland",52.9645319,5.5433936
+3928,"Idzega","Súdwest-Fryslân","Friesland",52.9799028,5.5533645
+3929,"Sandfirden","Súdwest-Fryslân","Friesland",52.9881299,5.5209776
+3931,"Blauwhuis","Súdwest-Fryslân","Friesland",53.0225,5.532222
+3932,"Westhem","Súdwest-Fryslân","Friesland",53.0156183,5.5500441
+3933,"Abbega","Súdwest-Fryslân","Friesland",53.0192891,5.5716955
+3934,"Oosthem","Súdwest-Fryslân","Friesland",53.0165259,5.6012921
+3935,"Heeg","Súdwest-Fryslân","Friesland",52.9715521,5.605224
+3936,"Hommerts","Súdwest-Fryslân","Friesland",52.981679,5.6501505
+3937,"Jutrijp","Súdwest-Fryslân","Friesland",52.994763,5.6500956
+3938,"Uitwellingerga","Súdwest-Fryslân","Friesland",53.0033721,5.7053841
+3939,"Oppenhuizen","Súdwest-Fryslân","Friesland",53.0125795,5.6964222
+3940,"Offingawier","Súdwest-Fryslân","Friesland",53.030926,5.6941529
+3941,"Gauw","Súdwest-Fryslân","Friesland",53.0585683,5.7140367
+3942,"GoÃ«nga","Súdwest-Fryslân","Friesland",53.05,5.7
+3943,"Scharnegoutum","Súdwest-Fryslân","Friesland",53.0643261,5.6802174
+3944,"LoÃ«nga","Súdwest-Fryslân","Friesland",53.05,5.6833333
+3945,"Tirns","Súdwest-Fryslân","Friesland",53.05892,5.6261417
+3946,"IJsbrechtum","Súdwest-Fryslân","Friesland",53.0419773,5.6325566
+3947,"Boazum","Súdwest-Fryslân","Friesland",53.0884393,5.6965448
+3948,"Britswert","Súdwest-Fryslân","Friesland",53.1122141,5.6756875
+3949,"Wieuwerd","Súdwest-Fryslân","Friesland",53.1097084,5.6897079
+3950,"Rien","Súdwest-Fryslân","Friesland",53.0959643,5.6578893
+3951,"Lutkewierum","Súdwest-Fryslân","Friesland",53.0886961,5.663273
+3952,"Dearsum","Súdwest-Fryslân","Friesland",53.086491,5.7161575
+3953,"Sibrandabuorren","Súdwest-Fryslân","Friesland",53.0683264,5.7208088
+3954,"IJlst","Súdwest-Fryslân","Friesland",52.9680597,5.604922
+3956,"Greonterp","Súdwest-Fryslân","Friesland",53.0155037,5.5190502
+3957,"Bolsward","Súdwest-Fryslân","Friesland",53.0569848,5.5356553
+3960,"Workum","Súdwest-Fryslân","Friesland",52.9601858,5.4131901
+3962,"Hindeloopen","Súdwest-Fryslân","Friesland",52.9426846,5.4012542
+3963,"Stavoren","Súdwest-Fryslân","Friesland",52.8829456,5.3607068
+3964,"Warns","Súdwest-Fryslân","Friesland",52.8743192,5.4107648
+3965,"Molkwerum","Súdwest-Fryslân","Friesland",52.9003905,5.39941
+3966,"Koudum","Súdwest-Fryslân","Friesland",52.914484,5.4482493
+3967,"It Heidenskip","Súdwest-Fryslân","Friesland",52.9488351,5.5018875
+3968,"Wommels","Súdwest-Fryslân","Friesland",53.1079328,5.590158
+3970,"Kûbaard","Súdwest-Fryslân","Friesland",53.1166667,5.5666667
+3971,"Iens","Súdwest-Fryslân","Friesland",53.1220978,5.6133302
+3972,"Easterein","Súdwest-Fryslân","Friesland",53.0972592,5.6189034
+3973,"Itens","Súdwest-Fryslân","Friesland",53.1014059,5.6432917
+3974,"Reahûs","Súdwest-Fryslân","Friesland",53.08372,5.63195
+3975,"Hidaard","Súdwest-Fryslân","Friesland",53.0794605,5.6032291
+3976,"Hartwerd","Súdwest-Fryslân","Friesland",53.0681155,5.5682032
+3977,"Burgwerd","Súdwest-Fryslân","Friesland",53.086119,5.5458909
+3978,"Hichtum","Súdwest-Fryslân","Friesland",53.0813543,5.525951
+3979,"Schettens","Súdwest-Fryslân","Friesland",53.0829415,5.4836023
+3980,"Longerhouw","Súdwest-Fryslân","Friesland",53.0692241,5.4784098
+3981,"Schraard","Súdwest-Fryslân","Friesland",53.0807887,5.4512145
+3982,"Wons","Súdwest-Fryslân","Friesland",53.0839813,5.423212
+3983,"Witmarsum","Súdwest-Fryslân","Friesland",53.1023274,5.4667442
+3984,"Pingjum","Súdwest-Fryslân","Friesland",53.1158288,5.4392565
+3985,"Zurich","Súdwest-Fryslân","Friesland",53.1111778,5.3947511
+3986,"Kornwerderzand","Súdwest-Fryslân","Friesland",53.0726456,5.337913
+3987,"Cornwerd","Súdwest-Fryslân","Friesland",53.0832949,5.3907465
+3988,"Makkum","Súdwest-Fryslân","Friesland",53.0561114,5.4032128
+3989,"Idsegahuizum","Súdwest-Fryslân","Friesland",53.0430986,5.4180548
+3990,"Piaam","Súdwest-Fryslân","Friesland",53.0385612,5.406829
+3991,"Gaast","Súdwest-Fryslân","Friesland",53.0163297,5.409823
+3992,"Allingawier","Súdwest-Fryslân","Friesland",53.0476961,5.4459764
+3993,"Exmorra","Súdwest-Fryslân","Friesland",53.055539,5.464973
+3994,"Ferwoude","Súdwest-Fryslân","Friesland",53.0057009,5.4332717
+3995,"Hieslum","Súdwest-Fryslân","Friesland",53.0083208,5.4885496
+3996,"Parrega","Súdwest-Fryslân","Friesland",53.0187592,5.4776928
+3997,"Dedgum","Súdwest-Fryslân","Friesland",53.0233306,5.4918158
+3998,"Tjerkwerd","Súdwest-Fryslân","Friesland",53.0423532,5.5025371
+3999,"Breezanddijk","Súdwest-Fryslân","Friesland",53.02,5.206944
+4000,"Nijland","Súdwest-Fryslân","Friesland",53.0509933,5.5765426
+4001,"Tjalhuizum","Súdwest-Fryslân","Friesland",53.0468753,5.6140568
+4002,"Folsgare","Súdwest-Fryslân","Friesland",53.0377002,5.6045421
+4003,"Wolsum","Súdwest-Fryslân","Friesland",53.0364094,5.545277
+4004,"Nijhuizum","Súdwest-Fryslân","Friesland",52.9801037,5.485533
+4005,"Franeker","Waadhoeke","Friesland",53.1855183,5.5381637
+4008,"Tzum","Waadhoeke","Friesland",53.1588616,5.5633501
+4009,"Hitzum","Waadhoeke","Friesland",53.1661334,5.5195989
+4010,"Achlum","Waadhoeke","Friesland",53.1480338,5.4847188
+4011,"Herbaijum","Waadhoeke","Friesland",53.1848118,5.4954675
+4012,"Dongjum","Waadhoeke","Friesland",53.2084093,5.5431818
+4013,"Boer","Waadhoeke","Friesland",53.2154852,5.5658264
+4014,"Ried","Waadhoeke","Friesland",53.2237365,5.5923017
+4015,"Peins","Waadhoeke","Friesland",53.206274,5.5944189
+4016,"Schalsum","Waadhoeke","Friesland",53.1981155,5.572159
+4017,"Zweins","Waadhoeke","Friesland",53.1909074,5.605222
+4018,"Skingen","Waadhoeke","Friesland",53.2015322,5.6175766
+4019,"Kimswerd","Súdwest-Fryslân","Friesland",53.141862,5.4394094
+4020,"Arum","Súdwest-Fryslân","Friesland",53.12943,5.4774311
+4021,"Lollum","Súdwest-Fryslân","Friesland",53.1258912,5.5309636
+4022,"Winsum","Waadhoeke","Friesland",53.1527192,5.6326533
+4023,"Húns","Leeuwarden","Friesland",53.1673,5.66671
+4024,"Leons","Leeuwarden","Friesland",53.1521734,5.6796607
+4025,"Baard","Leeuwarden","Friesland",53.1422439,5.66849
+4026,"Easterlittens","Leeuwarden","Friesland",53.1353215,5.6501712
+4027,"Baaium","Waadhoeke","Friesland",53.1648887,5.6222558
+4028,"Wjelsryp","Waadhoeke","Friesland",53.1666521,5.606909
+4029,"Spannum","Waadhoeke","Friesland",53.1428386,5.6076101
+4030,"Hinnaard","Súdwest-Fryslân","Friesland",53.1125561,5.6353678
+4031,"Waaksens","Súdwest-Fryslân","Friesland",53.1099958,5.5379145
+4032,"Tzummarum","Waadhoeke","Friesland",53.2374865,5.5498319
+4033,"Firdgum","Waadhoeke","Friesland",53.2485421,5.5601505
+4034,"Klooster-Lidlum","Waadhoeke","Friesland",53.2300428,5.5240626
+4035,"Oosterbierum","Waadhoeke","Friesland",53.2345932,5.5123207
+4036,"Sexbierum","Waadhoeke","Friesland",53.2173164,5.4843741
+4037,"Pietersbierum","Waadhoeke","Friesland",53.2157199,5.4764288
+4038,"Wijnaldum","Harlingen","Friesland",53.1956574,5.4597788
+4039,"Harlingen","Harlingen","Friesland",53.1753413,5.4182838
+4042,"Midlum","Harlingen","Friesland",53.1853369,5.476776
+4044,"West-Terschelling","Terschelling","Friesland",53.3642447,5.2168968
+4046,"Hee","Terschelling","Friesland",53.3755111,5.255395
+4047,"Kaart","Terschelling","Friesland",53.3766227,5.2703421
+4048,"Baaiduinen","Terschelling","Friesland",53.3773557,5.2868677
+4049,"Kinnum","Terschelling","Friesland",53.3753702,5.2761001
+4050,"Midsland","Terschelling","Friesland",53.382631,5.2874422
+4051,"Seerijp","Terschelling","Friesland",53.3799642,5.2974874
+4052,"Landerum","Terschelling","Friesland",53.3866214,5.300388
+4053,"Formerum","Terschelling","Friesland",53.3898535,5.3098956
+4054,"Lies","Terschelling","Friesland",53.3938612,5.3262428
+4057,"Vlieland","Vlieland","Friesland",53.2501844,4.9514271
+4058,"Leeuwarden","Leeuwarden","Friesland",53.223301,5.7516999
+4088,"Grou","Leeuwarden","Friesland",53.12021,5.8519
+4090,"Warten","Leeuwarden","Friesland",53.1500391,5.8981573
+4091,"Warstiens","Leeuwarden","Friesland",53.1613633,5.8627694
+4092,"Wergea","Leeuwarden","Friesland",53.1519991,5.8468646
+4093,"Eagum","Leeuwarden","Friesland",53.1306799,5.8290237
+4094,"Idaerd","Leeuwarden","Friesland",53.1187878,5.8126966
+4095,"Reduzum","Leeuwarden","Friesland",53.1169587,5.7853763
+4096,"Friens","Leeuwarden","Friesland",53.0994661,5.800429
+4097,"Jirnsum","Leeuwarden","Friesland",53.0806327,5.7936461
+4098,"Raerd","Súdwest-Fryslân","Friesland",53.0983382,5.760811
+4099,"Poppenwier","Súdwest-Fryslân","Friesland",53.0845118,5.7484015
+4100,"Tersoal","Súdwest-Fryslân","Friesland",53.0746615,5.7365693
+4101,"Easterwierrum","Súdwest-Fryslân","Friesland",53.1100959,5.7324943
+4102,"Mantgum","Leeuwarden","Friesland",53.1291256,5.7206493
+4103,"Jorwert","Leeuwarden","Friesland",53.144848,5.7118331
+4104,"Weidum","Leeuwarden","Friesland",53.1460597,5.7439155
+4105,"Bears","Leeuwarden","Friesland",53.1560181,5.7339966
+4106,"Jellum","Leeuwarden","Friesland",53.1686191,5.7402157
+4107,"Hilaard","Leeuwarden","Friesland",53.1649603,5.7117022
+4108,"Boksum","Waadhoeke","Friesland",53.176945,5.7280173
+4109,"Blessum","Waadhoeke","Friesland",53.180992,5.7105786
+4110,"Deinum","Waadhoeke","Friesland",53.1918429,5.7249778
+4111,"Marsum","Waadhoeke","Friesland",53.2107798,5.7266674
+4112,"Dronryp","Waadhoeke","Friesland",53.1966063,5.6449476
+4113,"Menaam","Waadhoeke","Friesland",53.2179186,5.6618266
+4114,"Slappeterp","Waadhoeke","Friesland",53.2130255,5.6218291
+4115,"Ingelum","Waadhoeke","Friesland",53.2248968,5.7134824
+4116,"Berltsum","Waadhoeke","Friesland",53.1800259,5.5477143
+4118,"Wier","Waadhoeke","Friesland",53.2512191,5.6237296
+4119,"Bitgum","Waadhoeke","Friesland",53.2370427,5.6884188
+4120,"Bitgummole","Waadhoeke","Friesland",53.2351562,5.7075843
+4121,"Minnertsga","Waadhoeke","Friesland",53.2509346,5.5980342
+4122,"Stiens","Leeuwarden","Friesland",53.266452,5.745992
+4124,"Feinsum","Leeuwarden","Friesland",53.2782673,5.7549925
+4125,"Hijum","Leeuwarden","Friesland",53.2905323,5.7665838
+4126,"Britsum","Leeuwarden","Friesland",53.2531453,5.7855529
+4127,"Koarnjum","Leeuwarden","Friesland",53.2437894,5.7807181
+4128,"Jelsum","Leeuwarden","Friesland",53.2346703,5.7830762
+4129,"Gytsjerk","Tytsjerksteradiel","Friesland",53.2410241,5.8907254
+4130,"Oentsjerk","Tytsjerksteradiel","Friesland",53.2533813,5.8987505
+4131,"MÃ»nein","Tytsjerksteradiel","Friesland",53.25164,5.91874
+4132,"Aldtsjerk","Tytsjerksteradiel","Friesland",53.2643034,5.8891236
+4133,"Readtsjerk","Dantumadiel","Friesland",53.2600828,5.9218173
+4134,"Alde Leie","Leeuwarden","Friesland",53.2880323,5.7349336
+4136,"Marrum","Noardeast-Fryslân","Friesland",53.322673,5.8018778
+4137,"Hallum","Noardeast-Fryslân","Friesland",53.3051209,5.784383
+4138,"Westhoek","Waadhoeke","Friesland",53.2760097,5.5607068
+4139,"Sint Annaparochie","Waadhoeke","Friesland",53.2764463,5.6570979
+4140,"Vrouwenparochie","Waadhoeke","Friesland",53.2800146,5.7030451
+4141,"Oude Bildtzijl","Waadhoeke","Friesland",53.3136219,5.708998
+4142,"Sint Jacobiparochie","Waadhoeke","Friesland",53.2728486,5.6087388
+4143,"Lekkum","Leeuwarden","Friesland",53.2256277,5.8203814
+4144,"Miedum","Leeuwarden","Friesland",53.2354527,5.8388712
+4145,"Snakkerburen","Leeuwarden","Friesland",53.220113,5.8096366
+4146,"Goutum","Leeuwarden","Friesland",53.17842,5.8069262
+4147,"Teerns","Leeuwarden","Friesland",53.1808429,5.8342596
+4148,"Hempens","Leeuwarden","Friesland",53.178766,5.8378606
+4149,"Swichum","Leeuwarden","Friesland",53.1539551,5.8186478
+4150,"Wirdum","Leeuwarden","Friesland",53.1500314,5.8050965
+4151,"Wytgaard","Leeuwarden","Friesland",53.140833,5.783889
+4152,"Wyns","Tytsjerksteradiel","Friesland",53.2514265,5.8323263
+4153,"Dokkum","Noardeast-Fryslân","Friesland",53.3109748,5.9948827
+4157,"DamwÃ¢ld","Dantumadiel","Friesland",53.283333,6
+4158,"Rinsumageast","Dantumadiel","Friesland",53.2973163,5.9498906
+4159,"SibrandahÃ»s","Dantumadiel","Friesland",53.316667,5.966667
+4160,"Jannum","Noardeast-Fryslân","Friesland",53.3124887,5.9027227
+4161,"BroeksterwÃ¢ld","Dantumadiel","Friesland",53.266667,6
+4162,"De Falom","Dantumadiel","Friesland",53.2634435,6.0077314
+4163,"Burdaard","Noardeast-Fryslân","Friesland",53.2977219,5.8692403
+4165,"WÃ¢lterswÃ¢ld","Dantumadiel","Friesland",53.3,6.033333
+4166,"Driezum","Dantumadiel","Friesland",53.2968837,6.045633
+4167,"Aalsum","Noardeast-Fryslân","Friesland",53.3378209,6.0033683
+4168,"Wetsens","Noardeast-Fryslân","Friesland",53.3474779,6.0332484
+4169,"Metslawier","Noardeast-Fryslân","Friesland",53.3606625,6.0665857
+4170,"Jouswier","Noardeast-Fryslân","Friesland",53.3499847,6.073475
+4172,"Ee","Noardeast-Fryslân","Friesland",53.3304259,6.1008417
+4173,"Engwierum","Noardeast-Fryslân","Friesland",53.3199914,6.1366541
+4174,"Anjum","Noardeast-Fryslân","Friesland",53.3743702,6.1266778
+4175,"Lioessens","Noardeast-Fryslân","Friesland",53.3805168,6.0890796
+4176,"Morra","Noardeast-Fryslân","Friesland",53.3719241,6.0879929
+4177,"Paesens","Noardeast-Fryslân","Friesland",53.4015212,6.0849873
+4178,"Oosternijkerk","Noardeast-Fryslân","Friesland",53.3791579,6.0535304
+4179,"Niawier","Noardeast-Fryslân","Friesland",53.3636696,6.0477812
+4180,"Wierum","Noardeast-Fryslân","Friesland",53.4013718,6.0159007
+4181,"Moddergat","Noardeast-Fryslân","Friesland",53.4030752,6.0819604
+4183,"Hantumhuizen","Noardeast-Fryslân","Friesland",53.3723979,5.9977785
+4184,"Ternaard","Noardeast-Fryslân","Friesland",53.3807711,5.965258
+4185,"Hantumeruitburen","Noardeast-Fryslân","Friesland",53.3599912,6.0026793
+4186,"Hantum","Noardeast-Fryslân","Friesland",53.3625326,5.9649229
+4187,"Hiaure","Noardeast-Fryslân","Friesland",53.3472454,5.9730214
+4188,"Holwerd","Noardeast-Fryslân","Friesland",53.3683775,5.9005378
+4189,"Waaxens","Noardeast-Fryslân","Friesland",53.3563815,5.9213459
+4190,"Brantgum","Noardeast-Fryslân","Friesland",53.3521088,5.9301891
+4191,"Foudgum","Noardeast-Fryslân","Friesland",53.3451929,5.9416273
+4192,"Raard","Noardeast-Fryslân","Friesland",53.3255822,5.9445867
+4193,"Bornwird","Noardeast-Fryslân","Friesland",53.3340004,5.9544077
+4194,"Hollum","Ameland","Friesland",53.4410245,5.6359584
+4196,"Ballum","Ameland","Friesland",53.4440723,5.6860721
+4199,"Schiermonnikoog","Schiermonnikoog","Friesland",53.4785962,6.1560311
+4200,"Blije","Noardeast-Fryslân","Friesland",53.3523013,5.8615714
+4201,"Ferwert","Noardeast-Fryslân","Friesland",53.3377628,5.824424
+4202,"Hegebeintum","Noardeast-Fryslân","Friesland",53.3368943,5.8503137
+4203,"Ginnum","Noardeast-Fryslân","Friesland",53.3225979,5.8745555
+4204,"Reitsum","Noardeast-Fryslân","Friesland",53.3210197,5.8912098
+4205,"Lichtaard","Noardeast-Fryslân","Friesland",53.3258678,5.9131033
+4206,"Jislum","Noardeast-Fryslân","Friesland",53.3124833,5.878267
+4207,"WÃ¢nswert","Noardeast-Fryslân","Friesland",53.3,5.85
+4208,"Drachten","Smallingerland","Friesland",53.119202,6.1297
+4216,"Kortehemmen","Smallingerland","Friesland",53.0837231,6.0683656
+4217,"Boornbergum","Smallingerland","Friesland",53.0824994,6.0439752
+4218,"De Wilgen","Smallingerland","Friesland",53.0995009,6.034125
+4219,"Smalle Ee","Smallingerland","Friesland",53.1036621,6.0183321
+4220,"De Veenhoop","Smallingerland","Friesland",53.0980115,5.9500655
+4222,"Nijega","Smallingerland","Friesland",53.1406092,6.0262654
+4223,"Opeinde","Smallingerland","Friesland",53.1347884,6.0555258
+4224,"De Tike","Smallingerland","Friesland",53.149723,6.0375953
+4225,"Rottevalle","Smallingerland","Friesland",53.1460571,6.1052008
+4226,"Drachtstercompagnie","Smallingerland","Friesland",53.1340722,6.1399365
+4227,"Houtigehage","Smallingerland","Friesland",53.1532187,6.143244
+4228,"Surhuisterveen","Achtkarspelen","Friesland",53.1827153,6.1666215
+4230,"Boelenslaan","Achtkarspelen","Friesland",53.1615492,6.1460059
+4231,"Wijnjewoude","Opsterland","Friesland",53.0386219,6.2175855
+4233,"Bakkeveen","Opsterland","Friesland",53.079226,6.2583855
+4234,"Beetsterzwaag","Opsterland","Friesland",53.0594184,6.0782764
+4235,"Nij Beets","Opsterland","Friesland",53.0702908,6.0032155
+4236,"Olterterp","Opsterland","Friesland",53.0665481,6.1006335
+4237,"Ureterp","Opsterland","Friesland",53.0956086,6.1684547
+4238,"Siegerswoude","Opsterland","Friesland",53.0926189,6.2174536
+4239,"Frieschepalen","Opsterland","Friesland",53.1096648,6.2058479
+4240,"Burgum","Tytsjerksteradiel","Friesland",53.20378,6.00045
+4242,"Hurdegaryp","Tytsjerksteradiel","Friesland",53.21487,5.941003
+4243,"Tytsjerk","Tytsjerksteradiel","Friesland",53.2143699,5.9117022
+4244,"Ryptsjerk","Tytsjerksteradiel","Friesland",53.2244179,5.9159708
+4245,"Noardburgum","Tytsjerksteradiel","Friesland",53.2252228,6.0034093
+4246,"Jistrum","Tytsjerksteradiel","Friesland",53.2120483,6.0668986
+4247,"Eastermar","Tytsjerksteradiel","Friesland",53.174894,6.059576
+4249,"Sumar","Tytsjerksteradiel","Friesland",53.1776214,6.0024829
+4250,"Garyp","Tytsjerksteradiel","Friesland",53.1673127,5.9703906
+4251,"EarnewÃ¢ld","Tytsjerksteradiel","Friesland",53.13121,5.94211
+4252,"SuwÃ¢ld","Tytsjerksteradiel","Friesland",53.18065,5.9228
+4253,"FeanwÃ¢lden","Dantumadiel","Friesland",53.233333,6
+4254,"De Westereen","Dantumadiel","Friesland",53.2538563,6.0388937
+4256,"Harkema","Achtkarspelen","Friesland",53.1896377,6.1321923
+4258,"Surhuizum","Achtkarspelen","Friesland",53.2048729,6.1790038
+4259,"Augustinusga","Achtkarspelen","Friesland",53.2182273,6.1608938
+4260,"Buitenpost","Achtkarspelen","Friesland",53.2524947,6.1503754
+4261,"Twijzel","Achtkarspelen","Friesland",53.233302,6.0906307
+4262,"Twijzelerheide","Achtkarspelen","Friesland",53.2409366,6.0436067
+4263,"Kootstertille","Achtkarspelen","Friesland",53.2118299,6.0922821
+4264,"Drogeham","Achtkarspelen","Friesland",53.201959,6.1111271
+4265,"Kollum","Noardeast-Fryslân","Friesland",53.27954,6.151259
+4267,"Augsbuurt","Noardeast-Fryslân","Friesland",53.266667,6.163889
+4268,"Kollumerpomp","Noardeast-Fryslân","Friesland",53.3040887,6.1902579
+4269,"Oudwoude","Noardeast-Fryslân","Friesland",53.2833333,6.1166667
+4270,"Westergeest","Noardeast-Fryslân","Friesland",53.2908134,6.0847402
+4271,"Triemen","Noardeast-Fryslân","Friesland",53.2745312,6.0939959
+4272,"Veenklooster","Noardeast-Fryslân","Friesland",53.2633242,6.1034188
+4273,"Kollumerzwaag","Noardeast-Fryslân","Friesland",53.2624507,6.0760993
+4274,"Zwagerbosch","Noardeast-Fryslân","Friesland",53.246504,6.0467823
+4275,"Roden","Noordenveld","Drenthe",53.1458376,6.4557934
+4278,"Lieveren","Noordenveld","Drenthe",53.1152374,6.4535439
+4279,"Roderesch","Noordenveld","Drenthe",53.1159237,6.4255404
+4282,"Nieuw-Roden","Noordenveld","Drenthe",53.1282095,6.3793879
+4283,"Nietap","Noordenveld","Drenthe",53.1587848,6.4008223
+4284,"Leutingewolde","Noordenveld","Drenthe",53.1571216,6.4302357
+4285,"Foxwolde","Noordenveld","Drenthe",53.1522318,6.450822
+4286,"Roderwolde","Noordenveld","Drenthe",53.1685593,6.469976
+4287,"Peize","Noordenveld","Drenthe",53.1455424,6.5021714
+4289,"Norg","Noordenveld","Drenthe",53.0655812,6.4610648
+4291,"Langelo","Noordenveld","Drenthe",53.0931346,6.4449841
+4292,"Peest","Noordenveld","Drenthe",53.0601919,6.5011951
+4293,"Zuidvelde","Noordenveld","Drenthe",53.0448902,6.4577808
+4295,"Westervelde","Noordenveld","Drenthe",53.0541077,6.4437503
+4296,"Veenhuizen","Noordenveld","Drenthe",53.0306682,6.3939878
+4297,"Een","Noordenveld","Drenthe",53.0744772,6.393004
+4298,"Een West","Noordenveld","Drenthe",53.0844152,6.3392795
+4299,"Leek","Westerkwartier","Groningen",53.2137535,6.5711367
+4302,"Midwolde","Westerkwartier","Groningen",53.1804874,6.392191
+4303,"Tolbert","Westerkwartier","Groningen",53.1714774,6.3590951
+4304,"Boerakker","Westerkwartier","Groningen",53.1991307,6.3416175
+4307,"Marum","Westerkwartier","Groningen",53.1462522,6.2673259
+4308,"Nuis","Westerkwartier","Groningen",53.1513902,6.3023941
+4309,"Niebert","Westerkwartier","Groningen",53.157657,6.3206015
+4310,"Jonkersvaart","Westerkwartier","Groningen",53.128863,6.2998715
+4311,"De Wilp","Westerkwartier","Groningen",53.1174045,6.2527896
+4312,"Assen","Assen","Drenthe",52.98296,6.56833
+4321,"Loon","Assen","Drenthe",53.0128714,6.6119947
+4322,"Beilen","Midden-Drenthe","Drenthe",52.8576935,6.497991
+4326,"Hooghalen","Midden-Drenthe","Drenthe",52.9210493,6.5398545
+4327,"Hijken","Midden-Drenthe","Drenthe",52.8954729,6.4980439
+4328,"Oranje","Midden-Drenthe","Drenthe",52.9072505,6.4451127
+4329,"Spier","Midden-Drenthe","Drenthe",52.8201732,6.469235
+4330,"Wijster","Midden-Drenthe","Drenthe",52.8157994,6.5144886
+4331,"Drijber","Midden-Drenthe","Drenthe",52.7918146,6.5386597
+4332,"Bovensmilde","Midden-Drenthe","Drenthe",52.699443,6.1893769
+4334,"Smilde","Midden-Drenthe","Drenthe",52.9491879,6.4466811
+4335,"Hoogersmilde","Midden-Drenthe","Drenthe",52.9072524,6.3982293
+4336,"Westerbork","Midden-Drenthe","Drenthe",52.830682,6.6043242
+4338,"Zuidveld","Midden-Drenthe","Drenthe",52.8661056,6.6358873
+4339,"Zwiggelte","Midden-Drenthe","Drenthe",52.8731378,6.587324
+4341,"Bruntinge","Midden-Drenthe","Drenthe",52.8173201,6.5825587
+4342,"Mantinge","Midden-Drenthe","Drenthe",52.8033399,6.613972
+4343,"Balinge","Midden-Drenthe","Drenthe",52.8110432,6.6294951
+4344,"Garminge","Midden-Drenthe","Drenthe",52.8196509,6.6236719
+4345,"Witteveen","Midden-Drenthe","Drenthe",52.8135919,6.66051
+4346,"Orvelte","Midden-Drenthe","Drenthe",52.8438688,6.6598629
+4347,"Elp","Midden-Drenthe","Drenthe",52.8813809,6.6456093
+4348,"Schoonloo","Aa en Hunze","Drenthe",52.9055688,6.7003997
+4349,"Grolloo","Aa en Hunze","Drenthe",52.9347299,6.6725846
+4350,"Vredenheim","Aa en Hunze","Drenthe",52.9470985,6.6561129
+4351,"Amen","Aa en Hunze","Drenthe",52.942347,6.6122589
+4352,"Papenvoort","Aa en Hunze","Drenthe",52.952215,6.7026832
+4353,"Marwijksoord","Aa en Hunze","Drenthe",52.9630792,6.6596679
+4354,"Nooitgedacht","Aa en Hunze","Drenthe",52.9680301,6.6648143
+4355,"Rolde","Aa en Hunze","Drenthe",52.9871552,6.6469982
+4356,"Nijlande","Aa en Hunze","Drenthe",52.9739045,6.6267244
+4357,"Eldersloo","Aa en Hunze","Drenthe",52.9650281,6.6177493
+4358,"Ekehaar","Aa en Hunze","Drenthe",52.9530557,6.6027332
+4359,"Geelbroek","Aa en Hunze","Drenthe",52.9504715,6.572175
+4360,"Eleveld","Aa en Hunze","Drenthe",52.9576059,6.5822239
+4361,"Deurze","Aa en Hunze","Drenthe",52.9845549,6.6092025
+4362,"Balloo","Aa en Hunze","Drenthe",52.9960925,6.6311548
+4363,"BalloÃ«rveld","Aa en Hunze","Drenthe",53.02385,6.63893
+4364,"Gieten","Aa en Hunze","Drenthe",53.0017276,6.750652
+4366,"Gasselte","Aa en Hunze","Drenthe",52.9712794,6.7878789
+4367,"Eext","Aa en Hunze","Drenthe",53.0177945,6.7357844
+4368,"Eexterzandvoort","Aa en Hunze","Drenthe",53.0324155,6.7867326
+4369,"Anderen","Aa en Hunze","Drenthe",53.001206,6.6852742
+4370,"Gasteren","Aa en Hunze","Drenthe",53.0359552,6.6630831
+4371,"Anloo","Aa en Hunze","Drenthe",53.0430181,6.6980796
+4372,"Annen","Aa en Hunze","Drenthe",53.0589104,6.7213678
+4373,"Schipborg","Aa en Hunze","Drenthe",53.0720429,6.6685006
+4374,"Zuidlaren","Tynaarlo","Drenthe",53.092624,6.6845473
+4377,"De Groeve","Tynaarlo","Drenthe",53.1110383,6.7113367
+4378,"Zuidlaarderveen","Tynaarlo","Drenthe",53.1044897,6.7495445
+4379,"Midlaren","Tynaarlo","Drenthe",53.1096514,6.6778555
+4380,"Noordlaren","Groningen","Groningen",53.1209975,6.6655157
+4381,"Vries","Tynaarlo","Drenthe",53.0798822,6.6021718
+4383,"Tynaarlo","Tynaarlo","Drenthe",53.0784318,6.6145455
+4384,"Zeegse","Tynaarlo","Drenthe",53.0687007,6.6455437
+4386,"Taarlo","Tynaarlo","Drenthe",53.0331236,6.6250169
+4387,"Rhee","Assen","Drenthe",53.0326451,6.5661433
+4388,"Ter Aard","Assen","Drenthe",53.0285059,6.549913
+4389,"Zeijerveld","Assen","Drenthe",53.0358294,6.5227203
+4390,"Zeijerveen","Assen","Drenthe",53.0154757,6.5171068
+4391,"Zeijen","Tynaarlo","Drenthe",53.0473498,6.5465287
+4392,"Ubbena","Assen","Drenthe",53.0450071,6.5729058
+4393,"De Punt","Tynaarlo","Drenthe",53.1169407,6.6039099
+4394,"Yde","Tynaarlo","Drenthe",53.1138301,6.5906939
+4395,"Winde","Tynaarlo","Drenthe",53.1268765,6.527232
+4396,"Bunne","Tynaarlo","Drenthe",53.1177942,6.5337887
+4397,"Donderen","Tynaarlo","Drenthe",53.0956393,6.5462217
+4398,"Stadskanaal","Stadskanaal","Groningen",52.9890052,6.9529762
+4402,"Gieterveen","Aa en Hunze","Drenthe",53.0252696,6.8358863
+4403,"Nieuwediep","Aa en Hunze","Drenthe",53.0400171,6.8605341
+4404,"Gasselternijveen","Aa en Hunze","Drenthe",52.9863205,6.8460424
+4405,"Gasselternijveenschemond","Aa en Hunze","Drenthe",52.9950118,6.8973968
+4406,"Nieuw-Buinen","Borger-Odoorn","Drenthe",52.9546087,6.9293619
+4407,"Drouwenermond","Borger-Odoorn","Drenthe",52.9786094,6.9059109
+4408,"Buinerveen","Borger-Odoorn","Drenthe",52.9348639,6.8804671
+4409,"Drouwenerveen","Borger-Odoorn","Drenthe",52.9700625,6.8499816
+4410,"Bronnegerveen","Borger-Odoorn","Drenthe",52.9547586,6.8392262
+4411,"Bronneger","Borger-Odoorn","Drenthe",52.9470825,6.8161901
+4412,"Buinen","Borger-Odoorn","Drenthe",52.9318136,6.8355674
+4413,"Borger","Borger-Odoorn","Drenthe",52.9234797,6.786168
+4415,"Drouwen","Borger-Odoorn","Drenthe",52.9509555,6.7973295
+4416,"Westdorp","Borger-Odoorn","Drenthe",52.9046028,6.7669194
+4417,"Ellertshaar","Borger-Odoorn","Drenthe",52.8930072,6.737203
+4418,"Ees","Borger-Odoorn","Drenthe",52.9082324,6.8061317
+4419,"Eesergroen","Borger-Odoorn","Drenthe",52.886185,6.7764114
+4420,"Vlagtwedde","Westerwolde","Groningen",52.9469803,7.1458159
+4422,"Bourtange","Westerwolde","Groningen",53.0066519,7.1922626
+4423,"Sellingen","Westerwolde","Groningen",52.9452115,7.1485497
+4425,"Ter Apel","Westerwolde","Groningen",52.8740037,7.0603333
+4427,"Ter Apelkanaal","Westerwolde","Groningen",52.9030766,7.0489563
+4428,"Zandberg","Borger-Odoorn","Drenthe",52.9185419,7.025768
+4429,"Veelerveen","Westerwolde","Groningen",53.0566004,7.1265808
+4430,"Tweede ExloÃ«rmond","Borger-Odoorn","Drenthe",52.9166667,6.9666667
+4431,"Eerste ExloÃ«rmond","Borger-Odoorn","Drenthe",52.95,6.9666667
+4432,"ExloÃ«rveen","Borger-Odoorn","Drenthe",52.9,6.9
+4433,"Musselkanaal","Stadskanaal","Groningen",52.9297355,7.0171346
+4435,"Mussel","Stadskanaal","Groningen",52.9567772,7.0387702
+4437,"Onstwedde","Stadskanaal","Groningen",53.0329259,7.0404253
+4438,"Hoogezand","Midden-Groningen","Groningen",53.1624164,6.7548238
+4442,"Kiel-Windeweer","Midden-Groningen","Groningen",53.1159218,6.7769511
+4443,"Kropswolde","Midden-Groningen","Groningen",53.1435452,6.7257669
+4444,"Foxhol","Midden-Groningen","Groningen",53.1687067,6.7186336
+4445,"Westerbroek","Midden-Groningen","Groningen",53.1841159,6.6867075
+4446,"Waterhuizen","Midden-Groningen","Groningen",53.1865585,6.6518275
+4447,"Sappemeer","Midden-Groningen","Groningen",53.1642721,6.787454
+4449,"Kolham","Midden-Groningen","Groningen",53.1822731,6.7446024
+4450,"Scharmer","Midden-Groningen","Groningen",53.2045019,6.7063246
+4451,"Harkstede","Midden-Groningen","Groningen",53.2138533,6.7004451
+4452,"Woudbloem","Midden-Groningen","Groningen",53.2171156,6.7381356
+4453,"Froombosch","Midden-Groningen","Groningen",53.1940672,6.7802855
+4454,"Slochteren","Midden-Groningen","Groningen",53.2193699,6.8070873
+4456,"Lageland","Midden-Groningen","Groningen",53.2410519,6.6873459
+4457,"Luddeweer","Midden-Groningen","Groningen",53.252436,6.7402444
+4458,"Overschild","Midden-Groningen","Groningen",53.2821234,6.7853193
+4459,"Schildwolde","Midden-Groningen","Groningen",53.2317414,6.815061
+4460,"Hellum","Midden-Groningen","Groningen",53.238146,6.8380764
+4461,"Siddeburen","Midden-Groningen","Groningen",53.2475764,6.8643285
+4462,"Steendam","Midden-Groningen","Groningen",53.2748765,6.8423697
+4463,"Borgercompagnie","Midden-Groningen","Groningen",53.1199229,6.8177796
+4465,"Tripscompagnie","Midden-Groningen","Groningen",53.138056,6.825
+4466,"Noordbroek","Midden-Groningen","Groningen",53.1982756,6.8729858
+4467,"Zuidbroek","Midden-Groningen","Groningen",53.1704058,6.8621731
+4468,"Veendam","Veendam","Groningen",53.1015179,6.8914903
+4474,"Wildervank","Veendam","Groningen",53.073946,6.8586112
+4475,"Muntendam","Midden-Groningen","Groningen",53.1350842,6.8689358
+4476,"Meeden","Midden-Groningen","Groningen",53.1387725,6.9284995
+4477,"Annerveenschekanaal","Aa en Hunze","Drenthe",53.0773086,6.8025962
+4478,"Oud-Annerveen","Aa en Hunze","Drenthe",53.088611,6.760556
+4480,"Nieuw-Annerveen","Aa en Hunze","Drenthe",53.0660183,6.7759541
+4481,"Eexterveen","Aa en Hunze","Drenthe",53.0523249,6.8040642
+4482,"Eexterveensche kanaal","Aa en Hunze","Drenthe",53.0592081,6.831961
+4485,"Nieuwe Pekela","Pekela","Groningen",53.0646944,6.9462204
+4486,"Oude Pekela","Pekela","Groningen",53.1032425,7.0064744
+4487,"Winschoten","Oldambt","Groningen",53.1439677,7.0389833
+4493,"Heiligerlee","Oldambt","Groningen",53.1549624,7.0118901
+4494,"Westerlee","Oldambt","Groningen",53.1543038,6.9954192
+4495,"Scheemda","Oldambt","Groningen",53.1763506,6.9723944
+4496,"Midwolda","Oldambt","Groningen",53.201251,7.0027091
+4497,"Oostwold","Oldambt","Groningen",53.2028627,7.0448525
+4498,"Finsterwolde","Oldambt","Groningen",53.1979816,7.0854038
+4499,"Blauwestad","Oldambt","Groningen",53.166944,7.035556
+4500,"Beerta","Oldambt","Groningen",53.1744661,7.0971058
+4501,"Nieuw-Beerta","Oldambt","Groningen",53.1892256,7.1625112
+4502,"Drieborg","Oldambt","Groningen",53.2060039,7.1813281
+4503,"Oudezijl","Oldambt","Groningen",53.1858798,7.1921148
+4504,"Bad Nieuweschans","Oldambt","Groningen",53.183333,7.2
+4505,"Bellingwolde","Westerwolde","Groningen",53.110946,7.1786335
+4506,"Oudeschans","Westerwolde","Groningen",53.1384698,7.1407322
+4507,"Blijham","Westerwolde","Groningen",53.1069246,7.0749521
+4508,"Wedde","Westerwolde","Groningen",53.0697175,7.0748337
+4509,"Vriescheloo","Westerwolde","Groningen",53.0707014,7.1148494
+4510,"Groningen","Groningen","Groningen",53.214906,6.5597797
+4546,"Matsloot","Noordenveld","Drenthe",53.2,6.466667
+4551,"Onnen","Groningen","Groningen",53.1547795,6.6434991
+4552,"Glimmen","Groningen","Groningen",53.1407193,6.62846
+4553,"Eelde","Tynaarlo","Drenthe",53.1331083,6.564273
+4554,"Paterswolde","Tynaarlo","Drenthe",53.1468755,6.5635713
+4555,"Eelderwolde","Tynaarlo","Drenthe",53.1787103,6.5425821
+4556,"Sauwerd","Het Hogeland","Groningen",53.294304,6.5328391
+4557,"Wetsinge","Het Hogeland","Groningen",53.300556,6.530556
+4558,"Adorp","Het Hogeland","Groningen",53.2746405,6.5339811
+4559,"Bedum","Het Hogeland","Groningen",53.3008708,6.6008939
+4563,"Glas","Groningen","Groningen",52.9676555,6.965779
+4565,"Ten Post","Groningen","Groningen",53.2967087,6.7293486
+4566,"Winneweer","Groningen","Groningen",53.3105523,6.744934
+4567,"Lellens","Groningen","Groningen",53.3010629,6.7086477
+4568,"Woltersum","Groningen","Groningen",53.2708216,6.7315116
+4569,"Sint Annen","Groningen","Groningen",53.2974996,6.6650544
+4570,"Thesinge","Groningen","Groningen",53.2681438,6.6512343
+4571,"Garmerwolde","Groningen","Groningen",53.2486932,6.6482078
+4572,"Zuidhorn","Westerkwartier","Groningen",53.2488754,6.4067984
+4574,"Noordhorn","Westerkwartier","Groningen",53.2608598,6.3953353
+4575,"Briltil","Westerkwartier","Groningen",53.242432,6.3885837
+4576,"Enumatil","Westerkwartier","Groningen",53.2153515,6.4172697
+4578,"Oldekerk","Westerkwartier","Groningen",53.2192619,6.3393857
+4579,"Niekerk","Het Hogeland","Groningen",53.2256442,6.3537394
+4581,"Lucaswolde","Westerkwartier","Groningen",53.1836312,6.3002186
+4582,"Lettelbert","Westerkwartier","Groningen",53.189028,6.4056003
+4584,"Aduard","Westerkwartier","Groningen",53.2567715,6.4596001
+4585,"Den Horn","Westerkwartier","Groningen",53.2271094,6.4463151
+4587,"Niezijl","Westerkwartier","Groningen",53.2667159,6.3468783
+4589,"Grijpskerk","Westerkwartier","Groningen",53.2636135,6.306376
+4590,"Pieterzijl","Westerkwartier","Groningen",53.280892,6.2693964
+4591,"Visvliet","Westerkwartier","Groningen",53.2663232,6.2507037
+4592,"Burum","Noardeast-Fryslân","Friesland",53.2733128,6.2299369
+4593,"Warfstermolen","Noardeast-Fryslân","Friesland",53.2955171,6.2329561
+4594,"Munnekezijl","Noardeast-Fryslân","Friesland",53.3039412,6.2715022
+4595,"Grootegast","Westerkwartier","Groningen",53.2138154,6.278294
+4597,"Sebaldeburen","Westerkwartier","Groningen",53.2206552,6.3094299
+4598,"Doezum","Westerkwartier","Groningen",53.1999099,6.2485292
+4599,"Kornhorn","Westerkwartier","Groningen",53.1811895,6.2425921
+4600,"Opende","Westerkwartier","Groningen",53.1743619,6.1983669
+4601,"Lutjegast","Westerkwartier","Groningen",53.234684,6.2574597
+4602,"Stroobos","Achtkarspelen","Friesland",53.2387472,6.2185404
+4604,"Gerkesklooster","Achtkarspelen","Friesland",53.2411194,6.2074842
+4605,"Kommerzijl","Westerkwartier","Groningen",53.2968455,6.309849
+4607,"Oldehove","Westerkwartier","Groningen",53.3037688,6.3962634
+4608,"Niehove","Westerkwartier","Groningen",53.2899865,6.3666981
+4609,"Lauwerzijl","Westerkwartier","Groningen",53.3112927,6.2968599
+4610,"Saaksum","Westerkwartier","Groningen",53.3135125,6.4181432
+4611,"Ezinge","Het Hogeland","Groningen",53.3109973,6.4398085
+4612,"Feerwerd","Het Hogeland","Groningen",53.306512,6.4660335
+4613,"Garnwerd","Het Hogeland","Groningen",53.3041279,6.4927435
+4614,"Appingedam","Eemsdelta","Groningen",53.3204059,6.8574009
+4618,"Krewerd","Eemsdelta","Groningen",53.3546854,6.8483261
+4619,"Holwierde","Eemsdelta","Groningen",53.3582111,6.8715636
+4620,"Bierum","Eemsdelta","Groningen",53.3812415,6.8600041
+4621,"Losdorp","Eemsdelta","Groningen",53.3753644,6.8355789
+4622,"Godlinze","Eemsdelta","Groningen",53.372001,6.8132272
+4624,"Oosterwijtwerd","Eemsdelta","Groningen",53.3375213,6.8146678
+4625,"Leermens","Eemsdelta","Groningen",53.3460884,6.7976523
+4626,"Eenum","Eemsdelta","Groningen",53.3394215,6.7798369
+4627,"Zeerijp","Eemsdelta","Groningen",53.3479644,6.7621522
+4628,"'t Zandt","Eemsdelta","Groningen",53.3661197,6.7744058
+4630,"Garrelsweer","Eemsdelta","Groningen",53.3110984,6.7695588
+4631,"Loppersum","Eemsdelta","Groningen",53.3321749,6.7479874
+4632,"Stedum","Eemsdelta","Groningen",53.3223306,6.6932859
+4633,"Westeremden","Eemsdelta","Groningen",53.3433579,6.7114019
+4634,"Garsthuizen","Eemsdelta","Groningen",53.3685301,6.7128526
+4635,"Startenhuizen","Het Hogeland","Groningen",53.3678436,6.7099167
+4637,"Delfzijl","Eemsdelta","Groningen",53.3321461,6.9235065
+4642,"Farmsum","Eemsdelta","Groningen",53.3230048,6.92796
+4643,"Meedhuizen","Eemsdelta","Groningen",53.287555,6.9113476
+4644,"Tjuchem","Midden-Groningen","Groningen",53.2797996,6.8784014
+4645,"'t Waar","Oldambt","Groningen",53.2238038,6.9411429
+4646,"Nieuw-Scheemda","Oldambt","Groningen",53.209444,6.942778
+4647,"Nieuwolda","Oldambt","Groningen",53.2448575,6.9745486
+4648,"Wagenborgen","Eemsdelta","Groningen",53.256161,6.9305903
+4649,"Woldendorp","Eemsdelta","Groningen",53.273195,7.0297912
+4650,"Termunten","Eemsdelta","Groningen",53.2969035,7.0461427
+4651,"Termunterzijl","Eemsdelta","Groningen",53.3,7.033333
+4652,"Borgsweer","Eemsdelta","Groningen",53.297626,7.0137074
+4655,"Baflo","Het Hogeland","Groningen",53.3626014,6.514347
+4656,"Tinallinge","Het Hogeland","Groningen",53.3572921,6.535116
+4657,"Rasquert","Het Hogeland","Groningen",53.3683436,6.5172017
+4658,"Den Andel","Het Hogeland","Groningen",53.3929082,6.5088277
+4659,"Saaxumhuizen","Het Hogeland","Groningen",53.3803878,6.4828482
+4660,"Onderdendam","Het Hogeland","Groningen",53.334958,6.5888657
+4661,"Mensingeweer","Het Hogeland","Groningen",53.3516434,6.4648158
+4662,"Schouwerzijl","Het Hogeland","Groningen",53.3320492,6.4502452
+4663,"Warfhuizen","Het Hogeland","Groningen",53.3424905,6.4255934
+4664,"Wehe-Den Hoorn","Het Hogeland","Groningen",53.3606579,6.4174547
+4665,"Leens","Het Hogeland","Groningen",53.3592831,6.3788203
+4666,"Zuurdijk","Het Hogeland","Groningen",53.3376067,6.3770336
+4667,"Eenrum","Het Hogeland","Groningen",53.3646973,6.4610716
+4668,"Pieterburen","Het Hogeland","Groningen",53.4007222,6.4538674
+4669,"Westernieland","Het Hogeland","Groningen",53.4012414,6.483094
+4670,"Ulrum","Het Hogeland","Groningen",53.3598514,6.3285821
+4673,"Houwerzijl","Het Hogeland","Groningen",53.3358028,6.3412882
+4674,"Zoutkamp","Het Hogeland","Groningen",53.3380226,6.3031143
+4675,"Vierhuizen","Het Hogeland","Groningen",53.3602891,6.2912261
+4676,"Lauwersoog","Het Hogeland","Groningen",53.4053662,6.2120483
+4677,"Kloosterburen","Het Hogeland","Groningen",53.3873598,6.3912951
+4678,"Hornhuizen","Het Hogeland","Groningen",53.3883106,6.3597681
+4679,"Eemshaven","Het Hogeland","Groningen",53.4475,6.801389
+4680,"Uithuizen","Het Hogeland","Groningen",53.4084022,6.673905
+4682,"Uithuizermeeden","Het Hogeland","Groningen",53.4143783,6.7255617
+4683,"Roodeschool","Het Hogeland","Groningen",53.4202348,6.7641787
+4684,"Oudeschip","Het Hogeland","Groningen",53.430506,6.8233997
+4685,"Oosternieland","Het Hogeland","Groningen",53.4012414,6.7552403
+4686,"Oldenzijl","Het Hogeland","Groningen",53.3937428,6.7163208
+4687,"Zijldijk","Eemsdelta","Groningen",53.3939695,6.7570084
+4688,"Usquert","Het Hogeland","Groningen",53.4034398,6.6120412
+4689,"Warffum","Het Hogeland","Groningen",53.393408,6.5592591
+4690,"Middelstum","Eemsdelta","Groningen",53.3354802,6.6692011
+4692,"Huizinge","Eemsdelta","Groningen",53.3452057,6.6736326
+4693,"Westerwijtwerd","Eemsdelta","Groningen",53.3339842,6.6445489
+4694,"Toornwerd","Eemsdelta","Groningen",53.3538973,6.6359236
+4695,"Kantens","Het Hogeland","Groningen",53.3654395,6.6337947
+4696,"Eppenhuizen","Het Hogeland","Groningen",53.3812944,6.6968944
+4697,"Zandeweer","Het Hogeland","Groningen",53.3875127,6.6811208
+4699,"Stitswerd","Het Hogeland","Groningen",53.3608768,6.5992932
